@@ -1,0 +1,11 @@
+table.upcoming-events {
+	margin-top: 40px;
+}
+
+table.upcoming-events th {
+	padding-right: 30px;
+}
+
+table.upcoming-events th, table.upcoming-events td {
+	padding-bottom: 0.5em;
+}
