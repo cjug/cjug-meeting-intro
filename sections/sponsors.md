@@ -1,4 +1,4 @@
 # Sponsors
 
 
-![HERE](images/HERE-logo.jpeg)
+![HERE](images/HERE-logo.jpg)
