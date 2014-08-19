@@ -3,12 +3,7 @@
 
 ## The bathrooms are...
 
-Down the hall, follow the signs.
-
-
-## The wifi code is...
-
-Also on the wall.
+Straight out the door all the way down the hall on the left.
 
 
 ## Food & drink are...
