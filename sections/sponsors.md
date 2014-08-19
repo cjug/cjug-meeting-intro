@@ -1,7 +1,4 @@
 # Sponsors
 
 
-![Critical Mass](images/critical-mass.gif)
-
-
-![GoHealth](images/gohealth.png)
+![HERE](images/HERE-logo.jpeg)

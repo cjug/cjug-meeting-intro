@@ -1,8 +1,6 @@
-## Speaker: Jeff Palmer
+## Speaker: Igor Polevoy
 
-* Senior Consultant at Object Partners
-* Programming Groovy/Grails 6+ years
-* Bean bag afficianado
+* President of ExpressPigeon
+* JavaLite(ActiveJDBC/ActiveWeb) creator
+* Taught Java and Ruby at the DePaul for 10+ years
 
-
-![SpringOne Bean Bag](images/springone-beanbag.jpg)

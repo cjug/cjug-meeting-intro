@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-August 7, 2014
+August 19, 2014
 
-Jeff Palmer - Introduction to Grails
+Igor Polevoy - JavaLite
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -13,29 +13,25 @@ Jeff Palmer - Introduction to Grails
 
 Chicago Java Users Group is dedicated to the helping you.
 
-* Learn about Java and the JVM Ecosystem
-* Make a difference in the Java Community
+* Building a technology community second to none.
+* Learn about and Contribute to Java and the JVM Ecosystem
 * Provide mentorship and career opportunities
 * Have fun and build cool things
 
 
 ## Useful stats
 
-* **1,056** members
+* **1,000+** members
 * **2** meetings per month
-* **90** RSVPs for this talk
+* **60 - 200** Attendees at our Meetups
 
 
 ## Upcoming Events
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tue, Aug 19</th>
-		<td>Igor Polevoy - JavaLite</td>
-	</tr>
-	<tr>
 		<th>Thu, Sep 4</th>
-		<td>Fundamentals (TBD)</td>
+		<td>Reza Rehman - JMS.Next(): JMS 2.0 and Beyond</td>
 	</tr>
 	<tr>
 		<th>Tue, Sep 16</th>
