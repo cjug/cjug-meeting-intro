@@ -3,15 +3,17 @@
 
 ## The bathrooms are...
 
-Straight out the door all the way down the hall on the left.
+Straight out the doors across the hall
 
 
 ## Food & drink are...
 
-Behind you.
+Out the doors in the kitchen by the entrance
 
 
 ## Other Interesting Tidbids
+
+How to use the Mics.  Push once on.  Push once off.  Don't hold!
 
 This is a BYOWifi Zone
 
