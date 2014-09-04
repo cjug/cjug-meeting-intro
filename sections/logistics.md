@@ -10,6 +10,8 @@ Straight out the door all the way down the hall on the left.
 
 Behind you.
 
-## This is a BYOWifi Zone
+## Other Interesting Tidbids
 
-## Once you are out... you are out!
+This is a BYOWifi Zone
+
+Once you are out... you are out!
