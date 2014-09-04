@@ -1,4 +1,5 @@
 # Sponsors
 
 
-![HERE](images/HERE-logo.jpg)
+* GE Capital
+* NFJS - Great Lakes Software Symposium (Nov 14 -16)
