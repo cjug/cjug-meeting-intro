@@ -46,3 +46,13 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Venkat Subramaniam</td>
 	</tr>
 </table>
+
+
+## Want to get involved in CJUG?
+
+
+## Nominate yourself for our Advisory Board!
+* Advisory Board gets a say in how CJUG is run.
+* Be a part of one of the Largest Java User Groups in the US.
+* Self Nominate by attending 1 meeting per quarter until July Elections.
+* Sign up today!
