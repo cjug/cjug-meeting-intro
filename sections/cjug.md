@@ -46,5 +46,3 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Venkat Subramaniam</td>
 	</tr>
 </table>
-
-
