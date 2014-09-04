@@ -1,6 +1,7 @@
-## Speaker: Igor Polevoy
+## Speaker: Reza Rehman
 
-* President of ExpressPigeon
-* JavaLite(ActiveJDBC/ActiveWeb) creator
-* Taught Java and Ruby at the DePaul for 10+ years
+* Java EE evangelist @ Oracle
+* Author of EJB 3 in Action
+* Member of JCP expert groups for Java EE, EJB and JMS
+* Metalhead and former independent consultant
 
