@@ -43,7 +43,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	</tr>
 	<tr>
 		<th>December (Sponsor Needed!)</th>
-		<th>Venkat Subramaniam</th>
+		<td>Venkat Subramaniam</td>
 	</tr>
 </table>
 
