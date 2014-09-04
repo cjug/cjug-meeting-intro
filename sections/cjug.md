@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-August 19, 2014
+September 4, 2014
 
-Igor Polevoy - JavaLite
+Reza Rehman - Intro to the JCP and JMS.Next(): JMS 2.0 and Beyond
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -30,10 +30,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu, Sep 4</th>
-		<td>Reza Rehman - JMS.Next(): JMS 2.0 and Beyond</td>
-	</tr>
-	<tr>
 		<th>Tue, Sep 16</th>
 		<td>Ted Dunning - Practical Anomaly Detection</td>
 	</tr>
@@ -44,6 +40,10 @@ Chicago Java Users Group is dedicated to the helping you.
 	<tr>
 		<th>Tue, Oct 21</th>
 		<td>Molly Barlett - Life without Domain Objects</td>
+	</tr>
+	<tr>
+		<th>December (Sponsor Needed!)</th>
+		<th>Venkat Subramaniam</th>
 	</tr>
 </table>
 
