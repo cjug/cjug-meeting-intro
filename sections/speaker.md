@@ -1,4 +1,4 @@
-## Speaker: Reza Rehman
+## Speaker: Reza Rahman
 
 * Java EE evangelist @ Oracle
 * Author of EJB 3 in Action
