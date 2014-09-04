@@ -13,10 +13,10 @@ Reza Rehman - Intro to the JCP and JMS.Next(): JMS 2.0 and Beyond
 
 Chicago Java Users Group is dedicated to the helping you.
 
-* Building a technology community second to none.
-* Learn about and Contribute to Java and the JVM Ecosystem
-* Provide mentorship and career opportunities
-* Have fun and build cool things
+* Technology Community second to none.
+* Learn and Contribute to Java / JVM Ecosystem
+* Mentorship and Career opportunities
+* Have Fun and Build cOOl THINGS
 
 
 ## Useful stats
