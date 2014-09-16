@@ -1,7 +1,7 @@
-## Speaker: Reza Rahman
+## Speaker: Ted Dunning
 
-* Java EE evangelist @ Oracle
-* Author of EJB 3 in Action
-* Member of JCP expert groups for Java EE, EJB and JMS
-* Metalhead and former independent consultant
+* Chief Application Architect at MapR
+* Committer and PMC member of Apache Mahout, Zookeeper, and Drill projects
+* Chief architect behind MusicMatch (now Yahoo Music)
+* Holds 24 patents
 

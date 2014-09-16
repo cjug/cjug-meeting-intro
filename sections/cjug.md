@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 4, 2014
+September 16, 2014
 
-Reza Rehman - Intro to the JCP and JMS.Next(): JMS 2.0 and Beyond
+Ted Dunning, How to Find What You Didn't Know to Look For, Practical Anomaly Detection
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -13,10 +13,10 @@ Reza Rehman - Intro to the JCP and JMS.Next(): JMS 2.0 and Beyond
 
 Chicago Java Users Group is dedicated to the helping you.
 
-* Technology Community second to none.
-* Learn and Contribute to Java / JVM Ecosystem
-* Mentorship and Career opportunities
-* Have Fun and Build cOOl THINGS
+* Technology community second to none.
+* Learn and contribute to Java / JVM ecosystem
+* Mentorship and career opportunities
+* Have fun and build cool things
 
 
 ## Useful stats
@@ -30,12 +30,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tue, Sep 16</th>
-		<td>Ted Dunning - Practical Anomaly Detection</td>
-	</tr>
-	<tr>
 		<th>Thu, Oct 2</th>
-		<td>Fundamentals (TBD)</td>
+		<td>Josh Long - "Bootiful" Applications and Microservices with Spring Boot</td>
 	</tr>
 	<tr>
 		<th>Tue, Oct 21</th>
@@ -53,6 +49,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Nominate yourself for our Advisory Board!
 * Advisory Board gets a say in how CJUG is run.
-* Be a part of one of the Largest Java User Groups in the US.
-* Self Nominate by attending 1 meeting per quarter until July Elections.
+* Be a part of one of the largest Java User Groups in the US.
+* Self nominate by recording your attendance at 1 meeting per quarter until July elections.
 * Sign up today!
