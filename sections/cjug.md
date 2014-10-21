@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 16, 2014
+Oct 21, 2014
 
-Ted Dunning, How to Find What You Didn't Know to Look For, Practical Anomaly Detection
+Brett Lindsley, Service Security
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -29,16 +29,17 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming Events
 
 <table class="upcoming-events">
+	
 	<tr>
-		<th>Thu, Oct 2</th>
-		<td>Josh Long - "Bootiful" Applications and Microservices with Spring Boot</td>
-	</tr>
-	<tr>
-		<th>Tue, Oct 21</th>
+		<th>Thu Nov 6</th>
 		<td>Molly Barlett - Life without Domain Objects</td>
 	</tr>
 	<tr>
-		<th>December 9</th>
+		<th>Tue, No 18</th>
+		<td>IoT Realized The Connected Car with Michael Minella</td>
+	</tr>
+	<tr>
+		<th>Tue, December 9</th>
 		<td>Charlie Nutter</td>
 	</tr>
 </table>
