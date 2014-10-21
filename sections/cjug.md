@@ -38,8 +38,8 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Molly Barlett - Life without Domain Objects</td>
 	</tr>
 	<tr>
-		<th>December (Sponsor Needed!)</th>
-		<td>Venkat Subramaniam</td>
+		<th>December 9</th>
+		<td>Charlie Nutter</td>
 	</tr>
 </table>
 
