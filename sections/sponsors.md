@@ -1,4 +1,4 @@
 # Sponsors
 
 
-<img src="http://www.yext.com/blog/wp-content/uploads/2014/07/nokia-here-logo.jpg" style="border: none;" />
+<img src="https://www.bosch-si.com/media/_tech/layout/images/logos/bosch_logo_english.png" style="border: none;" />

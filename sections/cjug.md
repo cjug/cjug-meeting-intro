@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-Oct 21, 2014
+November 18, 2014
 
-Brett Lindsley, Service Security
+Michael Minella/Phil Berman, IoT Realized The Connected Car
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,000+** members
+* **1,100+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -31,16 +31,16 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	
 	<tr>
-		<th>Thu Nov 6</th>
-		<td>Molly Barlett - Life without Domain Objects</td>
+		<th>December 9, 2014</th>
+		<td>GOTO Night with Charles Nutter | What's Next for the JVM?</td>
 	</tr>
 	<tr>
-		<th>Tue, No 18</th>
-		<td>IoT Realized The Connected Car with Michael Minella</td>
+		<th>January 15, 2015</th>
+		<td>Maker Track - JSF with Josh Juneau</td>
 	</tr>
 	<tr>
-		<th>Tue, December 9</th>
-		<td>Charlie Nutter</td>
+		<th>January 20, 2015</th>
+		<td>Fuad Malikov - Hazelcast In Memory Data Grid</td>
 	</tr>
 </table>
 

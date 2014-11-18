@@ -1,5 +1,14 @@
-## Speaker: Brett Lindsley
+## Speaker: Michael Minella
 
-* Lead Architect and Software Project manager at CEPORT
+* Pivotal - Spring Batch Project Lead
+* Author Pro Spring Batch
+* Instructor at DePaul
 * CJUG Executive Board
+* CJUG Director of Meetings
+
+## Speaker: Phil Berman
+
+* Pivotal - Field Engineer
+* 15+ Years active in the Chicago Java Community
+* Cloud Foundry/GemFire 
 
