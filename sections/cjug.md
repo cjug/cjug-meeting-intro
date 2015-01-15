@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-November 18, 2014
+January 15, 2015
 
-Michael Minella/Phil Berman, IoT Realized The Connected Car
+CJUG Maker Track: Adopt-A-JSR JSF with Josh Juneau
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,100+** members
+* **1,200+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -31,16 +31,12 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	
 	<tr>
-		<th>December 9, 2014</th>
-		<td>GOTO Night with Charles Nutter | What's Next for the JVM?</td>
-	</tr>
-	<tr>
-		<th>January 15, 2015</th>
-		<td>Maker Track - JSF with Josh Juneau</td>
-	</tr>
-	<tr>
 		<th>January 20, 2015</th>
-		<td>Fuad Malikov - Hazelcast In Memory Data Grid</td>
+		<td>Fuad Malikov Presents Hazelcast, distributed data structures for Java</td>
+	</tr>
+	<tr>
+		<th>February 5, 2015</th>
+		<td>Freddy Guime Presents AAHH! There's a leak in my App!</td>
 	</tr>
 </table>
 
