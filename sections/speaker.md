@@ -1,14 +1,6 @@
-## Speaker: Phil Berman
+## Celebrity Coder: Josh Juneau
 
-* Pivotal - Field Engineer
-* 15+ Years active in the Chicago Java Community
-* Cloud Foundry/GemFire 
-
-
-## Speaker: Michael Minella
-
-* Pivotal - Spring Batch Project Lead
-* Author Pro Spring Batch
-* Instructor at DePaul
-* CJUG Executive Board
+* Author of Numerous Books
+* Open Source Contributer
+* JSF Expert Committee
 * CJUG Director of Meetings
