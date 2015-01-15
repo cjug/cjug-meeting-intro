@@ -3,9 +3,9 @@
 
 ## The bathrooms are...
 
-Straight out the doors across the hall
+Locked!  Ask us for a key if you need to use.
 
 
 ## Food & drink are...
 
-Out the doors in the kitchen by the entrance
+On the tables.  Beer in the fridge
