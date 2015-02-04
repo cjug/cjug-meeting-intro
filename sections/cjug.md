@@ -2,7 +2,7 @@
 
 January 15, 2015
 
-CJUG Maker Track: Adopt-A-JSR JSF with Josh Juneau
+Freddy Guime Presents: AAHH! There's a leak in my App!
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -31,13 +31,19 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	
 	<tr>
-		<th>January 20, 2015</th>
-		<td>Fuad Malikov Presents Hazelcast, distributed data structures for Java</td>
+		<th>February 17, 2015</th>
+		<td>Michael Minella Presents: Building a Recommendation Engine with Spring & Hadoop</td>
 	</tr>
 	<tr>
-		<th>February 5, 2015</th>
-		<td>Freddy Guime Presents AAHH! There's a leak in my App!</td>
+		<th>March 5, 2015</th>
+		<td>Scott Kramer and Brett Lindsley - Are you Mocking Java? plus Automated Test Creation!</td>
 	</tr>
+	<tr>
+		<th>March 17, 2015</th>
+		<td>Markus Eisele - Wild Flies and a Camel:  Java EE Integration Stories</td>
+	</tr>
+	
+	
 </table>
 
 
