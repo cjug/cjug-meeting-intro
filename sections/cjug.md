@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-January 15, 2015
+February 5, 2015
 
 Freddy Guime Presents: AAHH! There's a leak in my App!
 
