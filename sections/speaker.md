@@ -1,6 +1,9 @@
-## Celebrity Coder: Josh Juneau
+## Speaker: Freddy Guime
 
-* Author of Numerous Books
-* Open Source Contributer
-* JSF Expert Committee
-* CJUG Director of Meetings
+* Co-author of Java 7 Recipes
+* Past CJUG President and Community Leader
+* Java PubHouse Podcast
+* Devnexus and JavaOne Speaker
+* Band Leader of the Null Pointers
+* Newly Minted Java Rockstar!
+
