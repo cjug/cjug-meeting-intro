@@ -5,5 +5,5 @@
 * Java PubHouse Podcast
 * Devnexus and JavaOne Speaker
 * Band Leader of the Null Pointers
-* Newly Minted Java Rockstar!
+* Newly Minted Java Champion!
 
