@@ -1,9 +1,7 @@
-## Speaker: Freddy Guime
+## Speaker: Michael Minella
 
-* Co-author of Java 7 Recipes
-* Past CJUG President and Community Leader
-* Java Pub House Podcast
-* Devnexus and JavaOne Speaker
-* Band Leader of the Null Pointers
-* Newly Minted Java Champion!
+* Pivotal - Spring Batch Project Lead
+* Author Pro Spring Batch
+* Instructor at DePaul
+* CJUG Executive Board Chairman
 
