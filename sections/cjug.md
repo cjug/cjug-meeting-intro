@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-February 5, 2015
+February 17, 2015
 
-Freddy Guime Presents: AAHH! There's a leak in my App!
+Michael Minella Presents: Building a Recommendation Engine with Spring & Hadoop
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -30,10 +30,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	
-	<tr>
-		<th>February 17, 2015</th>
-		<td>Michael Minella Presents: Building a Recommendation Engine with Spring & Hadoop</td>
-	</tr>
 	<tr>
 		<th>March 5, 2015</th>
 		<td>Scott Kramer and Brett Lindsley - Are you Mocking Java? plus Automated Test Creation!</td>
