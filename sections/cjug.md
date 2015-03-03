@@ -26,7 +26,7 @@ Chicago Java Users Group is dedicated to the helping you.
 * **60 - 200** Attendees at our Meetups
 
 
-## Upcoming Events
+## Upcoming CJUG Events
 
 <table class="upcoming-events">
 	
@@ -42,6 +42,24 @@ Chicago Java Users Group is dedicated to the helping you.
 	
 </table>
 
+## Upcoming Non-CJUG Events
+<table class="upcoming-events">
+	
+	<tr>
+		<th>May 3, 2015</th>
+		<td>Devoxx4Kids Chicagoland Tech Fun Field Day</td>
+	</tr>
+	<tr>
+		<th>May 14-15, 2015</th>
+		<td>Chicago Coder Conference</td>
+	</tr>
+	<tr>
+		<th>May 11 -14, 2015</th>
+		<td>GOTO Conference Chicago</td>
+	</tr>
+	
+	
+</table>
 
 ## Want to get involved in CJUG?
 
