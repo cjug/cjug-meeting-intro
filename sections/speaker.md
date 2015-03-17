@@ -1,7 +1,6 @@
-## Speaker: Michael Minella
+## Speaker: Markus Eisele
 
-* Pivotal - Spring Batch Project Lead
-* Author Pro Spring Batch
-* Instructor at DePaul
-* CJUG Executive Board Chairman
+* Red Hat - Developer Advocate
+* Java Champion
+* Speaker/Writer on all things JavaEE
 
