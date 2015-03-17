@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-February 17, 2015
+March 17, 2015
 
-Michael Minella Presents: Building a Recommendation Engine with Spring & Hadoop
+Markus Eisele Presents: Wild Flies and a Camel - Java EE Integration Stories
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -31,14 +31,17 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	
 	<tr>
-		<th>March 5, 2015</th>
-		<td>Scott Kramer and Brett Lindsley - Are you Mocking Java? plus Automated Test Creation!</td>
+		<th>March 26, 2015</th>
+		<td>Maker Track: Android, XBee, Quadcopters and Seg-Bots</td>
 	</tr>
 	<tr>
-		<th>March 17, 2015</th>
-		<td>Markus Eisele - Wild Flies and a Camel:  Java EE Integration Stories</td>
+		<th>April 2, 2015</th>
+		<td>Andreas Grabner Presents: Java and Performance: Biggest Mistakes</td>
 	</tr>
-	
+	<tr>
+		<th>April 21, 2015</th>
+		<td>Derek Ashmore Presents: Microservices for Java Architects</td>
+	</tr>
 	
 </table>
 
