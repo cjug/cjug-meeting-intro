@@ -54,16 +54,18 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Devoxx4Kids Chicagoland Tech Fun Field Day</td>
 	</tr>
 	<tr>
-		<th>May 14-15, 2015</th>
-		<td>Chicago Coder Conference</td>
-	</tr>
-	<tr>
 		<th>May 11 -14, 2015</th>
 		<td>GOTO Conference Chicago</td>
 	</tr>
+	<tr>
+		<th>May 14-15, 2015</th>
+		<td>Chicago Coder Conference</td>
+	</tr>
+	
 	
 	
 </table>
+
 
 ## Want to get involved in CJUG?
 
