@@ -6,6 +6,7 @@ Markus Eisele Presents: Wild Flies and a Camel - Java EE Integration Stories
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+	<img src="http://www.wikihow.com/images/a/a5/Draw-a-Shamrock-Step-12.jpg" width="50px" height="50px"/>
 </div>
 
 
@@ -55,7 +56,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	</tr>
 	<tr>
 		<th>May 11 -14, 2015</th>
-		<td>GOTO Conference Chicago</td>
+		<td>GOTO Conference Chicago - $50 off Discount Code: CJUG </td>
 	</tr>
 	<tr>
 		<th>May 14-15, 2015</th>
