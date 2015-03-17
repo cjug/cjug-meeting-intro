@@ -45,6 +45,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	
 </table>
 
+
 ## Upcoming Non-CJUG Events
 <table class="upcoming-events">
 	
