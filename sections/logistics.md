@@ -3,7 +3,7 @@
 
 ## The bathrooms are...
 
-Locked!  Ask us for a key if you need to use.
+Through the door, across the Hallway!
 
 
 ## Food & drink are...

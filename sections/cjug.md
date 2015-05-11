@@ -2,16 +2,13 @@
 
 March 17, 2015
 
-Markus Eisele Presents: Wild Flies and a Camel - Java EE Integration Stories
-
+Trisha Gee Presents: Is Groovy Better For Testing Than Java?
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-	<img src="http://www.wikihow.com/images/a/a5/Draw-a-Shamrock-Step-12.jpg" width="50px" height="50px"/>
 </div>
 
-
+--section--
 ## What is the CJUG?
-
 Chicago Java Users Group is dedicated to the helping you.
 
 * Technology community second to none.
@@ -19,41 +16,31 @@ Chicago Java Users Group is dedicated to the helping you.
 * Mentorship and career opportunities
 * Have fun and build cool things
 
-
+<br>
 ## Useful stats
 
-* **1,200+** members
+* **1,400+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
+--section--
 
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	
 	<tr>
-		<th>March 26, 2015</th>
-		<td>Maker Track: Android, XBee, Quadcopters and Seg-Bots</td>
+		<th>May 19, 2015</th>
+		<td>Dean Wampler Presents: Reactive Systems - The Why and the What</td>
 	</tr>
 	<tr>
-		<th>April 2, 2015</th>
-		<td>Andreas Grabner Presents: Java and Performance: Biggest Mistakes</td>
+		<th>May 26, 2015</th>
+		<td>(ONLINE ONLY) Adopt-A-JSR, or how can I Change Java?</td>
 	</tr>
-	<tr>
-		<th>April 21, 2015</th>
-		<td>Derek Ashmore Presents: Microservices for Java Architects</td>
-	</tr>
-	
 </table>
 
 
 ## Upcoming Non-CJUG Events
 <table class="upcoming-events">
-	
-	<tr>
-		<th>May 3, 2015</th>
-		<td>Devoxx4Kids Chicagoland Tech Fun Field Day</td>
-	</tr>
 	<tr>
 		<th>May 11 -14, 2015</th>
 		<td>GOTO Conference Chicago - $50 off Discount Code: CJUG </td>
@@ -62,15 +49,19 @@ Chicago Java Users Group is dedicated to the helping you.
 		<th>May 14-15, 2015</th>
 		<td>Chicago Coder Conference</td>
 	</tr>
-	
-	
-	
 </table>
 
+--section--
+## New and Notable!
+#Java Off Heap Podcast#
 
+* Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
+* Java News Cast
+* Subscribe! (http://www.javaoffheap.com)
+
+
+--section--
 ## Want to get involved in CJUG?
-
-
 ## Nominate yourself for our Advisory Board!
 * Advisory Board gets a say in how CJUG is run.
 * Be a part of one of the largest Java User Groups in the US.

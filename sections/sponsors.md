@@ -1,4 +1,4 @@
 # Sponsors
 
 
-<img src="http://uptake.com/wp-content/uploads/2015/02/uptake_logo1.png" style="border: none;background: black" width="1200px" />
+<img src="http://www.orbitz.com/blog/wp-content/uploads/2009/11/orbitz-logo-300x60.png" style="border: none;background: white" />
