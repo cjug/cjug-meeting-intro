@@ -6,6 +6,3 @@
 * Open Source Contributor
 * Conference Organizer
 * Dot Connector of the Academic to the Pragmatic
-
-
-
