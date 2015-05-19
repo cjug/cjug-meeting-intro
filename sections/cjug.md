@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-March 17, 2015
+May 19, 2015
 
-Trisha Gee Presents: Is Groovy Better For Testing Than Java?
+Dean Wampler Presents: Reactive Systems - The Why and the What
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -29,10 +29,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>May 19, 2015</th>
-		<td>Dean Wampler Presents: Reactive Systems - The Why and the What</td>
-	</tr>
-	<tr>
 		<th>May 26, 2015</th>
 		<td>(ONLINE ONLY) Adopt-A-JSR, or how can I Change Java?</td>
 	</tr>
@@ -42,12 +38,12 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming Non-CJUG Events
 <table class="upcoming-events">
 	<tr>
-		<th>May 11 -14, 2015</th>
-		<td>GOTO Conference Chicago - $50 off Discount Code: CJUG </td>
+		<th>May 20, 2015</th>
+		<td>Chicago ACM: Feature-based Visual Analysis </td>
 	</tr>
 	<tr>
-		<th>May 14-15, 2015</th>
-		<td>Chicago Coder Conference</td>
+		<th>May 26, 2015</th>
+		<td>DevOps Chicago: Kyle Kingsbury - Jepsen IV: Hope Springs Eternal</td>
 	</tr>
 </table>
 
