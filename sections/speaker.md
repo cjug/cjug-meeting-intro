@@ -1,11 +1,11 @@
-## Speaker: Trisha Gee
+## Speaker: Dean Wampler
 
-* JetBrains (Developer Advocate)
-* Disruptor Development (LMAX)
-* Sevilla Java User Group Lead, London Java Community (Key member)
-* Java Champion, RockStar
-* Overall Nice person
-* Virtual JUG Java Council Podcast (http://virtualjug.com/podcast/)
+* Architect for Big Data Products and Services for Typesafe
+* Author of several books on Big Data, Scala, and Functional Programming
+* Chicago Area Scala Enthusists (CASE) Co-organizer
+* Open Source Contributor
+* Conference Organizer
+* Dot Connector of the Academic to the Pragmatic
 
 
 
