@@ -16,7 +16,7 @@ Chicago Java Users Group is dedicated to the helping you.
 * Mentorship and career opportunities
 * Have fun and build cool things
 
-
+--section--
 
 ## Useful stats
 
