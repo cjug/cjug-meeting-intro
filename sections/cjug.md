@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-May 19, 2015
+June 25, 2015
 
 Maker Track: Welcome Groovy to the ASF
 <div style="background-color: white; margin-top: 30px;">
