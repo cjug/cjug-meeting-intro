@@ -1,3 +1,3 @@
 # Sponsors
 
-<img src="http://uptake.com/wp-content/uploads/2015/02/uptake_logo_og.jpg" style="border: none;background: white" />
+<img src="https://pbs.twimg.com/profile_images/552168505575866368/Nk-4H0ne.png" style="border: none;background: black" />

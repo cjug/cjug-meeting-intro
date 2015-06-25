@@ -2,7 +2,7 @@
 
 May 19, 2015
 
-Dean Wampler Presents: Reactive Systems - The Why and the What
+Maker Track: Welcome Groovy to the ASF
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,8 +30,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>May 26, 2015</th>
-		<td>(ONLINE ONLY) Adopt-A-JSR, or how can I Change Java?</td>
+		<th>July 2, 2015</th>
+		<td>Mark Heckler Presents: Programming for the Internet of Things-From Zero to Robot</td>
 	</tr>
 </table>
 
@@ -39,12 +39,8 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming Non-CJUG Events
 <table class="upcoming-events">
 	<tr>
-		<th>May 20, 2015</th>
-		<td>Chicago ACM: Feature-based Visual Analysis </td>
-	</tr>
-	<tr>
-		<th>May 26, 2015</th>
-		<td>DevOps Chicago: Kyle Kingsbury - Jepsen IV: Hope Springs Eternal</td>
+		<th>July 19, 2015</th>
+		<td>Devoxx4Kids Minecraft Modding Workshop - NCC</td>
 	</tr>
 </table>
 
