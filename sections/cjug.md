@@ -2,7 +2,7 @@
 
 June 25, 2015
 
-Maker Track: Welcome Groovy to the ASF
+Maker Track: Mark Heckler Presents Programming for the Internet of Things-From Zero to Robot
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,8 +30,12 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>July 2, 2015</th>
-		<td>Mark Heckler Presents: Programming for the Internet of Things-From Zero to Robot</td>
+		<th>July 21, 2015</th>
+		<td>Bob Paulin Presents: What's My Modularity?</td>
+	</tr>
+	<tr>
+		<th>August 6, 2015</th>
+		<td>Steve Sturtevant Presents: Performance Matters, Right? What Can I do About It?</td>
 	</tr>
 </table>
 
