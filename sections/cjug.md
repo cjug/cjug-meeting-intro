@@ -2,7 +2,7 @@
 
 June 25, 2015
 
-Maker Track: Mark Heckler Presents Programming for the Internet of Things-From Zero to Robot
+Bob Paulin Presents: What's My Modularity?
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,400+** members
+* **1,460+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,28 +30,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>July 21, 2015</th>
-		<td>Bob Paulin Presents: What's My Modularity?</td>
-	</tr>
-	<tr>
-		<th>August 6, 2015</th>
+		<th>August 06, 2015</th>
 		<td>Steve Sturtevant Presents: Performance Matters, Right? What Can I do About It?</td>
 	</tr>
-</table>
-
-
-## Upcoming Non-CJUG Events
-<table class="upcoming-events">
 	<tr>
-		<th>July 19, 2015</th>
-		<td>Devoxx4Kids Minecraft Modding Workshop - NCC</td>
+		<th>August 18, 2015</th>
+		<td>Max De Marzi Presents: Neo4j for Java Developers</td>
 	</tr>
 </table>
+
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast#
-
+#Java Off Heap Podcast Episode 4
+* Big talk Micro-services
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
 * Java News Cast
 * Subscribe! (http://www.javaoffheap.com)
