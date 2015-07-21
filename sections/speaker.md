@@ -1,6 +1,6 @@
-## Speaker: Mark Heckler
+## Speaker: Bob Paulin
 
-* Oracle Developer Advocate
-* Conference Speaker, Author, Developer on JavaFX, IoT and Cloud
-* Java Jungle
-* @MkHeck
+* Dear Beloved Dictat...President
+* Conference Speaker
+* Apache Felix Committer
+* @bobpaulin
