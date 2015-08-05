@@ -10,4 +10,4 @@ Silver Sponsors
 
 ##Event Sponsor
 
-<img src="http://www6.pcmag.com/media/images/349807-orbitz-logo.jpg?thumb=y" style="border: none;background: black" />
+<img src="http://www.gogoair.com/static/dotcom/img/gogo-logo-lock.png" />

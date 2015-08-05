@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-June 25, 2015
+August 6, 2015
 
-Bob Paulin Presents: What's My Modularity?
+Steve Sturtevant Presents: Performance Matters, Right? What Can I do About It?
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,20 +30,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>August 06, 2015</th>
-		<td>Steve Sturtevant Presents: Performance Matters, Right? What Can I do About It?</td>
-	</tr>
-	<tr>
 		<th>August 18, 2015</th>
 		<td>Max De Marzi Presents: Neo4j for Java Developers</td>
+	</tr>
+	<tr>
+		<th>September 3, 2015</th>
+		<td>Markus Hellberg Presents: Vaadin</td>
 	</tr>
 </table>
 
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast Episode 4
-* Big talk Micro-services
+#Java Off Heap Podcast Episode 5
+* Josh Long from Pivotal joins us!
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
 * Java News Cast
 * Subscribe! (http://www.javaoffheap.com)

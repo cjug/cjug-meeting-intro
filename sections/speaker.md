@@ -1,6 +1,6 @@
-## Speaker: Bob Paulin
+## Speaker: Steve Sturtevant
 
-* Dear Beloved Dictat...President
-* Conference Speaker
-* Apache Felix Committer
-* @bobpaulin
+* Solution Engineer App Dynamics
+* Performance at PayPal
+* Helps big systems go fast!
+
