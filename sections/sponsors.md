@@ -1,12 +1,15 @@
 # Sponsors
 
---section--
 
 Silver Sponsors
-
-<img src="images/newrelic.jpeg" style="border: none;background: black" />
-
-<img src="images/2015-OPI-Logo-Stacked.png" style="border: none;background: black" />
+<div>
+	<div>
+		<img src="images/newrelic.jpeg" style="border: none;background: black" />
+	</div>
+	<div>
+		<img src="images/2015-OPI-Logo-Stacked.png" style="border: none;background: black" />
+	</div>
+</div>
 
 --section--
 
