@@ -4,9 +4,9 @@
 
 Silver Sponsors
 
-New Relic
+<img src="images/newrelic.jpeg" style="border: none;background: black" />
 
-Object Partners
+<img src="images/2015-OPI-Logo-Stacked.png" style="border: none;background: black" />
 
 --section--
 
