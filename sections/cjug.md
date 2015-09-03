@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-August 6, 2015
+September 3, 2015
 
-Steve Sturtevant Presents: Performance Matters, Right? What Can I do About It?
+Marcus Hellberg Presents: Building HTML5 web apps in Java with Vaadin
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,460+** members
+* **1,520+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,12 +30,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>August 18, 2015</th>
-		<td>Max De Marzi Presents: Neo4j for Java Developers</td>
+		<th>September 10, 2015</th>
+		<td>GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming</td>
 	</tr>
 	<tr>
-		<th>September 3, 2015</th>
-		<td>Markus Hellberg Presents: Vaadin</td>
+		<th>September 22, 2015</th>
+		<td>Venkat Subramaniam Presents: Lazy Evaluations and its Impact on Efficiency</td>
+	</tr>
+	<tr>
+		<th>September 24, 2015</th>
+		<td>Peter Lawrey Presents: The Future of Unsafe and Chronicle</td>
+	</tr>
+	<tr>
+		<th>October 1, 2015</th>
+		<td>Daniel Hinojosa Presents: Playing with the Play Framework using Scala</td>
 	</tr>
 </table>
 
@@ -48,6 +56,12 @@ Chicago Java Users Group is dedicated to the helping you.
 * Java News Cast
 * Subscribe! (http://www.javaoffheap.com)
 
+--section--
+#Chicago Tech Slack
+* Connect with local developers and stay current
+* Channels for Security, Android, Java, DevOps and much more.
+* Invite yourself to the party: http://chicagotech.herokuapp.com/
+* chicago-tech.slack.com
 
 --section--
 ## Want to get involved in CJUG?
