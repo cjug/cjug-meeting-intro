@@ -10,10 +10,5 @@ Silver Sponsors
 
 ##Event Sponsor
 
-<img src="http://www.gogoair.com/static/dotcom/img/gogo-logo-lock.png" />
+<img src="images/Logo_Grainger.jpg" />
 
-
-First Rounds on Me
-
-At Ovie from
-<img src="http://cdn1.itcentralstation.com/vendors/logos/original/Appdynamics.png?1401300004"/>
