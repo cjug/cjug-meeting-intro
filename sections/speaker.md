@@ -1,6 +1,6 @@
-## Speaker: Steve Sturtevant
+## Speaker: Marcus Hellberg
 
-* Solution Engineer App Dynamics
-* Performance at PayPal
-* Helps big systems go fast!
+* Senior Vaadin Expert at Vaadin
+* Long time Vaadin User
+* MS in Embedded Systems
 
