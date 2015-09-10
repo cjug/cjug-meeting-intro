@@ -1,6 +1,7 @@
-## Speaker: Marcus Hellberg
+## Speaker: Dave Thomas
 
-* Senior Vaadin Expert at Vaadin
-* Long time Vaadin User
-* MS in Embedded Systems
+* ACM Distinguished Engineer
+* Technology Executive
+* Thoughtleader in Large Scale Software Development
+* Confernce Founder and Chair
 
