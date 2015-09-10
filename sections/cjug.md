@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 3, 2015
+September 10, 2015
 
-Marcus Hellberg Presents: Building HTML5 web apps in Java with Vaadin
+GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -29,10 +29,6 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	<tr>
-		<th>September 10, 2015</th>
-		<td>GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming</td>
-	</tr>
 	<tr>
 		<th>September 22, 2015</th>
 		<td>Venkat Subramaniam Presents: Lazy Evaluations and its Impact on Efficiency</td>
