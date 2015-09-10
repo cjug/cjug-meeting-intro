@@ -10,5 +10,6 @@ Silver Sponsors
 
 ##Event Sponsor
 
-<img src="images/Logo_Grainger.jpg" />
+<img src="http://gotocon.com/dl/goto-chicago-2015/GOTO_chicago_header_2015_960x175.png" />
+<img src="http://www.biteofseattle.com/media/images/groupon.gif"/>
 
