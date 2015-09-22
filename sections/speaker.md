@@ -1,7 +1,5 @@
-## Speaker: Dave Thomas
+## Speaker: Dr Venkat Subramaniam
 
-* ACM Distinguished Engineer
-* Technology Executive
-* Thoughtleader in Large Scale Software Development
-* Confernce Founder and Chair
-
+* Award-Winner, Super-Profilic Author
+* Founder of Agile Developer
+* Professor at University of Houston

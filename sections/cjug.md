@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 10, 2015
+September 22, 2015
 
-GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming
+Venkat Subramaniam on Lazy Evaluations and its Impact on Efficiency
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,520+** members
+* **1,560+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,16 +30,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>September 22, 2015</th>
-		<td>Venkat Subramaniam Presents: Lazy Evaluations and its Impact on Efficiency</td>
-	</tr>
-	<tr>
-		<th>September 24, 2015</th>
+		<th>Thurs September 24, 2015</th>
 		<td>Peter Lawrey Presents: The Future of Unsafe and Chronicle</td>
 	</tr>
 	<tr>
-		<th>October 1, 2015</th>
+		<th>Tues September 29, 2015</th>
+		<td>Josh Juneau and Bob Paulin present Adopt-a-JSR for Java EE</td>
+	</tr>
+	<tr>
+		<th>Thurs October 1, 2015</th>
 		<td>Daniel Hinojosa Presents: Playing with the Play Framework using Scala</td>
+	</tr>
+	<tr>
+		<th>Thurs October 22, 2015</th>
+		<td>Gregory Kick on Annotation Processing for Fun and Profit</td>
 	</tr>
 </table>
 

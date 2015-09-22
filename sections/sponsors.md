@@ -8,8 +8,6 @@ Silver Sponsors
 </div>
 
 
-##Event Sponsor
+## Event Sponsor
 
-<img src="http://gotocon.com/dl/goto-chicago-2015/GOTO_chicago_header_2015_960x175.png" />
-<img src="http://www.biteofseattle.com/media/images/groupon.gif"/>
-
+<img src="images/logo-pivotal-220.png" />

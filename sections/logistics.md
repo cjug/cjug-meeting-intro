@@ -3,9 +3,9 @@
 
 ## The bathrooms are...
 
-Through the door, across the Hallway!
+Past the entrance on the other side.
 
 
 ## Food & drink are...
 
-On the tables.  Soda machines in the back (Pop is free)
+On the tables to the left.
