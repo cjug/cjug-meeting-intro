@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 10, 2015
+October 1, 2015
 
-GOTO Night with Dave Thomas - Huge Memory & Collection Oriented Programming
+Daniel Hinojosa Presents: Playing with the Play Framework using Scala
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,520+** members
+* Nearly **1,600** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,23 +30,15 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>September 22, 2015</th>
-		<td>Venkat Subramaniam Presents: Lazy Evaluations and its Impact on Efficiency</td>
-	</tr>
-	<tr>
-		<th>September 24, 2015</th>
-		<td>Peter Lawrey Presents: The Future of Unsafe and Chronicle</td>
-	</tr>
-	<tr>
-		<th>October 1, 2015</th>
-		<td>Daniel Hinojosa Presents: Playing with the Play Framework using Scala</td>
+		<th>October 22, 2015</th>
+		<td>Gregory Kick Presents: Annotation Processing for Fun and Profit</td>
 	</tr>
 </table>
 
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast Episode 5
+#Java Off Heap Podcast Episode 6
 * Josh Long from Pivotal joins us!
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
 * Java News Cast

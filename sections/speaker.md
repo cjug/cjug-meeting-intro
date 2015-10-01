@@ -1,7 +1,5 @@
-## Speaker: Dave Thomas
+## Speaker: Daniel Hinojosa
 
-* ACM Distinguished Engineer
-* Technology Executive
-* Thoughtleader in Large Scale Software Development
-* Confernce Founder and Chair
-
+* Frequent Conference Speaker (NFJS, Devnexus)
+* Author of Testing in Scala
+* Pomodoro Technique Practitioner
