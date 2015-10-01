@@ -1,16 +1,7 @@
 ## Chicago Java Users Group
 
-<<<<<<< HEAD
-September 22, 2015
-=======
 October 1, 2015
->>>>>>> refs/remotes/origin/master
-
-<<<<<<< HEAD
-Venkat Subramaniam on Lazy Evaluations and its Impact on Efficiency
-=======
 Daniel Hinojosa Presents: Playing with the Play Framework using Scala
->>>>>>> refs/remotes/origin/master
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
