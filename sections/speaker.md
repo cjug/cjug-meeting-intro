@@ -1,5 +1,6 @@
-## Speaker: Dr Venkat Subramaniam
+## Speaker: Daniel Hinojosa
 
-* Award-Winner, Super-Profilic Author
-* Founder of Agile Developer
-* Professor at University of Houston
+* Frequent Conference Speaker (NFJS, Devnexus)
+* Author of Testing in Scala
+* Pomodoro Technique Practitioner
+

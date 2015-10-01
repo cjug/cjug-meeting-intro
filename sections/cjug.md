@@ -1,8 +1,16 @@
 ## Chicago Java Users Group
 
+<<<<<<< HEAD
 September 22, 2015
+=======
+October 1, 2015
+>>>>>>> refs/remotes/origin/master
 
+<<<<<<< HEAD
 Venkat Subramaniam on Lazy Evaluations and its Impact on Efficiency
+=======
+Daniel Hinojosa Presents: Playing with the Play Framework using Scala
+>>>>>>> refs/remotes/origin/master
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +28,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,560+** members
+* Nearly **1,600** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,18 +38,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thurs September 24, 2015</th>
-		<td>Peter Lawrey Presents: The Future of Unsafe and Chronicle</td>
-	</tr>
-	<tr>
-		<th>Tues September 29, 2015</th>
-		<td>Josh Juneau and Bob Paulin present Adopt-a-JSR for Java EE</td>
-	</tr>
-	<tr>
-		<th>Thurs October 1, 2015</th>
-		<td>Daniel Hinojosa Presents: Playing with the Play Framework using Scala</td>
-	</tr>
-	<tr>
 		<th>Thurs October 22, 2015</th>
 		<td>Gregory Kick on Annotation Processing for Fun and Profit</td>
 	</tr>
@@ -50,7 +46,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast Episode 5
+#Java Off Heap Podcast Episode 6
 * Josh Long from Pivotal joins us!
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
 * Java News Cast
