@@ -4,5 +4,4 @@
 
 * Googler working on Core Libraries Team
 * Works on Dagger 2 &amp; Guava
-* Pomodoro Technique Practitioner
 
