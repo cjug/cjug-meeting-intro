@@ -1,6 +1,8 @@
-## Speaker: Daniel Hinojosa
+## Speaker: Gregory Kick
 
-* Frequent Conference Speaker (NFJS, Devnexus)
-* Author of Testing in Scala
+![Gregory](https://media.licdn.com/media/p/7/005/00e/31d/046ca12.jpg)
+
+* Googler working on Core Libraries Team
+* Works on Dagger 2 &amp; Guava
 * Pomodoro Technique Practitioner
 

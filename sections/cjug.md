@@ -1,7 +1,8 @@
 ## Chicago Java Users Group
 
-October 1, 2015
-Daniel Hinojosa Presents: Playing with the Play Framework using Scala
+October 22, 2015
+
+Gregory Kick - Annotation Processing for Fun and Profit
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -29,8 +30,12 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thurs October 22, 2015</th>
-		<td>Gregory Kick on Annotation Processing for Fun and Profit</td>
+		<th>Thurs Nov 5, 2015</th>
+		<td>TBD</td>
+	</tr>
+	<tr>
+		<th>Thurs Nov 17, 2015</th>
+		<td>Dave Estes - Grails</td>
 	</tr>
 </table>
 
