@@ -1,7 +1,8 @@
-## Speaker: Gregory Kick
+## Speaker: David Estes
 
 ![Gregory](https://media.licdn.com/media/p/7/005/00e/31d/046ca12.jpg)
 
-* Googler working on Core Libraries Team
-* Works on Dagger 2 &amp; Guava
+* Creator of the Grails asset-pipeline plugin
+* Software Architect for Bertram Labs
+* Groovy/Grails Conference Speaker
 
