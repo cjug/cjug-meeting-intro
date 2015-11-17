@@ -10,4 +10,4 @@ Silver Sponsors
 
 ## Event Sponsor
 
-<img src="images/logo-pivotal-220.png" style="background-color: white; width: 1000px;"/>
+<img src="images/logo-pivotal-220.png" style="border: none;width: 1000px;"/>
