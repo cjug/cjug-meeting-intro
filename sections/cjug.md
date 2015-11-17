@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-October 22, 2015
+November 11, 2015
 
-Gregory Kick - Annotation Processing for Fun and Profit
+David Estes Presents: Introducing Grails 3
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* Nearly **1,600** members
+* **1,600+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,20 +30,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thurs Nov 5, 2015</th>
-		<td>TBD</td>
+		<th>Wed December 2, 2015</th>
+		<td>GOTO Holiday Party</td>
 	</tr>
 	<tr>
-		<th>Thurs Nov 17, 2015</th>
-		<td>Dave Estes - Grails</td>
+		<th>Thurs December 10, 2015</th>
+		<td>Josh Long Presents: Getting Started with Spring Cloud</td>
 	</tr>
 </table>
 
 
 --section--
 ## New and Notable!
-#Java Off Heap Podcast Episode 6
-* Josh Long from Pivotal joins us!
+#Java Off Heap Podcast Episode 8
+* Live from JavaOne!
 * Freddy Guime, Josh Juneau, Michael Minella, Jeff Palmer, Bob Paulin
 * Java News Cast
 * Subscribe! (http://www.javaoffheap.com)
