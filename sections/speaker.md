@@ -1,6 +1,7 @@
-## Speaker: David Estes
+## Speaker: Josh Long
 
-* Creator of the Grails asset-pipeline plugin
-* Software Architect for Bertram Labs
-* Groovy/Grails Conference Speaker
+* Spring Developer Advocate at Pivotal
+* Java Champion
+* Book Author
+* Open Source Contributor: Spring Boot, Cloud
 
