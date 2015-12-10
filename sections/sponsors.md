@@ -1,13 +1,8 @@
-## Sponsors
+# Sponsors
+<img src="images/PivotalLogo.png" style="width: 700px;border: none;"/>
 
-Silver Sponsors
+## Silver Sponsors
 <div>
-    <div>
-      <div style="float:right;"><img width="300px" src="images/newrelic.jpeg"></div><div style="float: left"><img width="600px" src="images/2015-OPI-Logo-Stacked.png" style="background:white;"></div>
-    </div>
+	<img src="images/2015-OPI-Logo-Stacked.png" style="background: white; border: none; width: 40%; margin-right: 10px; vertical-align: middle;" />
+	<img src="images/newrelic.jpeg" style="height: 250px; vertical-align: middle;"/>
 </div>
-
-
-## Event Sponsor
-
-<img src="images/logo-pivotal-220.png" style="border: none;width: 1000px;"/>
