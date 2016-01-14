@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-December 10, 2015
+January 14, 2016
 
-Josh Long Presents: Getting Started with Spring Cloud
+Lightning Talks!
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,8 +30,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu December 17, 2015</th>
-		<td>Maker Track: Java 9 Modularity Workshop
+		<th>Thu January 26, 2016</th>
+		<td>Charlie Hunt Presents: Java’s Compact Strings
 </td>
 	</tr>
 </table>
