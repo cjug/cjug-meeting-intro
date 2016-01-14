@@ -1,5 +1,6 @@
 # Sponsors
-<img src="images/PivotalLogo.png" style="width: 700px;border: none;"/>
+
+<img src="images/HERE-logo.jpg" style="width: 700px;border: none;"/>
 
 
 ## Silver Sponsors
