@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-January 14, 2016
+January 26, 2016
 
-Lightning Talks!
+Charlie Hunt Presents: Java's Compact Strings
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,8 +30,9 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu January 26, 2016</th>
-		<td>Charlie Hunt Presents: Java’s Compact Strings
+		<th>Thu Feb 4, 2016</th>
+		<td>Freddy Guime Presents: A Tale of Multiple Threads
+
 </td>
 	</tr>
 </table>
@@ -51,3 +52,15 @@ Chicago Java Users Group is dedicated to the helping you.
 * Be a part of one of the largest Java User Groups in the US.
 * Self nominate by recording your attendance at 1 meeting per quarter until July elections.
 * Sign up today!
+
+--section--
+##Current Java News!
+* JUnit Lambda fully Funded! (coming along)
+* Android moving to OpenJDK (http://gluonhq.com/android-moving-openjdk/)
+* www.javaoffheap.com
+
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
+</div>
+
+
