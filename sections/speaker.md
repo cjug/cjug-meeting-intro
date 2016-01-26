@@ -1,9 +1,13 @@
-## Speaker(s): 
+## Speaker: 
 
-* I Dare you to give a Tech Talk - Bob Paulin
-* Some Garbage Talk - Jayesh Thakrar
-* Why Clojure is going to change your life - Lenko Donchev 
-* What is Akka? - Todd Ginsberg 
-* Spock an Introduction - Steven Hicks
-* Rules Engines - Cedric Hurst
-* At the Core of the Earth, there is Java! - James Gibbings 
+* He's Charlie Hunt!
+
+
+--section--
+## But if you never heard of him? (blasphemy!)
+* JVM Engineer Oracle
+* Lead Author of Java Performance 
+* Java Performance Companion (Coming soon)
+* Hotspot JVM, Java SE Performance 
+* Including G1GC
+* Java's Performance Uncle 

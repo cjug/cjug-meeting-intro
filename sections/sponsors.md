@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/HERE-logo.jpg" style="width: 700px;border: none;"/>
+<img src="images/imc-logo.png" style="border: none;"/>
 
 
 ## Silver Sponsors
