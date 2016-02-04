@@ -1,13 +1,12 @@
 ## Speaker: 
 
-* He's Charlie Hunt!
+### Freddy Guime
 
+* Performance Geek
+* Java Champion
+* CJUG Community Leader 
+* Author (coauthored Java 7 Recipies)
+* Podcaster (Java Pubhouse and OffHeap)
+* Nullpointer Bandleader
+* Orbi....Expedia Development Guru
 
---section--
-## But if you never heard of him? (blasphemy!)
-* JVM Engineer Oracle
-* Lead Author of Java Performance 
-* Java Performance Companion (Coming soon)
-* Hotspot JVM, Java SE Performance 
-* Including G1GC
-* Java's Performance Uncle 
