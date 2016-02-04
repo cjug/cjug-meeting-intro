@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/imc-logo.png" style="border: none;"/>
+<img src="http://www.vividseats.com/v3/images/sprites/VividSeats_@2X.png" style="border: none;"/>
 
 
 ## Silver Sponsors

@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-January 26, 2016
+Feburary 4, 2016
 
-Charlie Hunt Presents: Java's Compact Strings
+Freddy Guime Presents: A Tale of Multiple Threads
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -20,7 +20,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,600+** members
+* **1,700+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,10 +30,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu Feb 4, 2016</th>
-		<td>Freddy Guime Presents: A Tale of Multiple Threads
-
-</td>
+		<th>Thu Feb 23, 2016</th>
+		<td>David Norton Presents: Continuous Delivery Using Gradle</td>
 	</tr>
 </table>
 
@@ -55,7 +53,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* JUnit Lambda fully Funded! (coming along)
+* Bye bye Java Browser Plugin
+* JUnit Lambda fully Funded! (alpha targeted in end of Feb!)
 * Android moving to OpenJDK (http://gluonhq.com/android-moving-openjdk/)
 * www.javaoffheap.com
 
