@@ -1,12 +1,8 @@
 ## Speaker: 
 
-### Freddy Guime
+### David Norton
 
-* Performance Geek
-* Java Champion
-* CJUG Community Leader 
-* Author (coauthored Java 7 Recipies)
-* Podcaster (Java Pubhouse and OffHeap)
-* Nullpointer Bandleader
-* Orbi....Expedia Development Guru
+* Principal Consultant @ Object Partners
+* Java, Spring, Groovy, and CD Practices
+* Spock Framework Contributor
 
