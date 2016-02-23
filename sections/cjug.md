@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-Feburary 4, 2016
+Feburary 23, 2016
 
-Freddy Guime Presents: A Tale of Multiple Threads
+David Norton Presents: Continuous Delivery Using Gradle
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,8 +30,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu Feb 23, 2016</th>
-		<td>David Norton Presents: Continuous Delivery Using Gradle</td>
+		<th>Thu March 3, 2016</th>
+		<td>Jim Weaver Presents: Navigating *All* the Knowledge</td>
 	</tr>
 </table>
 
@@ -53,9 +53,9 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* Bye bye Java Browser Plugin
-* JUnit Lambda fully Funded! (alpha targeted in end of Feb!)
-* Android moving to OpenJDK (http://gluonhq.com/android-moving-openjdk/)
+* What's up with Oracle and Java
+* Tech Market Outlook
+* Fun with EULAs
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
