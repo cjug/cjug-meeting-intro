@@ -1,5 +1,5 @@
 # Sponsors
-<img src="http://www.vividseats.com/v3/images/sprites/VividSeats_@2X.png" style="border: none;background-color:white; width: 1000px"/>
+<img src="http://photos3.meetupstatic.com/photos/event/d/d/2/6/600_446516614.jpeg" style="border: none;background-color:white; width: 1000px"/>
 
 
 ## Silver Sponsors
