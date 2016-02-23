@@ -33,6 +33,10 @@ Chicago Java Users Group is dedicated to the helping you.
 		<th>Thu March 3, 2016</th>
 		<td>Jim Weaver Presents: Navigating *All* the Knowledge</td>
 	</tr>
+	<tr>
+		<th>Tues March 15, 2016</th>
+		<td>Brian Hicks Presents: Consul + Mesos = Developer Happiness</td>
+	</tr>
 </table>
 
 
