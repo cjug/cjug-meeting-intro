@@ -2,7 +2,7 @@
 
 Feburary 23, 2016
 
-David Norton Presents: Continuous Delivery Using Gradle
+Jim Weaver Presents: Navigating *All* the Knowledge
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -10,6 +10,8 @@ David Norton Presents: Continuous Delivery Using Gradle
 --section--
 ## What is the CJUG?
 Chicago Java Users Group is dedicated to the helping you.
+
+(often imitated, never duplicated)
 
 * Technology community second to none.
 * Learn and contribute to Java / JVM ecosystem
@@ -30,12 +32,16 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Thu March 3, 2016</th>
-		<td>Jim Weaver Presents: Navigating *All* the Knowledge</td>
-	</tr>
-	<tr>
 		<th>Tues March 15, 2016</th>
 		<td>Brian Hicks Presents: Consul + Mesos = Developer Happiness</td>
+	</tr>
+	<tr>
+		<th>Mon March 21, 2016</th>
+		<td>Josh Juneau (Virtually) Presents: Adopt-a-JSR for Java and Java EE: Shaping the Future</td>
+	</tr>
+	<tr>
+		<th>April is Big!</th>
+		<td>Heather VanCura, Simmor Ritter, Markus Eisele</td>
 	</tr>
 </table>
 
@@ -47,19 +53,11 @@ Chicago Java Users Group is dedicated to the helping you.
 * Invite yourself to the party: http://chicagotech.herokuapp.com/
 * chicago-tech.slack.com
 
---section--
-## Want to get involved in CJUG?
-## Nominate yourself for our Advisory Board!
-* Advisory Board gets a say in how CJUG is run.
-* Be a part of one of the largest Java User Groups in the US.
-* Self nominate by recording your attendance at 1 meeting per quarter until July elections.
-* Sign up today!
 
 --section--
 ##Current Java News!
-* What's up with Oracle and Java
-* Tech Market Outlook
-* Fun with EULAs
+* String newName = oldName.replace("TypeSafe","LightBend")
+* IBM Axing lots of Jobs? (what's going on?)
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
