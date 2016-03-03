@@ -1,8 +1,13 @@
 ## Speaker: 
 
-### David Norton
+### James Weaver
 
-* Principal Consultant @ Object Partners
-* Java, Spring, Groovy, and CD Practices
-* Spock Framework Contributor
+* Pivotal Evangelist
+* Many books! (Beginning J2EE, Pro JavaFX, Java with RasPi)
+* International Conference Speaker
+* Founding Member of the Null Pointers Band 
+(and Great Linnstrument player)
 
+<center>
+<img src="images/linnstrument.jpeg" />
+</center>
