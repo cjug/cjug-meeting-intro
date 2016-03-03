@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-Feburary 23, 2016
+March 3rd, 2016
 
 Jim Weaver Presents: Navigating *All* the Knowledge
 <div style="background-color: white; margin-top: 30px;">
