@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/PivotalLogo.png" style="border: none;background-color:white; "/>
+<img src="https://graphics.cars.com/images/core/logo.png" style="border: none;background-color:white; "/>
 
 
 ## Silver Sponsors
