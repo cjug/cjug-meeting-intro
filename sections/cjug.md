@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-March 3rd, 2016
+March 15, 2016
 
-Jim Weaver Presents: Navigating *All* the Knowledge
+Brian Hicks Presents: Consul + Mesos = Developer Happiness
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -32,10 +32,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tues March 15, 2016</th>
-		<td>Brian Hicks Presents: Consul + Mesos = Developer Happiness</td>
-	</tr>
-	<tr>
 		<th>Mon March 21, 2016</th>
 		<td>Josh Juneau (Virtually) Presents: Adopt-a-JSR for Java and Java EE: Shaping the Future</td>
 	</tr>
@@ -56,8 +52,9 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* String newName = oldName.replace("TypeSafe","LightBend")
-* IBM Axing lots of Jobs? (what's going on?)
+* Lightbend Lagom Released
+* More folks leaving Oracle
+* Rod Johnson Atomist
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
