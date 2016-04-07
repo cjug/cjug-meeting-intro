@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-March 15, 2016
+April 7, 2016
 
-Brian Hicks Presents: Consul + Mesos = Developer Happiness
+Heather VanCura and Charlie Hunt Present: Hacking on Java 9
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -10,8 +10,6 @@ Brian Hicks Presents: Consul + Mesos = Developer Happiness
 --section--
 ## What is the CJUG?
 Chicago Java Users Group is dedicated to the helping you.
-
-(often imitated, never duplicated)
 
 * Technology community second to none.
 * Learn and contribute to Java / JVM ecosystem
@@ -32,13 +30,24 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Mon March 21, 2016</th>
-		<td>Josh Juneau (Virtually) Presents: Adopt-a-JSR for Java and Java EE: Shaping the Future</td>
+		<th>Tue Apr 12, 2016</th>
+		<td>Simon Ritter - Modularity & Project Jigsaw in JDK 9: A Better Platform For IoT
+		</td>
 	</tr>
 	<tr>
-		<th>April is Big!</th>
-		<td>Heather VanCura, Simmor Ritter, Markus Eisele</td>
+		<th>Mon Apr 18, 2016</th>
+		<td>James Roper Presents: Rethinking REST in a Microservices World with Lagom
+
+		</td>
 	</tr>
+	<tr>
+		<th>May 24-25, 2016</th>
+		<td>GOTO Conference (Use CJUG50 50$)</td>
+	</tr>
+	<tr>
+		<th>May 22, 2016</th>
+		<td>GOTO JR<br>Make a geek out of your kid<br>https://goo.gl/52S0SB</td>
+	</tr>	
 </table>
 
 
@@ -52,9 +61,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* Lightbend Lagom Released
-* More folks leaving Oracle
-* Rod Johnson Atomist
+* Lightbend Lagom Released and more info coming!
+* Spring and Java EE duking it out?
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
