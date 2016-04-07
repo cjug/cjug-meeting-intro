@@ -41,6 +41,12 @@ Chicago Java Users Group is dedicated to the helping you.
 		</td>
 	</tr>
 	<tr>
+		<th>Tues Apr 19, 2016</th>
+		<td>OSGi Expert Group is in Town!
+		</td>
+	</tr>
+
+	<tr>
 		<th>May 24-25, 2016</th>
 		<td>GOTO Conference (Use CJUG50 50$)</td>
 	</tr>
