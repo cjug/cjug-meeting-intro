@@ -71,3 +71,13 @@ Chicago Java Users Group is dedicated to the helping you.
 </div>
 
 
+--section--
+##The JCP Needs YOU!
+
+<img src="images/Uncle_Sam.jpg"/>
+
+####Join the JCP as an individual.  Its Free!
+####Give your JUG a bigger voice in Java
+####See the link on the CJUG Meetup under Sponsors
+
+
