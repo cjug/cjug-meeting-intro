@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/imc-logo.png" style="border: none;background-color:white;width:500px; "/>
+<img src="images/CME-Group-logo.jpg" style="border: none;background-color:white;width:500px; "/>
 
 
 ## Silver Sponsors

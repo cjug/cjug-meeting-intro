@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-April 7, 2016
+April 12, 2016
 
-Heather VanCura and Charlie Hunt Present: Hacking on Java 9
+Simon Ritter - Modularity & Project Jigsaw in JDK 9: A Better Platform For IoT
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -29,11 +29,6 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	<tr>
-		<th>Tue Apr 12, 2016</th>
-		<td>Simon Ritter - Modularity & Project Jigsaw in JDK 9: A Better Platform For IoT
-		</td>
-	</tr>
 	<tr>
 		<th>Mon Apr 18, 2016</th>
 		<td>James Roper Presents: Rethinking REST in a Microservices World with Lagom
@@ -68,7 +63,7 @@ Chicago Java Users Group is dedicated to the helping you.
 --section--
 ##Current Java News!
 * Lightbend Lagom Released and more info coming!
-* Spring and Java EE duking it out?
+* Heather Van Cura Joins us!  JCP!
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
