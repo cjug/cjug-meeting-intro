@@ -56,7 +56,7 @@ Chicago Java Users Group is dedicated to the helping you.
 #Chicago Tech Slack
 * Connect with local developers and stay current
 * Channels for Security, Android, Java, DevOps and much more.
-* Invite yourself to the party: http://chicagotech.herokuapp.com/
+* Invite yourself to the party: http://www.chicagotechslack.com/
 * chicago-tech.slack.com
 
 
