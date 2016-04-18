@@ -81,3 +81,12 @@ Chicago Java Users Group is dedicated to the helping you.
 ####See the link on the CJUG Meetup under Sponsors
 
 
+--section--
+##Thank you CJUG Officers
+
+* Freddy Guime    - Community Leader
+* Cedric Hurst    - Director of Sponsorship
+* Josh Juneau     - Director of Meetings
+* Michael Minella - Chairman of the Board
+
+
