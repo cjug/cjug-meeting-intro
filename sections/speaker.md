@@ -1,8 +1,7 @@
 ## Speaker: 
 
-### Simon Ritter
+### James Roper
 
-* Conference Speaker (seriously just name a conference)
-* Azul Deputy CTO
-* Java Advocate 4 Life
-* @speakjava
+* Tech Lead (LightBend)
+* Play Framework
+* Manufacturing to Financial Industry

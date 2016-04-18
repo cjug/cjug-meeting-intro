@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-April 12, 2016
+Mon Apr 18, 2016
 
-Simon Ritter - Modularity & Project Jigsaw in JDK 9: A Better Platform For IoT
+James Roper Presents: Rethinking REST in a Microservices World with Lagom
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -30,17 +30,23 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Mon Apr 18, 2016</th>
-		<td>James Roper Presents: Rethinking REST in a Microservices World with Lagom
-
-		</td>
-	</tr>
-	<tr>
 		<th>Tues Apr 19, 2016</th>
 		<td>OSGi Expert Group is in Town!
 		</td>
 	</tr>
-
+	<tr>
+		<th>Thur May 5, 2016</th>
+		<td>John Cairns Presents - Smashing Atomics: Concurrency in Java</td>
+		</tr>
+		<tr>
+		<th>Tue May 17, 2016</th>
+		<td>Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel</td>
+		</tr>
+		<tr>
+		<th>Thur Jun 2, 2016</th>
+		<td>Lightning Talks!</td>
+		</tr>
+		
 	<tr>
 		<th>May 24-25, 2016</th>
 		<td>GOTO Conference (Use CJUG50 50$)</td>
