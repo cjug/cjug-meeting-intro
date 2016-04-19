@@ -1,8 +1,11 @@
 ## Chicago Java Users Group
 
-Mon Apr 18, 2016
+Tues Apr 19, 2016
 
-James Roper Presents: Rethinking REST in a Microservices World with Lagom
+Double Feature!
+
+* Peter Kriens and Tim Ward Present: Intro to OSGi – The Microservices Kernel 
+* Carsten Ziegeler and David Bosschaert Present: Maximize the Power of OSGi
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -29,11 +32,6 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	<tr>
-		<th>Tues Apr 19, 2016</th>
-		<td>OSGi Expert Group is in Town!
-		</td>
-	</tr>
 	<tr>
 		<th>Thur May 5, 2016</th>
 		<td>John Cairns Presents - Smashing Atomics: Concurrency in Java</td>
@@ -85,14 +83,5 @@ Chicago Java Users Group is dedicated to the helping you.
 ####Join the JCP as an individual.  Its Free!
 ####Give your JUG a bigger voice in Java
 ####See the link on the CJUG Meetup under Sponsors
-
-
---section--
-##Thank you CJUG Officers
-
-* Freddy Guime    - Community Leader
-* Cedric Hurst    - Director of Sponsorship
-* Josh Juneau     - Director of Meetings
-* Michael Minella - Chairman of the Board
 
 
