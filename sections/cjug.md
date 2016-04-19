@@ -51,7 +51,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	</tr>
 	<tr>
 		<th>May 22, 2016</th>
-		<td>GOTO JR<br>Make a geek out of your kid<br>https://goo.gl/52S0SB</td>
+		<td>GOTO JR - https://goo.gl/52S0SB</td>
 	</tr>	
 </table>
 
