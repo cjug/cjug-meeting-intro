@@ -30,22 +30,26 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
+	<tr>
 		<th>Tue May 17, 2016</th>
 		<td>Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel</td>
-		</tr>
-		<tr>
-		<th>Thur Jun 2, 2016</th>
-		<td>Lightning Talks!</td>
-		</tr>
-		
+	</tr>
+	<tr>
+		<th>May 22, 2016</th>
+		<td>GOTO JR - https://goo.gl/52S0SB</td>
+	</tr>
 	<tr>
 		<th>May 24-25, 2016</th>
 		<td>GOTO Conference (Use CJUG50 50$)</td>
 	</tr>
 	<tr>
-		<th>May 22, 2016</th>
-		<td>GOTO JR - https://goo.gl/52S0SB</td>
-	</tr>	
+		<th>Thur Jun 2, 2016</th>
+		<td>Lightning Talks!</td>
+	</tr>
+	<tr>
+		<th>Tue June 21, 2016</th>
+		<td>Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow</td>
+	</tr>
 </table>
 
 
