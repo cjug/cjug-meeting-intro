@@ -1,11 +1,9 @@
 ## Chicago Java Users Group
 
-Tues Apr 19, 2016
+May 5, 2016
 
-Double Feature!
 
-* Peter Kriens and Tim Ward Present: Intro to OSGi – The Microservices Kernel 
-* Carsten Ziegeler and David Bosschaert Present: Maximize the Power of OSGi
+* John Cairns Presents - Smashing Atomics: Concurrency in Java
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -32,11 +30,6 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	<tr>
-		<th>Thur May 5, 2016</th>
-		<td>John Cairns Presents - Smashing Atomics: Concurrency in Java</td>
-		</tr>
-		<tr>
 		<th>Tue May 17, 2016</th>
 		<td>Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel</td>
 		</tr>
