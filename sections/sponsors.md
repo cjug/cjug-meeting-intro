@@ -1,5 +1,5 @@
 # Sponsors
-<img src="http://www.conversantmedia.com/sites/all/themes/my_theme/images/conversant_logo_lg.png" style="border: none;background-color:white;width:400px "/>
+<img src="http://www.conversantmedia.com/sites/all/themes/my_theme/images/conversant_logo_lg.png" style="border: none;background-color:white;width:1000px "/>
 
 
 ## Silver Sponsors
