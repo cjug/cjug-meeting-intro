@@ -1,7 +1,8 @@
 ## Speaker: 
 
-### John Cairns
+### Andres Olarte
 
-* Lead Engineer at Conversant
-* Creator of Conversant Disruptor
-* Mentor and High Performance Java  Specialist
+* One of our own!
+* Senior Java Software Engineer
+* Enterprise integrations and messaging
+* http://www.javaprocess.com/
