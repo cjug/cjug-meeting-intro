@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-May 5, 2016
+May 17, 2016
 
 
-* John Cairns Presents - Smashing Atomics: Concurrency in Java
+* Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
