@@ -63,8 +63,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* Lightbend Lagom Released and more info coming!
-* Heather Van Cura Joins us!  JCP!
+* Oracle Vs Google round 4
+* Java EE has Guardians now?
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
