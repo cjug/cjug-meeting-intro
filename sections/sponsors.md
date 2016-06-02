@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/the-nerdery.png" style="border: none;background-color:white;width:271px;"/>
+<img src="images/emmi-solutions.png" style="border: none;background-color:white;"/>
 
 
 ## Silver Sponsors

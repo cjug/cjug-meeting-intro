@@ -3,7 +3,7 @@
 May 17, 2016
 
 
-* Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel
+* CJUG Presents: Lightning Talks!
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,700+** members
+* **1,800+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,22 +30,6 @@ Chicago Java Users Group is dedicated to the helping you.
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
-	<tr>
-		<th>Tue May 17, 2016</th>
-		<td>Andres Olarte: Scalable Services with JMS, Spring Integration and Apache Camel</td>
-	</tr>
-	<tr>
-		<th>May 22, 2016</th>
-		<td>GOTO JR - https://goo.gl/52S0SB</td>
-	</tr>
-	<tr>
-		<th>May 24-25, 2016</th>
-		<td>GOTO Conference (Use CJUG50 50$)</td>
-	</tr>
-	<tr>
-		<th>Thur Jun 2, 2016</th>
-		<td>Lightning Talks!</td>
-	</tr>
 	<tr>
 		<th>Tue June 21, 2016</th>
 		<td>Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow</td>
@@ -63,8 +47,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* Oracle Vs Google round 4
-* Java EE has Guardians now?
+* Oracle Vs Google Won Fair Use of APIs!
+* Of Java EE Guardians and Oracle Stewardship
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
