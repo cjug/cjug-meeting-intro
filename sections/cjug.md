@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-May 17, 2016
+Jun 2, 2016
 
 
 * CJUG Presents: Lightning Talks!
