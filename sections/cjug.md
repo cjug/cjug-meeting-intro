@@ -35,10 +35,6 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Markus Eisele Presents: CQRS and Event Sourcing for Java Developers</td>
 	</tr>
 	<tr>
-		<th>Tue June 28, 2016</th>
-		<td>Markus Eisele Presents: CQRS and Event Sourcing for Java Developers</td>
-	</tr>
-	<tr>
 		<th>Wed June 29, 2016</th>
 		<td> Adopt Online - JavaEE 8 and Java 9</td>
 	</tr>
