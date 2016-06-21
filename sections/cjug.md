@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Jun 2, 2016
+Jun 21, 2016
 
 
-* CJUG Presents: Lightning Talks!
+* Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -31,8 +31,24 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tue June 21, 2016</th>
-		<td>Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow</td>
+		<th>Tue June 28, 2016</th>
+		<td>Markus Eisele Presents: CQRS and Event Sourcing for Java Developers</td>
+	</tr>
+	<tr>
+		<th>Tue June 28, 2016</th>
+		<td>Markus Eisele Presents: CQRS and Event Sourcing for Java Developers</td>
+	</tr>
+	<tr>
+		<th>Wed June 29, 2016</th>
+		<td> Adopt Online - JavaEE 8 and Java 9</td>
+	</tr>
+	<tr>
+		<th>Tues July 19, 2016</th>
+		<td>Arun Gupta - Couchbase</td>
+	</tr>
+	<tr>
+		<th>Thurs Aug 4, 2016</th>
+		<td>Jeff Brown</td>
 	</tr>
 </table>
 
@@ -47,6 +63,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
+* New JCP introduces Associate Memberships - NO MORE EMPLOYER SIGNOFF!
 * Oracle Vs Google Won Fair Use of APIs!
 * Of Java EE Guardians and Oracle Stewardship
 * www.javaoffheap.com
