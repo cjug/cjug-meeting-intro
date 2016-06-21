@@ -1,10 +1,9 @@
-## Speakers: 
+## Speaker: 
 
-### 
+### Michael Minella
 
-* Property based testing  - Lenko Donchev
-* Asynchronous Logging - Matt Sicker
-* java.util.Optional: When and How - Todd Ginsberg
-* Move from Selenium Grid to Cloud - Anshul Sharma
-* I didn't know that about Groovy! - Steven Hicks
-* Patterns and Antipatterns for Java 8 Futures - Richard Whaling
+* Renaissance Man
+* JavaOne Rockstar
+* JSR-352 Expert Group
+* Founder of the Spring Cloud Task
+* CJUG Chairman of the Board
