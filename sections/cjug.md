@@ -3,7 +3,7 @@
 Jun 21, 2016
 
 
-* Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow
+##Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -44,7 +44,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	</tr>
 	<tr>
 		<th>Thurs Aug 4, 2016</th>
-		<td>Jeff Brown</td>
+		<td>Jeff Scott Brown</td>
 	</tr>
 </table>
 
