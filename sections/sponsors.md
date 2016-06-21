@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/emmi-solutions.png" style="border: none;background-color:white;"/>
+<img src="images/PivotalLogo.png" style="border: none;background-color:white;"/>
 
 
 ## Silver Sponsors
