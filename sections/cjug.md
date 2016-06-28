@@ -39,7 +39,7 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Arun Gupta - Couchbase</td>
 	</tr>
 	<tr>
-		<th>Tue July 28, 2016</th>
+		<th>Thur July 28, 2016</th>
 		<td>It's Party Time! Polyglot Mingle</td>
 	</tr>
 	<tr>
