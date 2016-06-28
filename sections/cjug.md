@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Jun 21, 2016
+Jun 28, 2016
 
 
-##Michael Minella: Data Microservices with Spring Cloud Stream, Task, and DataFlow
+##Markus Eisele Presents: CQRS and Event Sourcing for Java Developers
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -31,16 +31,16 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tue June 28, 2016</th>
-		<td>Markus Eisele Presents: CQRS and Event Sourcing for Java Developers</td>
-	</tr>
-	<tr>
 		<th>Wed June 29, 2016</th>
 		<td> Adopt Online - JavaEE 8 and Java 9</td>
 	</tr>
 	<tr>
 		<th>Tues July 19, 2016</th>
 		<td>Arun Gupta - Couchbase</td>
+	</tr>
+	<tr>
+		<th>Tue July 28, 2016</th>
+		<td>It's Party Time! Polyglot Mingle</td>
 	</tr>
 	<tr>
 		<th>Thurs Aug 4, 2016</th>
@@ -59,9 +59,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* New JCP introduces Associate Memberships - NO MORE EMPLOYER SIGNOFF!
-* Oracle Vs Google Won Fair Use of APIs!
-* Of Java EE Guardians and Oracle Stewardship
+* Change.org Petition to support Java EE<br><img src="images/qr_change.jpg" style="height:200px"/>
 * www.javaoffheap.com
 
 <div style="background-color: white; margin-top: 30px;">
@@ -74,7 +72,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <img src="images/Uncle_Sam.jpg" style="height:400px"/>
 
-####Join the JCP as an individual.  Its Free!
+####Join the JCP as an individual or associate.  Its Free!
 ####Give your JUG a bigger voice in Java
 ####See the link on the CJUG Meetup under Sponsors
 

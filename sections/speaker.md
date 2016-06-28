@@ -1,9 +1,10 @@
 ## Speaker: 
 
-### Michael Minella
+### Markus Eisele
 
-* Renaissance Man
-* JavaOne Rockstar
-* JSR-352 Expert Group
-* Founder of the Spring Cloud Task
-* CJUG Chairman of the Board
+* Java Champion
+* Former Java EE Expert Group Member
+* Community Leader of German DOAG
+* Founder of JavaLand
+* Proper German!
+
