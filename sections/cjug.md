@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Jun 28, 2016
+July 19, 2016
 
 
-##Markus Eisele Presents: CQRS and Event Sourcing for Java Developers
+##Arun Gupta Presents: Full-stack NoSQL Document Database
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,800+** members
+* **1,850+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -31,20 +31,20 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Wed June 29, 2016</th>
-		<td> Adopt Online - JavaEE 8 and Java 9</td>
-	</tr>
-	<tr>
-		<th>Tues July 19, 2016</th>
-		<td>Arun Gupta - Couchbase</td>
-	</tr>
-	<tr>
 		<th>Thur July 28, 2016</th>
 		<td>It's Party Time! Polyglot Mingle</td>
 	</tr>
 	<tr>
 		<th>Thurs Aug 4, 2016</th>
 		<td>Jeff Scott Brown</td>
+	</tr>
+	<tr>
+		<th>Tues Aug 16, 2016</th>
+		<td>Paul Nauman Presents: How NOT to Measure Latency</td>
+	</tr>
+	<tr>
+		<th>September 27, 2016</th>
+		<td>vJUG 24 hour conference https://virtualjug.com/vjug24/</td>
 	</tr>
 </table>
 
