@@ -36,7 +36,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	</tr>
 	<tr>
 		<th>Thurs Aug 4, 2016</th>
-		<td>Jeff Scott Brown</td>
+		<td>Jeff Scott Brown Presents: Polyglot Web Development With Grails 3</td>
 	</tr>
 	<tr>
 		<th>Tues Aug 16, 2016</th>
