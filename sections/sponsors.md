@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/icfcircuit2016.jpg" style="border: none;background-color:white;"/>
+<img src="http://www.earlywarning.com/img/logo-early-warning.png" style="border: none;background-color:white;"/>
 
 
 ## Silver Sponsors
