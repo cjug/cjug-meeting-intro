@@ -1,0 +1,6 @@
+Ideas for (Next) meetups
+
+ - Create a voting app for saying if the meetup was successful or not
+ - JCP Membership drive (till november). Have a table for getting people signed-up
+ - JCP Slide for next voting issues.
+ 
