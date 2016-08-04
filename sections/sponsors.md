@@ -1,7 +1,7 @@
 # Sponsors
 <img src="http://www.ociweb.com/download_file/130" style="border: none;background-color:white;" height="200px" width="200px"/>
-<img src="https://tm-prod.global.ssl.fastly.net/uploaded/companies/676/small_logo.png?v=a81a4aca25fb559ebcf2bdbc8e3615b7bd9e6996c544d313721168b2536271be" style="border: none;background-color:white;" height="120px" width="400px"/>
-<img src="http://www.spantree.net/images/spantree-logo-3x.png" style="border: none;background-color:white;" height="100px" width="400px"/>
+<img src="https://tm-prod.global.ssl.fastly.net/uploaded/companies/676/small_logo.png?v=a81a4aca25fb559ebcf2bdbc8e3615b7bd9e6996c544d313721168b2536271be" style="border: none;background-color:white;" height="120px" width="600px"/>
+<img src="http://www.spantree.net/images/spantree-logo-3x.png" style="border: none;background-color:white;" height="60px" width="600px"/>
 
 
 ## Silver Sponsors
