@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-July 19, 2016
+August 4, 2016
 
 
-##Arun Gupta Presents: Full-stack NoSQL Document Database
+##Jeff Scott Brown Presents: Polyglot Web Development With Grails 3
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
