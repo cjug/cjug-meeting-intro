@@ -38,6 +38,10 @@ Chicago Java Users Group is dedicated to the helping you.
 		<th>September 27, 2016</th>
 		<td>vJUG 24 hour conference https://virtualjug.com/vjug24/</td>
 	</tr>
+	<tr>
+		<th>October 13, 2016</th>
+		<td>Tom Bujok Presents Scale your app out!</td>
+	</tr>
 </table>
 
 
