@@ -1,13 +1,11 @@
 ## Speaker: 
 
-### Arun Gupta
+### Dan Woods
 
-* Runner
-* Developer Advocate (before it was cool) at Sun, Oracle, Red Hat, Coachbase
-* Java Rockstart, Champion, User Group Leader
-* Blogger and Author most recently Minecraft Modding with Forge and Java EE 7 Essentials 
-* Devoxx4Kids US Founder
-* @arungupta
+* Core team member of Ratpack
+* Active Groovy and Java Community member
+* Shortest CJUG Speaker bio yet so he must be entertaining!
+* @danveloper
 
 
 
