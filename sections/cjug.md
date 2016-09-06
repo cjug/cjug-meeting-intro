@@ -29,10 +29,10 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Welcome new Board Members
 
-Amrita Chavan
-Mary Grygleski
-Bill Werkheiser
-Jonathan Ross
+* Amrita Chavan
+* Mary Grygleski
+* Bill Werkheiser
+* Jonathan Ross
 
 --section--
 
