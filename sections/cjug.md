@@ -27,6 +27,15 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 
+## Welcome new Board Members
+
+Amrita Chavan
+Mary Grygleski
+Bill Werkheiser
+Jonathan Ross
+
+--section--
+
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
