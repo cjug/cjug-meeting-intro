@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-August 4, 2016
+September 6, 2016
 
 
-##Jeff Scott Brown Presents: Polyglot Web Development With Grails 3
+##Dan Woods Presents: Ratpack Web Framework
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -31,8 +31,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>Tues Aug 16, 2016</th>
-		<td>Paul Nauman Presents: How NOT to Measure Latency</td>
+		<th>September 16, 2016</th>
+		<td>Windy City Devcon https://www.eventbrite.com/e/windy-city-devcon-tickets-26714742514</td>
 	</tr>
 	<tr>
 		<th>September 27, 2016</th>
@@ -53,6 +53,8 @@ Chicago Java Users Group is dedicated to the helping you.
 ##Current Java News!
 * Change.org Petition to support Java EE<br><img src="images/qr_change.jpg" style="height:200px"/>
 * www.javaoffheap.com
+* Java 9 in Rampdown
+* Oracle JavaOne announcement on Java EE.
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
