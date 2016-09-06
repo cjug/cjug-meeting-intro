@@ -1,6 +1,7 @@
 # Sponsors
-<img src="images/PivotalLogo.png" style="border: none;background-color:white;" height="300px" width="600px"/></br>
-<img src="https://www.sigconsult.com/wp-content/themes/sigconsult/images/logos/header_logo.png" style="border: none;background-color:white;" height="300px" width="600px"/></br>
+<img src="images/PivotalLogo.png" style="border: none;background-color:white;" height="200px" width="600px"/></br>
+<img src="https://www.sigconsult.com/wp-content/themes/sigconsult/images/logos/header_logo.png" style="border: none;background-color:white;" height="200px" width="600px"/></br>
+
 
 ## Silver Sponsors
 <div>
