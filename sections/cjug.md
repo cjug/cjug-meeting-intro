@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,850+** members
+* **1,900+** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
