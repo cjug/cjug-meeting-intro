@@ -1,11 +1,13 @@
 ## Speaker: 
 
-### Dan Woods
+### Tom Bujok
 
-* Core team member of Ratpack
-* Active Groovy and Java Community member
-* Shortest CJUG Speaker bio yet so he must be entertaining!
-* @danveloper
+* Software Engineer @ Hazelcast
+* Open Source Contributor
+* babun, p2-maven-plugin, soap-ws
+* tutoring, presenting and live coding
+
+
 
 
 
