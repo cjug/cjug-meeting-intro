@@ -3,7 +3,8 @@
 September 6, 2016
 
 
-##Dan Woods Presents: Ratpack Web Framework
+##Tom Bujok Presents: Scale your app out!
+
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -27,29 +28,12 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 
-## Welcome new Board Members
-
-* Amrita Chavan
-* Mary Grygleski
-* Bill Werkheiser
-* Jonathan Ross
-
---section--
-
 ## Upcoming CJUG Events
 
 <table class="upcoming-events">
 	<tr>
-		<th>September 16, 2016</th>
-		<td>Windy City Devcon https://www.eventbrite.com/e/windy-city-devcon-tickets-26714742514</td>
-	</tr>
-	<tr>
-		<th>September 27, 2016</th>
-		<td>vJUG 24 hour conference https://virtualjug.com/vjug24/</td>
-	</tr>
-	<tr>
-		<th>October 13, 2016</th>
-		<td>Tom Bujok Presents Scale your app out!</td>
+		<th>October 25, 2016</th>
+		<td>Jerrell Mardis: Material Animations - A Deep Dive into Motion Design &amp; Animation</td>
 	</tr>
 </table>
 
@@ -64,10 +48,9 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* Change.org Petition to support Java EE<br><img src="images/qr_change.jpg" style="height:200px"/>
 * www.javaoffheap.com
-* Java 9 in Rampdown
-* Oracle JavaOne announcement on Java EE.
+* Java EE 8, back in the plan. 
+* Microprofile.io
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
