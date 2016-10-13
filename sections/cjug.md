@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-September 6, 2016
+Oct 13, 2016
 
 
 ##Tom Bujok Presents: Scale your app out!
