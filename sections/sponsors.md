@@ -1,6 +1,5 @@
 # Sponsors
-<img src="http://www.vividseats.com/v3/images/sprites/VividSeats_@2X.png" style="border: none;background-color:white;" height="200px" width="600px"/></br>
-<img src="https://hazelcast.com/wp-content/uploads/2016/03/azul-systems-logo-hires.png" style="border: none;background-color:white;" height="200px" width="600px"/></br>
+<img src="images/powerreviews.png" style="border: none;background-color:white;"  width="600px"/></br>
 
 
 ## Silver Sponsors

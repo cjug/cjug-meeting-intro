@@ -3,7 +3,7 @@
 Oct 13, 2016
 
 
-##Tom Bujok Presents: Scale your app out!
+##Jerrell Mardis: Material Animations - A Deep Dive into Motion Design & Animation
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -32,8 +32,8 @@ Chicago Java Users Group is dedicated to the helping you.
 
 <table class="upcoming-events">
 	<tr>
-		<th>October 25, 2016</th>
-		<td>Jerrell Mardis: Material Animations - A Deep Dive into Motion Design &amp; Animation</td>
+		<th>December 1st, 2016</th>
+		<td>Holiday Party! (Details coming soon, watch for CJUG Email!)</td>
 	</tr>
 </table>
 
@@ -49,8 +49,6 @@ Chicago Java Users Group is dedicated to the helping you.
 --section--
 ##Current Java News!
 * www.javaoffheap.com
-* Java EE 8, back in the plan. 
-* Microprofile.io
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>

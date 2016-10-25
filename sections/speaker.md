@@ -1,13 +1,9 @@
 ## Speaker: 
 
-### Tom Bujok
+### Jerrel Mardis
 
-* Software Engineer @ Hazelcast
-* Open Source Contributor
-* babun, p2-maven-plugin, soap-ws
-* tutoring, presenting and live coding
-
-
-
+* Android Developer at Salesforce.com
+* Organizer Google Developer Group
+* Over 6 years in Android Development
 
 
