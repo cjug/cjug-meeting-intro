@@ -1,5 +1,5 @@
 # Sponsors
-<img src="images/powerreviews.png" style="border: none;background-color:white;"  width="600px"/></br>
+<img src="images/PivotalLogo.png" style="border: none;background-color:white;"  width="600px"/></br>
 
 
 ## Silver Sponsors
