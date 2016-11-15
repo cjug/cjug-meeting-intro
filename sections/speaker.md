@@ -1,9 +1,10 @@
 ## Speaker: 
 
-### Jerrel Mardis
+### Josh Juneau
 
-* Android Developer at Salesforce.com
-* Organizer Google Developer Group
-* Over 6 years in Android Development
-
+* Author
+* Application Developer at Fermilab
+* Award winning JCP Member and Expert Group Member (JSF)
+* CJUG Director of Meetings
+* Netbeans Dream Team Member
 
