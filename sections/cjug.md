@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Oct 13, 2016
+Nov 15, 2016
 
 
-##Jerrell Mardis: Material Animations - A Deep Dive into Motion Design & Animation
+##Josh Juneau Presents: Java EE 8 Recipes
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -33,7 +33,11 @@ Chicago Java Users Group is dedicated to the helping you.
 <table class="upcoming-events">
 	<tr>
 		<th>December 1st, 2016</th>
-		<td>Holiday Party! (Details coming soon, watch for CJUG Email!)</td>
+		<td>Holiday Party with Chicago Polyglot. Signups open.</td>
+	</tr>
+	<tr>
+		<th>December 15st, 2016</th>
+		<td>Lightning Talks</td>
 	</tr>
 </table>
 
