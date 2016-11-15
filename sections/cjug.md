@@ -36,7 +36,7 @@ Chicago Java Users Group is dedicated to the helping you.
 		<td>Holiday Party with Chicago Polyglot. Signups open.</td>
 	</tr>
 	<tr>
-		<th>December 15st, 2016</th>
+		<th>December 13th, 2016</th>
 		<td>Lightning Talks</td>
 	</tr>
 </table>
