@@ -40,8 +40,12 @@ Working on them!
 <tr>
 <td>DevNexus!</td>
 <td>Feb 22-24, Atlanta GA</td>
-<td>Best Bang-for-the-buck Conference!</td>
 </tr>
+<tr>
+<td>Spring Days!</td>
+<td>Late May/Early June</td>
+</tr>
+
 </table>
 
 --section--
