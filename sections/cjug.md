@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Nov 15, 2016
+Jan 17 2017
 
 
-##Josh Juneau Presents: Java EE 8 Recipes
+##Bob Paulin and Michael Minella Presents: Breaking into Open Source
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -22,7 +22,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1,900+** members
+* **2000** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,17 +30,19 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Upcoming CJUG Events
 
-<table class="upcoming-events">
-	<tr>
-		<th>December 1st, 2016</th>
-		<td>Holiday Party with Chicago Polyglot. Signups open.</td>
-	</tr>
-	<tr>
-		<th>December 13th, 2016</th>
-		<td>Lightning Talks</td>
-	</tr>
-</table>
 
+Working on them! 
+
+
+## Upcoming General Events
+
+<table class="upcoming-events">
+<tr>
+<td>DevNexus!</td>
+<td>Feb 22-24, Atlanta GA</td>
+<td>Best Bang-for-the-buck Conference!</td>
+</tr>
+</table>
 
 --section--
 #Chicago Tech Slack
@@ -57,7 +59,7 @@ Chicago Java Users Group is dedicated to the helping you.
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
 </div>
-
+Year-end Recap 
 
 --section--
 ##The JCP Needs YOU!
