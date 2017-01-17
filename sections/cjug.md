@@ -37,7 +37,7 @@ New CJUG President: Freddy Guime
 <th>Bob Paulin:</th><td>Chief Financial Officer</td>
 </tr>
 <tr>
-<th>Todd Gingsberg:</th><td>Deputy CFO</td>
+<th>Todd Ginsberg:</th><td>Deputy CFO</td>
 </tr>
 </table>
 
