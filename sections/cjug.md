@@ -19,6 +19,30 @@ Chicago Java Users Group is dedicated to the helping you.
 * Have fun and build cool things
 
 --section--
+## New Year? New Leadership!
+New CJUG President: Freddy Guime
+
+###Directors
+<table>
+<tr>
+<th>Amrita Chavan:</th><td>Community Leader</td>
+</tr>
+<tr>
+<th>Mary Grygleski:</th><td>Meeting Director</td>
+</tr>
+<tr>
+<th>Liz Schuering:</th><td>Sponsorship Director</td>
+</tr>
+<tr>
+<th>Bob Paulin:</th><td>Chief Financial Officer</td>
+</tr>
+<tr>
+<th>Todd Gingsberg:</th><td>Deputy CFO</td>
+</tr>
+</table>
+
+
+--section--
 
 ## Useful stats
 
