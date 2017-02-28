@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Jan 17 2017
+Feb, 28, 2017
 
 
-##Bob Paulin and Michael Minella Presents: Breaking into Open Source
+##Paul Nauman presents: Building a Better JVM
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -46,30 +46,27 @@ New CJUG President: Freddy Guime
 
 ## Useful stats
 
-* **2000** members
+* **2050** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
 --section--
 
 ## Upcoming CJUG Events
+<table class="upcoming-events"  width=800>
+<tr>
+<td>Marcus Hirt: Java Mission Control &amp; <br>JFR in JDK 9: A Sneak Peek</td>
+<td width=150>Mar 28</td>
+</tr>
+</table>
 
-
-Working on them! 
-
-
+<p>
 ## Upcoming General Events
-
-<table class="upcoming-events">
+<table class="upcoming-events" width=800>
 <tr>
-<td>DevNexus!</td>
-<td>Feb 22-24, Atlanta GA</td>
+<td>Spring Days!<br>Call-For-Papers Open</td>
+<td width=150>May 30-31</td>
 </tr>
-<tr>
-<td>Spring Days!</td>
-<td>Late May/Early June</td>
-</tr>
-
 </table>
 
 --section--
@@ -87,15 +84,16 @@ Working on them!
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
 </div>
-Year-end Recap 
+
+Java 9 (what it has/or doesn't) 
 
 --section--
-##The JCP Needs YOU!
-
-<img src="images/Uncle_Sam.jpg" style="height:400px"/>
-
-####Join the JCP as an individual or associate.  Its Free!
-####Give your JUG a bigger voice in Java
-####See the link on the CJUG Meetup under Sponsors
+#CJUG Office Hours!
+* Let our Experts Help You!!!
+* Walk in (no appointment necessary)
+* Talk about problems/shop/tech
+* Janine & Todd (Mentors)
+* Mar 21
+* Watch Meetup
 
 
