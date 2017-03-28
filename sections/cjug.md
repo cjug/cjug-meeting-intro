@@ -46,7 +46,7 @@ Chicago Java Users Group is dedicated to the helping you.
 </tr>
 </table>
 
-<p>
+--section--
 ## Upcoming General Events
 <table class="upcoming-events" width=800>
 <tr>
