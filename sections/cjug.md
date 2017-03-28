@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Feb, 28, 2017
+Mar 28, 2017
 
 
-##Paul Nauman presents: Building a Better JVM
+##Marcus Hirt: Java Mission Control & JFR in JDK 9: A Sneak Peek
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -19,34 +19,10 @@ Chicago Java Users Group is dedicated to the helping you.
 * Have fun and build cool things
 
 --section--
-## New Year? New Leadership!
-New CJUG President: Freddy Guime
-
-###Directors
-<table>
-<tr>
-<th>Amrita Chavan:</th><td>Community Leader</td>
-</tr>
-<tr>
-<th>Mary Grygleski:</th><td>Meeting Director</td>
-</tr>
-<tr>
-<th>Liz Schuering:</th><td>Sponsorship Director</td>
-</tr>
-<tr>
-<th>Bob Paulin:</th><td>Chief Financial Officer</td>
-</tr>
-<tr>
-<th>Todd Ginsberg:</th><td>Deputy CFO</td>
-</tr>
-</table>
-
-
---section--
 
 ## Useful stats
 
-* **2050** members
+* **2060** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -55,8 +31,18 @@ New CJUG President: Freddy Guime
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-<td>Marcus Hirt: Java Mission Control &amp; <br>JFR in JDK 9: A Sneak Peek</td>
-<td width=150>Mar 28</td>
+<td>GOTO NIGHTS with Frank Greco<br>, Jim Weaver and Ed Burns<br>Machine Learning (1st session), Cloud Immigrant vs Cloud Native (2nd session)</td>
+<td width=150>April 4th</td>
+</tr>
+<tr>
+<td>CJUG Office Hours<br>Come bring your problems! or ask questions to learn</td>
+<td width=150>April 6th</td>
+</tr>
+<tr><td>Heather VanCura and Charlie Hunt Present: Hacking on Java 9 Round 2</td>
+<td width=150>April 11</td>
+</tr>
+<tr><td>Johan Andren Presents: Akka Streaming and Alpakka</td>
+<td width=150>April 20</td>
 </tr>
 </table>
 
@@ -64,8 +50,16 @@ New CJUG President: Freddy Guime
 ## Upcoming General Events
 <table class="upcoming-events" width=800>
 <tr>
-<td>Spring Days!<br>Call-For-Papers Open</td>
-<td width=150>May 30-31</td>
+<td>Scala Days<br>Use coupon Scaladaysfriend</td>
+<td width=150>April 18-21</td>
+</tr>
+<tr>
+<td>Goto JR Workshop<br>https://www.eventbrite.com/e/goto-junior-workshops-for-kids-tickets-33167504900</td>
+<td width=150>Apr 30</td>
+</tr>
+<tr>
+<td>GoTo Conference<br>Use coupon CJUGgoto</td>
+<td width=150>May 1-4</td>
 </tr>
 </table>
 
@@ -85,15 +79,14 @@ New CJUG President: Freddy Guime
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
 </div>
 
-Java 9 (what it has/or doesn't) 
+Interview and Trivia at DevNexus (with Chris Richardson + Ted Neward) 
 
 --section--
 #CJUG Office Hours!
 * Let our Experts Help You!!!
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
-* Janine & Todd (Mentors)
-* Mar 21
-* Watch Meetup
+* Janine &amp; Todd (Mentors)
+* April 6th
 
 
