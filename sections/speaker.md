@@ -7,11 +7,13 @@
 * Best Guitar Player I've played with
 * Java Champion / Rockstar (actual Rockstar)
 
+
 ### James Weaver
 * Pivotal 
 * Renown Author (Raspberry Pi / JavaFX / J2EE)
 * Java Champion / Rockstar (coolest when wearing shades)
 * Can detect any tune in 3 seconds
+
 
 ### Ed Burns
 * Oracle 
@@ -19,6 +21,7 @@
 * THE JSF guy
 * Have participated in EVERY JavaOne Conference
 * Plays the meanest Horns (Trumpet) 
+
 
 ## Proud Members of the NullPointers band 
 
