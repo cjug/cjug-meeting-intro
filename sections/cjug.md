@@ -1,9 +1,13 @@
 ## Chicago Java Users Group
 
-Mar 28, 2017
+April 4, 2017
 
 
-##Marcus Hirt: Java Mission Control & JFR in JDK 9: A Sneak Peek
+##Frank Greco and James Weaver: Introduction to Machine Learning for Java Devs
+
+##Ed Burns: Tradeoffs Between Cloud Immigrant and Cloud Native Application Platforms for Java Developers
+
+
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -22,7 +26,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2060** members
+* **2070** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -30,10 +34,6 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
-<tr>
-<td>GOTO NIGHTS with Frank Greco<br>, Jim Weaver and Ed Burns<br>Machine Learning (1st session), Cloud Immigrant vs Cloud Native (2nd session)</td>
-<td width=150>April 4th</td>
-</tr>
 <tr>
 <td>CJUG Office Hours<br>Come bring your problems! or ask questions to learn</td>
 <td width=150>April 6th</td>
@@ -79,7 +79,7 @@ Chicago Java Users Group is dedicated to the helping you.
 	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
 </div>
 
-Interview and Trivia at DevNexus (with Chris Richardson + Ted Neward) 
+object.finalize() is Deprecated! Internet Privacy protections are eroded. Redefining Microservices Standards
 
 --section--
 #CJUG Office Hours!
