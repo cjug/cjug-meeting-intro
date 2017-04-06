@@ -68,7 +68,6 @@ Chicago Java Users Group is dedicated to the helping you.
 * Connect with local developers and stay current
 * Channels for Security, Android, Java, DevOps and much more.
 * Invite yourself to the party: http://www.chicagotechslack.com/
-* chicago-tech.slack.com
 
 
 --section--
