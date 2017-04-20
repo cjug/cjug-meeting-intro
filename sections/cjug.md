@@ -35,8 +35,11 @@ Chicago Java Users Group is dedicated to the helping you.
 <tr><td>Java 9 Hackday (Online Event)</td>
 <td width=150>April 22</td>
 </tr>
-<tr><td>Venkat Subramaniam Presents: Reactive Programming</td>
+<tr><td>Venkat Subramaniam Presents:<br/>Reactive Programming</td>
 <td width=150>May 9</td>
+</tr>
+<tr><td>Marcin Grzejszczak:<br/>Consumer-Driven Contracts and Your Microservice Architecture</td>
+<td width=150>May 23</td>
 </tr>
 </table>
 
