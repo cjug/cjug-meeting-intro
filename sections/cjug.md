@@ -38,7 +38,7 @@ Chicago Java Users Group is dedicated to the helping you.
 <tr><td>Venkat Subramaniam Presents: Reactive Programming</td>
 <td width=150>May 9</td>
 </tr>
-<tr><td>CJUG Office Hours<br>Come bring your problems! or ask questions to learn</td>
+<tr><td>CJUG Office Hours<br>Come bring your problems or ask questions to learn!</td>
 <td width=150>May 16</td>
 </tr>
 </table>
@@ -63,7 +63,7 @@ Chicago Java Users Group is dedicated to the helping you.
 --section--
 #Chicago Tech Slack
 * Connect with local developers and stay current
-* Channels for Security, Android, Java, DevOps and much more.
+* Channels for Security, Android, Java, DevOps and much more
 * Invite yourself to the party: http://www.chicagotechslack.com/
 
 
@@ -79,10 +79,10 @@ object.finalize() is Deprecated! Internet Privacy protections are eroded. Redefi
 
 --section--
 #CJUG Office Hours!
-* Let our Experts Help You!!!
+* Let our experts help you!
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* April 22th
+* Next meeting is May 16
 
 
