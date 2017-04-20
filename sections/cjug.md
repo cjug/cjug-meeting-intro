@@ -24,7 +24,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2070** members
+* **2095** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -44,19 +44,49 @@ Chicago Java Users Group is dedicated to the helping you.
 </table>
 
 --section--
-## Upcoming General Events
-<table class="upcoming-events" width=800>
+# Upcoming General Events
+
+--section--
+<table width=800>
 <tr>
-<td>Scala Days<br>Use coupon Scaladaysfriend</td>
-<td width=150>April 18-21</td>
+<td><b>Scala Days</b><br>Use coupon Scaladaysfriend</td>
+<td width=200>April 18-21</td>
 </tr>
 <tr>
-<td>Goto JR Workshop<br>https://www.eventbrite.com/e/goto-junior-workshops-for-kids-tickets-33167504900</td>
-<td width=150>Apr 30</td>
+<td colspan="2">http://event.scaladays.org/scaladays-chicago-2017</td>
+</tr>
+</table>
+
+--section--
+<table width=800>
+<tr>
+<td><b>Goto JR Workshop</b></td>
+<td width=200>Apr 30</td>
 </tr>
 <tr>
-<td>GoTo Conference<br>Use coupon CJUGgoto</td>
-<td width=150>May 1-4</td>
+<td colspan="2">https://goo.gl/dKJlUc</td>
+</tr>
+</table>
+
+--section--
+<table width=800>
+<tr>
+<td><b>GoTo Conference</b><br>Use coupon CJUGgoto</td>
+<td width=200>May 1-4</td>
+</tr>
+<tr>
+<td colspan="2">https://gotochgo.com/</td>
+</tr>
+</table>
+
+--section--
+<table width=800>
+<tr>
+<td><b>Spring Days Chicago</b></td>
+<td width=200>May 30-31</td>
+</tr>
+<tr>
+<td colspan="2">https://www.springdays.io</td>
 </tr>
 </table>
 
@@ -69,13 +99,16 @@ Chicago Java Users Group is dedicated to the helping you.
 
 --section--
 ##Current Java News!
-* www.javaoffheap.com
 
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/offheap.png" style="border: none; box-shadow: none;" width=300 height=300/>
+http://www.javaoffheap.com
+
+<div style="background-color: white; margin: 30px 0 15px 0;">
+	<img src="images/OffHeapLogo.png" style="border: none; box-shadow: none;" width=400 height=300/>
 </div>
 
-object.finalize() is Deprecated! Internet Privacy protections are eroded. Redefining Microservices Standards
+* object.finalize() is Deprecated! 
+* Internet Privacy protections are eroded. 
+* Redefining Microservices Standards
 
 --section--
 #CJUG Office Hours!
