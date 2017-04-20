@@ -1,11 +1,9 @@
 ## Chicago Java Users Group
 
-April 4, 2017
+April 20, 2017
 
 
-##Frank Greco and James Weaver: Introduction to Machine Learning for Java Devs
-
-##Ed Burns: Tradeoffs Between Cloud Immigrant and Cloud Native Application Platforms for Java Developers
+##Johan Andren Presents: Akka Streaming and Alpakka
 
 
 
@@ -34,15 +32,14 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
-<tr>
-<td>CJUG Office Hours<br>Come bring your problems! or ask questions to learn</td>
-<td width=150>April 6th</td>
+<tr><td>Java 9 Hackday (Online Event)</td>
+<td width=150>April 22</td>
 </tr>
-<tr><td>Heather VanCura and Charlie Hunt Present: Hacking on Java 9 Round 2</td>
-<td width=150>April 11</td>
+<tr><td>Venkat Subramaniam Presents: Reactive Programming</td>
+<td width=150>May 9</td>
 </tr>
-<tr><td>Johan Andren Presents: Akka Streaming and Alpakka</td>
-<td width=150>April 20</td>
+<tr><td>CJUG Office Hours<br>Come bring your problems! or ask questions to learn</td>
+<td width=150>May 16</td>
 </tr>
 </table>
 
@@ -86,6 +83,6 @@ object.finalize() is Deprecated! Internet Privacy protections are eroded. Redefi
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* April 6th
+* April 22th
 
 
