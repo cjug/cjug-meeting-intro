@@ -3,7 +3,7 @@
 April 20, 2017
 
 
-##Johan Andren Presents: Akka Streaming and Alpakka
+##Johan Andren Presents:<br/>Akka Streaming and Alpakka
 
 
 
