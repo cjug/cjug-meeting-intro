@@ -3,13 +3,15 @@
 April 20, 2017
 
 
-##Johan Andren Presents:<br/>Akka Streaming and Alpakka
+##Johan Andr&eacute;n Presents:<br/>Akka Streaming and Alpakka
 
 
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
+
+<div><br/>Wifi: GetOnlin3!</div>
 
 --section--
 ## What is the CJUG?
