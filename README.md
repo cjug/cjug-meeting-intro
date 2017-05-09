@@ -15,5 +15,10 @@ Execute the following command from shell:
 ```bash
 python -m SimpleHTTPServer
 ```
+or 
+```bash
+python -m http.server 8000
+```
+if you are using python 3 or up.
 
 Then point your browser at [http://localhost:8000](http://localhost:8000)
