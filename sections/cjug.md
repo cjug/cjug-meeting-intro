@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-April 20, 2017
+May 9, 2017
 
 ##Venkat Subramaniam Presents:<br/>Reactive Programming
 
@@ -21,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2131** members
+* **2133** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -34,7 +34,7 @@ Chicago Java Users Group is dedicated to the helping you.
   <td width=150>May 23</td>
 </tr>
 <tr>
-  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthousiasts<br/>
+  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthusiasts<br/>
   - key concepts & code examples</td>
   <td width=150>June 8</td>
 </tr>
