@@ -1,6 +1,7 @@
-## Speakers: 
+## Speaker: 
 
-### Johan Andr&eacute;n
-* Consultant and Mentor
-* Akka Team at Lightbend
-* Co-organizer Scala Usergroup Stockholm
+### Venkat Subraminiam
+* Founder of Agile Developer, Inc.
+* Award-winning author
+* Professor at University of Houston
+* Rock-star speaker at major conferences

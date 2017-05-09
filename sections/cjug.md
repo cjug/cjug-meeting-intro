@@ -2,16 +2,11 @@
 
 April 20, 2017
 
-
-##Johan Andr&eacute;n Presents:<br/>Akka Streaming and Alpakka
-
-
+##Venkat Subramaniam Presents:<br/>Reactive Programming
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
-
-<div><br/>Wifi: GetOnlin3!</div>
 
 --section--
 ## What is the CJUG?
@@ -26,7 +21,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2095** members
+* **2131** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -34,14 +29,14 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
-<tr><td>Java 9 Hackday (Online Event)</td>
-<td width=150>April 22</td>
+<tr>
+  <td><b>Marcin Grzejszczak:</b><br/>Consumer-Driven Contracts and Your Microservice Architecture</td>
+  <td width=150>May 23</td>
 </tr>
-<tr><td>Venkat Subramaniam Presents:<br/>Reactive Programming</td>
-<td width=150>May 9</td>
-</tr>
-<tr><td>Marcin Grzejszczak:<br/>Consumer-Driven Contracts and Your Microservice Architecture</td>
-<td width=150>May 23</td>
+<tr>
+  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthousiasts<br/>
+  - key concepts & code examples</td>
+  <td width=150>June 8</td>
 </tr>
 </table>
 
@@ -51,49 +46,20 @@ Chicago Java Users Group is dedicated to the helping you.
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* Next meeting is May 16
+* Next meeting is May 16 at Spantree
 
 --section--
-# Upcoming General Events
+## Other Events
 
---section--
-<table width=800>
+<table class="upcoming-events" width=800>
 <tr>
-<td><b>Scala Days</b><br>Use coupon Scaladaysfriend</td>
-<td width=200>April 18-21</td>
+<td><b>Chris Brodt:</b><br/>VIM + Java</td>
+<td width=200>May 16</td>
+</tr>
+<tr><td colspan="2">https://www.meetup.com/Vim-Chicago</td>
 </tr>
 <tr>
-<td colspan="2">http://event.scaladays.org/scaladays-chicago-2017</td>
-</tr>
-</table>
-
---section--
-<table width=800>
-<tr>
-<td><b>Goto JR Workshop</b></td>
-<td width=200>Apr 30</td>
-</tr>
-<tr>
-<td colspan="2">https://goo.gl/dKJlUc</td>
-</tr>
-</table>
-
---section--
-<table width=800>
-<tr>
-<td><b>GoTo Conference</b><br>Use coupon CJUGgoto</td>
-<td width=200>May 1-4</td>
-</tr>
-<tr>
-<td colspan="2">https://gotochgo.com/</td>
-</tr>
-</table>
-
---section--
-<table width=800>
-<tr>
-<td><b>Spring Days Chicago</b></td>
-<td width=200>May 30-31</td>
+<td><b>Spring Days Chicago</b></td><td width=200>May 30-31</td>
 </tr>
 <tr>
 <td colspan="2">https://www.springdays.io</td>
@@ -116,8 +82,20 @@ http://www.javaoffheap.com
 	<img src="images/OffHeapLogo.png" style="border: none; box-shadow: none;" width=400 height=300/>
 </div>
 
-* object.finalize() is Deprecated! 
-* Internet Privacy protections are eroded. 
-* Redefining Microservices Standards
+* The Future of Java
+* Java 9! 
 
+--section--
+<div style="background-color: white; margin: auto; width: 400px; height: 380px;">
+  <br/>
+  <img src="images/elephant.png" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+## JSR #376 Public Review 
+
+* JSR 376 (Project Jigsaw) did not pass public review
+* JPMS public review ballot was not approved
+* No votes from RedHat, IBM, Twitter, Eclipse, LJC, ...
+* EG have 30 days to get consensus
 
