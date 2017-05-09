@@ -1,6 +1,6 @@
 ## Speaker: 
 
-### Venkat Subraminiam
+### Venkat Subramaniam
 * Founder of Agile Developer, Inc.
 * Award-winning author
 * Professor at University of Houston
