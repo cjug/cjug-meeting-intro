@@ -34,7 +34,7 @@ Chicago Java Users Group is dedicated to the helping you.
   <td width=150>May 23</td>
 </tr>
 <tr>
-  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthousiasts<br/>
+  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthusiasts<br/>
   - key concepts & code examples</td>
   <td width=150>June 8</td>
 </tr>
