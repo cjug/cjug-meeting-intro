@@ -1,16 +1,13 @@
 ## Speaker: 
 
-### Venkat Subramaniam
-* Founder of Agile Developer, Inc.
-* Award-winning author
-* Professor at University of Houston
-* Rock-star speaker at major conferences
+### Marcin Grzejszczak
+* Author Mockito Instant & Mockito Cookbook
+* OSS Contributor
+* Co-Founder of Warsaw Groovy User Group
+* Lead of Spring Cloud Sleuth
 
-Note:
-Practice of an agile developer w. Andy Hunt
 
-Programing Scala, Pragmatic Scala,
-Programming Concurrentcy on the JVM
-Functional Programming in Java
-
-.net javascript groovy
+### Bruno Souza
+* Brazilian Java User Group Leader (SouJava)
+* WORLD'S LARGEST
+* Known as Brazilian javaman
