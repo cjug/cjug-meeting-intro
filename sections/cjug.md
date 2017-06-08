@@ -1,22 +1,13 @@
 ## Chicago Java Users Group
 
-May 23, 2017
+June 8, 2017
 
-##Marcin Grzejszczak Presents<br> Consumer-Driven Contracts and Your Microservice Architecture
+##Slim Baltagi Presents<br> Kafka Streams for Java Enthusiasts
 
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
-
---section--
-## After that, invited guest Bruno Souza
-
-
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/JUG_USA_TOUR_2017.jpg" style="border: none; box-shadow: none;"/>
-</div>
-
 
 --section--
 ## What is the CJUG?
@@ -46,14 +37,10 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td><b>Slim Baltagi:</b><br/>Kafka for Java Enthusiasts<br/>
-  - key concepts &amp; code examples</td>
-  <td width=150>June 8</td>
+  <td><b>Stuart Halloway:</b><br/>Clojure in 10 Big Ideas</td>
+  <td width=150>June 20</td>
 </tr>
 </table>
-
-Note:
-Marcin's talk at Pivotal Labs - CDC is like TDD applied to the API.
 
 
 --section--
@@ -82,15 +69,10 @@ Coffee and code
 
 <table class="upcoming-events" width=800>
 <tr>
-<td><b>Spring Days Chicago</b></td><td width=200>May 30-31</td>
+<td><b>Chicago Polyglot</b></td><td width=200>Date coming Soon!</td>
 </tr>
 <tr>
-<td colspan="2">https://www.springdays.io</td>
+<td colspan="2">http://chicagopolyglot.com/</td>
 </tr>
 </table>
-
-Note:
-
-Spring Days are 2-day events for the Spring community, by the Spring community. 
-Over the course of 2 days, the community will share presentations and participate in open discussions about all things Spring
 

@@ -1,13 +1,7 @@
 ## Speaker: 
 
-### Marcin Grzejszczak
-* Author Mockito Instant & Mockito Cookbook
-* OSS Contributor
-* Co-Founder of Warsaw Groovy User Group
-* Lead of Spring Cloud Sleuth
+### Slim Baltagi
+* Big Data Practice Lead at Advanced Analytics LLC
+* International Conference Speaker
+* Co-Founder of Chicago Advanced Analytics Meetup
 
-
-### Bruno Souza
-* Brazilian Java User Group Leader (SouJava)
-* WORLD'S LARGEST
-* Known as Brazilian javaman
