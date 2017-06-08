@@ -1,6 +1,6 @@
 ## Chicago Java Users Group
 
-June 8, 2017
+June 8, 2017 - Joint Event with the Chicago Advanced Analytics Meetup
 
 ##Slim Baltagi Presents<br> Kafka Streams for Java Enthusiasts
 
