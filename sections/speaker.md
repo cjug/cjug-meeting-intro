@@ -1,7 +1,8 @@
 ## Speaker: 
 
-### Slim Baltagi
-* Big Data Practice Lead at Advanced Analytics LLC
+### Stuart Halloway
+* Founder and President of Cognitect 
 * International Conference Speaker
-* Co-Founder of Chicago Advanced Analytics Meetup
+* Clojure committer, and a developer of the Datomic database
+* Author of Programming Clojure.
 

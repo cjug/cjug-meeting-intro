@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-June 8, 2017 - Joint Event with the Chicago Advanced Analytics Meetup
+June 20, 2017
 
-##Slim Baltagi Presents<br> Kafka Streams for Java Enthusiasts
+##Stuart Halloway Presents:<br> Clojure in 10 Big Ideas
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -24,7 +24,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2164** members
+* **2170** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -37,8 +37,8 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td><b>Stuart Halloway:</b><br/>Clojure in 10 Big Ideas</td>
-  <td width=150>June 20</td>
+  <td>Office Hours</td>
+  <td width=150>June 28</td>
 </tr>
 </table>
 
