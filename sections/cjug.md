@@ -77,15 +77,3 @@ and some people after work?
 
 Coffee and code
 
---section--
-## Other Events
-
-<table class="upcoming-events" width=800>
-<tr>
-<td><b>Chicago Polyglot</b></td><td width=200>Date coming Soon!</td>
-</tr>
-<tr>
-<td colspan="2">http://chicagopolyglot.com/</td>
-</tr>
-</table>
-
