@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-June 20, 2017
+July 13, 2017
 
-##Stuart Halloway Presents:<br> Clojure in 10 Big Ideas
+##Josh Backfield Presents:<br> Introduction to Enterprise Design Patterns
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -24,7 +24,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2170** members
+* **2200** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -37,11 +37,24 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td>Office Hours</td>
-  <td width=150>June 28</td>
+  <td>Ken Sipe Presents: JVM and Containers - A Cautionary Tale
+</td>
+  <td width=150>July 25</td>
 </tr>
+<tr>
+  <td>Markus Eisele Presents: The Impatients Guide to Java 9 Streams &amp; How to Use Them
+</td>
+  <td width=150>Aug 8</td>
+</tr>
+
+
 </table>
 
+--section--
+#Chicago Polyglot! (Aug 17th)
+ * Mark your calendars
+ * Meet with ChicagoRuby, ChiPy, .NET UG, Devops, and more
+ * Talk, drink, have fun, network, and geek out
 
 --section--
 #Remember:
