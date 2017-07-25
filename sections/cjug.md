@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-July 13, 2017
+July 25, 2017
 
-##Josh Backfield Presents:<br> Introduction to Enterprise Design Patterns
+##Ken Sipe Presents: JVM and Containers - A Cautionary Tale
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -37,17 +37,10 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td>Ken Sipe Presents: JVM and Containers - A Cautionary Tale
-</td>
-  <td width=150>July 25</td>
-</tr>
-<tr>
   <td>Markus Eisele Presents: The Impatients Guide to Java 9 Streams &amp; How to Use Them
 </td>
   <td width=150>Aug 8</td>
 </tr>
-
-
 </table>
 
 --section--
@@ -55,6 +48,7 @@ Tell your friends, family and co-workers.
  * Mark your calendars
  * Meet with ChicagoRuby, ChiPy, .NET UG, Devops, and more
  * Talk, drink, have fun, network, and geek out
+ * RSVP Opening soon! 
 
 --section--
 #Remember:
