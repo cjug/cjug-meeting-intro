@@ -1,7 +1,9 @@
 ## Speaker: 
 
-### Jonathan Freeman
-* Senior Software Engineer at Spantree Technology Group.
-* Organizes the Chicago Graph Database Meetup.
-* Writes for InfoWorld, talented chef and musician.
+### Ray Tsang
+* Developer Advocate for the Google Cloud Platform.
+* Cross-industry enterprise systems integrator, architect, and technical lead.
+* Open source contributor.
+* Enjoys traveling and adventure!
+
 

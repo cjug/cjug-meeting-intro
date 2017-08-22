@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-August 8, 2017
+August 22, 2017
 
-##Jonathan Freeman Presents: 400 Trash Bags of Grocery Receipts + Neo4j
+##Ray Tsang Presents: Docker Tips and Tricks for Java Developers
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -13,7 +13,7 @@ August 8, 2017
 ## What is the CJUG?
 Chicago Java Users Group is dedicated to the helping you.
 
-* We're here to help the Java Professional.  
+* We're here to help the Java professional
 * Make Chicago the best place to be a Java developer
 * Hacker nights, Mentor/Apprenticeship initiatives
 * Making a difference in the Java community
@@ -24,7 +24,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2228** members
+* **2271** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -37,10 +37,26 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Aug 11</td>
+  <td width=150>Sept 5</td>
   <td>
-    (Online!) Adopt-A-JSR<br/>
-    JSR-379: Java 9 &amp; Java EE 8 Update
+    Michael Minella Presents:<br/>
+    What's New in Spring<br/>
+    @ Pivotal Labs
+  </td>
+</tr>
+</table>
+
+
+--section--
+
+## Upcoming CJUG Events
+<table class="upcoming-events"  width=800>
+<tr>
+  <td width=150>Sept 19</td>
+  <td>
+    Peak6 Presents:<br/>
+    Test Automation and Framework Development<br/>
+    @ Peak6 Investments 
   </td>
 </tr>
 </table>
@@ -50,20 +66,14 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Aug 22</td>
+  <td width=150>Oct 23</td>
   <td>
-    Ray Tsang Presents:<br/>
-    Docker Tips and Tricks for Java Developers
+    GOTO NIGHTS with Brian Goetz<br/>
+    Java Language &amp; Platform Futures: A Sneak Peek<br/>
+    @ IMC Financial Markets
   </td>
 </tr>
 </table>
-
---section--
-#Chicago Polyglot! (Aug 17th)
- * RSVP: http://chicagopolyglot.com/
- * Meet with ChicagoRuby, ChiPy, .NET UG, Devops, and more
- * Talk, drink, have fun, network, and geek out
- * At Sully's House 
 
 --section--
 #CJUG Office Hours!
@@ -71,7 +81,7 @@ Tell your friends, family and co-workers.
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* August 24 @ TBD
+* August 24 @ Peak6 Investments
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
