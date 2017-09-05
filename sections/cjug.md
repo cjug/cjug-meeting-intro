@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-August 22, 2017
+September 5, 2017
 
-##Ray Tsang Presents: Docker Tips and Tricks for Java Developers
+##Michael Minella Presents: What's New in Spring
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -24,28 +24,16 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2271** members
+* **2282** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
-Note:
-We'd like to reach 3000 members this year! If you like what we're doing here,
-Tell your friends, family and co-workers.
-
 --section--
 
-## Upcoming CJUG Events
-<table class="upcoming-events"  width=800>
-<tr>
-  <td width=150>Sept 5</td>
-  <td>
-    Michael Minella Presents:<br/>
-    What's New in Spring<br/>
-    @ Pivotal Labs
-  </td>
-</tr>
-</table>
+## Help us grow!
 
+If you like what we're doing here,<br/>
+tell your friends, family, and co-workers!
 
 --section--
 
@@ -81,7 +69,7 @@ Tell your friends, family and co-workers.
 * Walk in (no appointment necessary)
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* August 24 @ Peak6 Investments
+* Next TBD
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
