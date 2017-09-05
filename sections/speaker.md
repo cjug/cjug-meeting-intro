@@ -1,9 +1,9 @@
 ## Speaker: 
 
-### Ray Tsang
-* Developer Advocate for the Google Cloud Platform.
-* Cross-industry enterprise systems integrator, architect, and technical lead.
-* Open source contributor.
-* Enjoys traveling and adventure!
+### Michael Minella
+* Renaissance Man and JavaOne Rockstar
+* Spring Batch and Spring Cloud Task project lead at Pivotal
+* Member of the JSR-352 (Java batch) expert group
+* Can be heard on the Java OffHeap podcast
 
 
