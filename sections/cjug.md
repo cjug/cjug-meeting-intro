@@ -28,12 +28,9 @@ Chicago Java Users Group is dedicated to the helping you.
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
---section--
-
-## Help us grow!
-
-If you like what we're doing here,<br/>
-tell your friends, family, and co-workers!
+Note:
+We'd like to reach 3000 members this year! If you like what we're doing here,
+Tell your friends, family and co-workers.
 
 --section--
 
