@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 
-September 5, 2017
+September 19, 2017
 
-##Michael Minella Presents: What's New in Spring
+##PEAK6 Presents: Test Automation and Framework Development
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -24,7 +24,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2282** members
+* **2292** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -37,14 +37,18 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Sept 19</td>
+  <td width=150>Oct 10</td>
   <td>
-    Peak6 Presents:<br/>
-    Test Automation and Framework Development<br/>
-    @ Peak6 Investments 
+    Steve Poole Presents<br/>
+    Java in the 21st Century: Are you thinking far enough ahead?<br/>
+    <br/>
+    @ 8th Light Chicago
   </td>
 </tr>
 </table>
+
+Note:
+8th Light is at 25 E. Washington
 
 --section--
 
@@ -55,18 +59,23 @@ Tell your friends, family and co-workers.
   <td>
     GOTO NIGHTS with Brian Goetz<br/>
     Java Language &amp; Platform Futures: A Sneak Peek<br/>
+    <br/>
     @ IMC Financial Markets
   </td>
 </tr>
 </table>
 
+Note:
+IMC is in the Sears Tower
+
 --section--
 #CJUG Office Hours!
-* Let our mentors help you!
-* Walk in (no appointment necessary)
+* Let our mentors help you
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* Next TBD
+* Next!
+  * September 28 @ Spantree
+  * Optional group project is Kafka Streams
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
@@ -80,4 +89,8 @@ Coffee and code
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
 
+--section--
+#JAVA 9 in
+#2 DAYS!
 
+* September 21, 2017
