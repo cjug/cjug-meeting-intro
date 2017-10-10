@@ -1,4 +1,4 @@
-## Photography and Videography Disclaimer
+### Photography and Videography Disclaimer
 
  * If you do not wish to be photographed or video-recorded, please make your wishes known to the photographer and/or videographer, and/or the event organizers
 
