@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-October 10, 2017
+October 23, 2017
 
-##Steve Poole Presents
-##Java in the 21 Century: Are you thinking far enough ahead?
+##GOTO NIGHTS with Brian Goetz
+##Java Language &amp; Platform Futures: A Sneak Peek
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -39,18 +39,18 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Oct 23</td>
+  <td width=150>Nov 9</td>
   <td>
-    GOTO NIGHTS with Brian Goetz<br/>
-    Java Language &amp; Platform Futures: A Sneak Peek<br/>
+    Matt Sicker Presents<br/>
+    The Why and How of Logging<br/>
     <br/>
-    @ CME Group
+    @ SPR Inc
   </td>
 </tr>
 </table>
 
 Note:
-CME Group is 20 S. Wacker
+SPR is at 233 South Wacker Drive
 
 --section--
 #CJUG Office Hours!
