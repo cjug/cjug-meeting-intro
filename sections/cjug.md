@@ -58,7 +58,7 @@ SPR is at 233 South Wacker Drive
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next!
-  * October 25 @ TBD
+  * October 25 @ Spantree
   * Optional group project is Intro to Github!
 
 Note:
