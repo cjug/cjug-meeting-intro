@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-October 10, 2017
+October 23, 2017
 
-##Steve Poole Presents
-##Java in the 21 Century: Are you thinking far enough ahead?
+##GOTO NIGHTS with Brian Goetz
+##Java Language &amp; Platform Futures: A Sneak Peek
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -25,7 +25,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2305** members
+* **2325** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -39,18 +39,18 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Oct 23</td>
+  <td width=150>Nov 9</td>
   <td>
-    GOTO NIGHTS with Brian Goetz<br/>
-    Java Language &amp; Platform Futures: A Sneak Peek<br/>
+    Matt Sicker Presents<br/>
+    The Why and How of Logging<br/>
     <br/>
-    @ CME Group
+    @ SPR Inc
   </td>
 </tr>
 </table>
 
 Note:
-CME Group is 20 S. Wacker
+SPR is at 233 South Wacker Drive
 
 --section--
 #CJUG Office Hours!
@@ -58,7 +58,7 @@ CME Group is 20 S. Wacker
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next!
-  * October 25 @ TBD
+  * October 25 @ Spantree
   * Optional group project is Intro to Github!
 
 Note:
@@ -67,6 +67,14 @@ tricky issue you've been facing? Or just hang out with your laptop
 and some people after work?
 
 Coffee and code
+
+--section--
+
+<img src="images/2017-goto-holiday.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+
+@ Braintree (Mart)<br/>
+Sign up on Eventbrite!
+
 
 --section--
 #Remember:

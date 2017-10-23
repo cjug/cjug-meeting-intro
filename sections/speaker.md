@@ -1,8 +1,7 @@
 ## Featured Speaker: 
 
-### Steve Poole
-* Developer advocate, DevOps practitioner, and long time IBM Java developer
-* Has worked on IBM Java SDKs and JVMs since Java was less than one year old
-* Contributions to many open source projects and JSRs
-* Regular speaker and presenter at JavaOne, Devoxx, and other conferences
-
+### Brian Goetz
+* The Java Language Architect at Oracle
+* Specification lead for JSR-335 (Lambda Expressions)
+* Principal Author of <u>Java Concurrency in Practice</u>
+* International speaker and author of many articles
