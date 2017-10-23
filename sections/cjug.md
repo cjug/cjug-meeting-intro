@@ -25,7 +25,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2305** members
+* **2325** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -67,6 +67,14 @@ tricky issue you've been facing? Or just hang out with your laptop
 and some people after work?
 
 Coffee and code
+
+--section--
+
+<img src="images/2017-goto-holiday.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+
+@ Braintree (Mart)<br/>
+Sign up on Eventbrite!
+
 
 --section--
 #Remember:
