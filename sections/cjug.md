@@ -69,6 +69,14 @@ and some people after work?
 Coffee and code
 
 --section--
+
+<img src="images/2017-goto-holiday.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+
+@ Braintree (Mart)<br/>
+Sign up on Eventbrite!
+
+
+--section--
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
