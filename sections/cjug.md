@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-October 23, 2017
+November 9, 2017
 
-##GOTO NIGHTS with Brian Goetz
-##Java Language &amp; Platform Futures: A Sneak Peek
+##Matt Sicker Presents:
+##The Why and How of Logging
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -25,7 +25,7 @@ Chicago Java Users Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **2325** members
+* **2328** members
 * **2** meetings per month
 * **60 - 200** Attendees at our Meetups
 
@@ -39,18 +39,18 @@ Tell your friends, family and co-workers.
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Nov 9</td>
+  <td width=150>Nov ???</td>
   <td>
-    Matt Sicker Presents<br/>
-    The Why and How of Logging<br/>
+    James Weaver Presents<br/>
+    ?????<br/>
     <br/>
-    @ SPR Inc
+    @ ?????
   </td>
 </tr>
 </table>
 
 Note:
-SPR is at 233 South Wacker Drive
+Insert host location here, for notes.
 
 --section--
 #CJUG Office Hours!
@@ -58,8 +58,8 @@ SPR is at 233 South Wacker Drive
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next!
-  * October 25 @ Spantree
-  * Optional group project is Intro to Github!
+  * TBD
+  * Optional group project is TBD
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
