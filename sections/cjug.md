@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-October 23, 2017
+November 9, 2017
 
-##GOTO NIGHTS with Brian Goetz
-##Java Language &amp; Platform Futures: A Sneak Peek
+##Matt Sicker Presents:
+##The Why and How of Logging
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -11,46 +11,40 @@ October 23, 2017
 </div>
 
 --section--
-## What is the CJUG?
-Chicago Java Users Group is dedicated to the helping you.
-
-* We're here to help the Java professional
-* Make Chicago the best place to be a Java developer
-* Hacker nights, Mentor/Apprenticeship initiatives
-* Making a difference in the Java community
-* Adopt-a-JSR program
-* Professional networking events
+## We Believe in being Inclusive
+ * CJUG has always been an inclusive group
+ * Be curious, ask questions, avoid assumptions
+ * Continue to grow trust, empathy, and friendship.
 
 --section--
 
-## Useful stats
-
-* **2325** members
-* **2** meetings per month
-* **60 - 200** Attendees at our Meetups
-
-Note:
-We'd like to reach 3000 members this year! If you like what we're doing here,
-Tell your friends, family and co-workers.
-
+## How about volunteering?
+ * Expand your network
+ * Become a leader in this community (Organizer, Speaker, Influencer)
+ * Growth Professionally
+ * Looks great on the Resume (also be a hit at parties...maybe)
 
 --section--
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Nov 9</td>
+  <td width=150>Nov 28</td>
   <td>
-    Matt Sicker Presents<br/>
-    The Why and How of Logging<br/>
-    <br/>
-    @ SPR Inc
+    James Weaver Presents<br/>
+    Quantum Computing Exposed - The Fundamentals<br/>
+    @ Pivotal Labs
   </td>
 </tr>
-</table>
+<tr>
+  <td width=150>Dec 12</td>
+  <td>
+    Lightning Talks<br/>
+    Submit topics present@cjug.org<br/>
+  </td>
+</tr>
 
-Note:
-SPR is at 233 South Wacker Drive
+</table>
 
 --section--
 #CJUG Office Hours!
@@ -58,8 +52,8 @@ SPR is at 233 South Wacker Drive
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next!
-  * October 25 @ Spantree
-  * Optional group project is Intro to Github!
+  * TBD
+  * Optional group project is TBD
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
@@ -73,7 +67,8 @@ Coffee and code
 <img src="images/2017-goto-holiday.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
 
 @ Braintree (Mart)<br/>
-Sign up on Eventbrite!
+Sign up on Eventbrite!<br />
+https://goo.gl/2YJHjC
 
 
 --section--
