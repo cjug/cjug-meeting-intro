@@ -1,6 +1,7 @@
 Featured Speaker: 
 
-## Matt Sicker
-* Works for SPR Consulting, using Java and Scala
-* PMC Chair of the Apache Logging Services project
-* Member of the Apache Software Foundation
+### James Weaver
+* Pivotal Developer Advocate 
+* Renowned Author (Raspberry Pi / JavaFX / J2EE)
+* Java Champion / Rockstar 
+* Can name any tune in 3 seconds
