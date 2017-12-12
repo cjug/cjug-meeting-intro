@@ -1,7 +1,7 @@
 Featured Speaker: 
 
-### James Weaver
-* Pivotal Developer Advocate 
-* Renowned Author (Raspberry Pi / JavaFX / J2EE)
-* Java Champion / Rockstar 
-* Can name any tune in 3 seconds
+### The Community
+* Always involved in all things Java
+* 4th largest US Community
+* Collective knowledge in ALL INDUSTRIES 
+* Great speakers
