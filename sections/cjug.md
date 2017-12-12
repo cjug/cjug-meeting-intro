@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-November 9, 2017
+November 28, 2017
 
-##Matt Sicker Presents:
-##The Why and How of Logging
+##James Weaver Presents:
+##Quantum Computing Exposed - The Fundamentals
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -29,18 +29,11 @@ November 9, 2017
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Nov 28</td>
-  <td>
-    James Weaver Presents<br/>
-    Quantum Computing Exposed - The Fundamentals<br/>
-    @ Pivotal Labs
-  </td>
-</tr>
-<tr>
   <td width=150>Dec 12</td>
   <td>
     Lightning Talks<br/>
     Submit topics present@cjug.org<br/>
+    @TBD
   </td>
 </tr>
 
@@ -52,8 +45,8 @@ November 9, 2017
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next!
-  * TBD
-  * Optional group project is TBD
+  * December 5 @Spantree
+  * Optional group project is Spring Boot
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
