@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Dec 12, 2017
+Jan 18, 2018
 
-##The Community Presents:
-##Lightning Talks!
+##Ken Kousen Presents: 
+##Modern Java Recipes
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -29,25 +29,16 @@ Dec 12, 2017
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Jan 9</td>
-  <td>Ken Kousen / Pratik Patel
-    <br/>
-    Topic will be coming
-  </td>
-</tr>
-<tr>
-  <td width=150>Jan 25</td>
-  <td>Steven Calderwood Presents
-    <br/>
-    Mutation Testing (using PIT, pitest.org)
-  </td>
-</tr>
-
-<tr>
   <td width=150>Feb 8</td>
-  <td>Josh Juneau Presents
+  <td>Josh Juneau
     <br/>
     Java EE 8, creating an application from the Ground up
+  </td>
+</tr><tr>
+  <td width=150>Feb 13</td>
+  <td>Hans Dokter
+    <br/>
+    Gradle
   </td>
 </tr>
 </table>
@@ -57,6 +48,9 @@ Dec 12, 2017
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
+* Next!
+  * January 24th @ Spantree
+  * Optional Topic == Unit Testing with Mockito
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
