@@ -36,7 +36,7 @@ Jan 18, 2018
   </td>
 </tr><tr>
   <td width=150>Feb 13</td>
-  <td>Hans Dokter
+  <td>Hans Dockter
     <br/>
     Gradle
   </td>
