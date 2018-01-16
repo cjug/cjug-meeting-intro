@@ -1,7 +1,7 @@
 Featured Speaker: 
 
-### The Community
-* Always involved in all things Java
-* 4th largest US Community
-* Collective knowledge in ALL INDUSTRIES 
-* Great speakers
+### Ken Kousen
+* Java Champion
+* Two time JavaOne Rockstar award recipient
+* Degrees from MIT, Princeton, and RPI
+* Author of <i>Modern Java Recipes</i>, <i>Gradle Recipes for Android</i>, and <i>Making Java Groovy</i>! 
