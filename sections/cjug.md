@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Jan 18, 2018
+Feb 6, 2018
 
-##Ken Kousen Presents: 
-##Modern Java Recipes
+##Josh Juneau Presents: 
+##Java EE 8: Code Driven
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -28,13 +28,8 @@ Jan 18, 2018
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
+</tr>
 <tr>
-  <td width=150>Feb 8</td>
-  <td>Josh Juneau
-    <br/>
-    Java EE 8, creating an application from the Ground up
-  </td>
-</tr><tr>
   <td width=150>Feb 13</td>
   <td>Hans Dockter
     <br/>
@@ -48,9 +43,7 @@ Jan 18, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* Next!
-  * January 24th @ Spantree
-  * Optional Topic == Unit Testing with Mockito
+* Next == TBD
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that

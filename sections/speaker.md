@@ -1,7 +1,8 @@
 Featured Speaker: 
 
-### Ken Kousen
+### Josh Juneau
 * Java Champion
-* Two time JavaOne Rockstar award recipient
-* Degrees from MIT, Princeton, and RPI
-* Author of <i>Modern Java Recipes</i>, <i>Gradle Recipes for Android</i>, and <i>Making Java Groovy</i>! 
+* Application Developer at Fermilab
+* Award winning JCP Member and Expert Group Member of many JSRs
+* Leader of CJUG's Adopt-a-JSR Program
+* Author of multiple books including <i>The Definitive Guide to Jython</i>, <i>Java EE 7 Recipes</i>, and <i>Java 9 Recipes</i>. 
