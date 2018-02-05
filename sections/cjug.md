@@ -28,12 +28,18 @@ Feb 6, 2018
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
+<tr>
+  <td width=150>Feb 27</td>
+  <td>Steve Poole
+    <br/>
+    The Anatomy of Java Vulnerabilities
+  </td>
 </tr>
 <tr>
-  <td width=150>Feb 13</td>
-  <td>Hans Dockter
+  <td width=150>Mar 8</td>
+  <td>Mario Gray
     <br/>
-    Gradle
+    Bootiful Testing
   </td>
 </tr>
 </table>
