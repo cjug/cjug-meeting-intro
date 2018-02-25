@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Feb 6, 2018
+Feb 27, 2018
 
-##Josh Juneau Presents: 
-##Java EE 8: Code Driven
+##Steve Poole Presents: 
+##The Anatomy of Java Vulnerabilities
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -29,13 +29,6 @@ Feb 6, 2018
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Feb 27</td>
-  <td>Steve Poole
-    <br/>
-    The Anatomy of Java Vulnerabilities
-  </td>
-</tr>
-<tr>
   <td width=150>Mar 8</td>
   <td>Mario Gray
     <br/>
@@ -50,6 +43,7 @@ Feb 6, 2018
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
 * Next == TBD
+  * Optional topic == Docker!
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
@@ -57,6 +51,21 @@ tricky issue you've been facing? Or just hang out with your laptop
 and some people after work?
 
 Coffee and code
+
+--section--
+#News!
+* Early access builds of Java 10 are available now!
+  * Release date is March 20, 2018
+  * Big feature == JSR-286: Local type inference
+  * Short term release until Java 11 (September 2018)
+
+--section--
+#Oracle Code Chicago
+* FREE one day conference
+  * March 20, 2018 @ Marriott Downtown (Michigan & Ohio).
+  * Learn about the latest developer technologies, practices, and trends via keynotes, sessions, and hands-on labs.
+  * Register: https://developer.oracle.com/code/chicago
+
 
 --section--
 #Remember:

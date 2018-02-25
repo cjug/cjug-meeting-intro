@@ -1,8 +1,7 @@
-Featured Speaker: 
+## Featured Speaker: 
 
-### Josh Juneau
-* Java Champion
-* Application Developer at Fermilab
-* Award winning JCP Member and Expert Group Member of many JSRs
-* Leader of CJUG's Adopt-a-JSR Program
-* Author of multiple books including <i>The Definitive Guide to Jython</i>, <i>Java EE 7 Recipes</i>, and <i>Java 9 Recipes</i>. 
+# Steve Poole
+* Developer advocate, DevOps practitioner, and long time IBM Java developer
+* Has worked on IBM Java SDKs and JVMs since Java was less than one year old
+* Contributions to many open source projects and JSRs
+* Regular speaker and presenter at JavaOne, Devoxx, DevNexus, and other conferences
