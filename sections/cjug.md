@@ -71,3 +71,4 @@ Coffee and code
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
+ * Follow us on Twitter: @CJUG
