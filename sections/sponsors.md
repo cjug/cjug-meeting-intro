@@ -5,3 +5,4 @@
 --section--
 # Sponsors
 <img src="images/expedia_logo.jpg" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+<img src="images/egencia_logo.jpg" style="border:none; box-shadow:none; margin: 30px; background:white"/>
