@@ -1,10 +1,9 @@
 ## Chicago Java Users Group
 
-Feb 27, 2018
+Mar 8, 2018
 
-##Steve Poole Presents: 
-##The Anatomy of Java Vulnerabilities
-
+##Mario Gray Presents: 
+##Bootiful Testing
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -14,7 +13,7 @@ Feb 27, 2018
 ## We Believe in being Inclusive
  * CJUG has always been an inclusive group
  * Be curious, ask questions, avoid assumptions
- * Continue to grow trust, empathy, and friendship.
+ * Continue to grow trust, empathy, and friendship
 
 --section--
 
@@ -24,40 +23,29 @@ Feb 27, 2018
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties...maybe)
 
+
 --section--
+#New CJUG Officers!
+* Jonathan Ross: Chairman of the Board
+* Freddy Guime: President
+* Janine Patterson: Community Leader
+* Mary Grygleski: Meeting Director
+* Bob Paulin: Sponsorship Director
+* Todd Ginsberg: CFO
+
+--section--
+
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Mar 8</td>
-  <td>Mario Gray
+  <td width=150>Mar 22</td>
+  <td>Todd Ginsberg
     <br/>
-    Bootiful Testing
+    Is Kotlin Right for You?
   </td>
 </tr>
 </table>
-
---section--
-#CJUG Office Hours!
-* Let our mentors help you
-* Talk about problems/shop/tech
-* Janine &amp; Todd (Mentors)
-* Next == TBD
-  * Optional topic == Docker!
-
-Note:
-Need help with a project? Need a second pair of eyes to dig into that
-tricky issue you've been facing? Or just hang out with your laptop
-and some people after work?
-
-Coffee and code
-
---section--
-#News!
-* Early access builds of Java 10 are available now!
-  * Release date is March 20, 2018
-  * Big feature == JSR-286: Local type inference
-  * Short term release until Java 11 (September 2018)
 
 --section--
 #Oracle Code Chicago
@@ -66,6 +54,20 @@ Coffee and code
   * Learn about the latest developer technologies, practices, and trends via keynotes, sessions, and hands-on labs.
   * Register: https://developer.oracle.com/code/chicago
 
+--section--
+#CJUG Office Hours!
+* Let our mentors help you
+* Talk about problems/shop/tech
+* Janine &amp; Todd (Mentors)
+* Next == March 28 @ Spantree!
+  * Optional topic == Docker w/Spring Boot
+
+Note:
+Need help with a project? Need a second pair of eyes to dig into that
+tricky issue you've been facing? Or just hang out with your laptop
+and some people after work?
+
+Coffee and code
 
 --section--
 #Remember:
