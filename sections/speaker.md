@@ -1,6 +1,6 @@
 ## Featured Speaker: 
 
-# Mario Gray
-* Principal Technologist for Pivotal
-* Co-author of Apress' <u>Pro Spring Integration</u>
-* Contributor to Spring and Spring Integration projects
+# Todd Ginsberg
+* Principal Developer at Netspend in Austin, TX
+* Professional Java developer since 1995
+* CJUG CFO
