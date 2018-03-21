@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Mar 8, 2018
+Mar 22, 2018
 
-##Mario Gray Presents: 
-##Bootiful Testing
+##Todd Ginsberg Presents: 
+##Is Kotlin Right for You?
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -25,34 +25,18 @@ Mar 8, 2018
 
 
 --section--
-#New CJUG Officers!
-* Jonathan Ross: Chairman of the Board
-* Freddy Guime: President
-* Janine Patterson: Community Leader
-* Mary Grygleski: Meeting Director
-* Bob Paulin: Sponsorship Director
-* Todd Ginsberg: CFO
-
---section--
 
 
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Mar 22</td>
-  <td>Todd Ginsberg
+  <td width=150>Apr 9</td>
+  <td>Bruno Souza
     <br/>
-    Is Kotlin Right for You?
+    Java, JCP, and Open Source
   </td>
 </tr>
 </table>
-
---section--
-#Oracle Code Chicago
-* FREE one day conference
-  * March 20, 2018 @ Marriott Downtown (Michigan & Ohio).
-  * Learn about the latest developer technologies, practices, and trends via keynotes, sessions, and hands-on labs.
-  * Register: https://developer.oracle.com/code/chicago
 
 --section--
 #CJUG Office Hours!
