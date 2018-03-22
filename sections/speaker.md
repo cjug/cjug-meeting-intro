@@ -6,3 +6,5 @@
 * Office Hours Mentor
 * Professional Java developer since 1995
 * CJUG CFO
+* @ToddGinsberg
+* https://todd.ginsberg.com/
