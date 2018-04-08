@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 
-Mar 22, 2018
+Apr 9, 2018
 
-##Todd Ginsberg Presents: 
-##Is Kotlin Right for You?
+##Bruno Souza Presents: 
+##3 Steps For an Amazing Java Career
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -30,10 +30,10 @@ Mar 22, 2018
 ## Upcoming CJUG Events
 <table class="upcoming-events"  width=800>
 <tr>
-  <td width=150>Apr 9</td>
-  <td>Bruno Souza
+  <td width=150>Apr 19</td>
+  <td>Thomas Nield
     <br/>
-    Java, JCP, and Open Source
+    Data Science with Kotlin
   </td>
 </tr>
 </table>
@@ -43,8 +43,8 @@ Mar 22, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* Next == March 28 @ Spantree!
-  * Optional topic == Docker w/Spring Boot
+* Next == April 17 @ Liferay!
+  * Optional topic == Dependency Management
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that

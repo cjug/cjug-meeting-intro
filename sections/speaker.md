@@ -1,9 +1,6 @@
 ## Featured Speaker: 
 
-# Todd Ginsberg
-* Principal Developer at Netspend in Austin, TX
-* Speaker
-* Office Hours Mentor
-* Professional Java developer since 1995
-* CJUG CFO
-* Follow me @ToddGinsberg  https://todd.ginsberg.com/
+# Bruno Souza
+* Brazilian Java User Group Leader (SouJava)
+* WORLD'S LARGEST JUG
+* Known as Brazilian javaman
