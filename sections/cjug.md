@@ -8,6 +8,7 @@ Apr 19, 2018
 ##Thomas Nield Presents: 
 ##Data Science with Kotlin
 
+
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -37,6 +38,7 @@ Apr 19, 2018
 * Friendly audience that wants you to succeed.
 * A great way to get into public speaking.
 * Coming soon - start brainstorming!
+
 
 
 --section--
