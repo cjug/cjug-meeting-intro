@@ -1,6 +1,9 @@
 ## Featured Speaker: 
 
-# Bruno Souza
-* Brazilian Java User Group Leader (SouJava)
-* WORLD'S LARGEST JUG
-* Known as Brazilian javaman
+
+# Thomas Nield
+* Business consultant for Southwest Airlines
+* Author of <u>Getting Started with SQL</u> and <u>Learning RxJava</u>
+* Conference speaker
+* Maintainer of Kotlin Statistics project
+

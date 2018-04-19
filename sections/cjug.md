@@ -1,13 +1,18 @@
-## Chicago Java Users Group
+## Chicago Java Users Group &amp;
+## Chicago Kotlin Users Group
 
-Apr 9, 2018
+---
 
-##Bruno Souza Presents: 
-##3 Steps For an Amazing Java Career
+Apr 19, 2018
+
+##Thomas Nield Presents: 
+##Data Science with Kotlin
+
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
+
 
 --section--
 ## We Believe in being Inclusive
@@ -26,25 +31,24 @@ Apr 9, 2018
 
 --section--
 
+## Lightning Talks!
 
-## Upcoming CJUG Events
-<table class="upcoming-events"  width=800>
-<tr>
-  <td width=150>Apr 19</td>
-  <td>Thomas Nield
-    <br/>
-    Data Science with Kotlin
-  </td>
-</tr>
-</table>
+* ~10 minute talk.
+* Low pressure. 
+* Friendly audience that wants you to succeed.
+* A great way to get into public speaking.
+* Coming soon - start brainstorming!
+
+
 
 --section--
 #CJUG Office Hours!
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Janine &amp; Todd (Mentors)
-* Next == April 17 @ Liferay!
-  * Optional topic == Dependency Management
+* Next == TBD in May
+  * Optional topic == Logging (led by Lamar!)
+
 
 Note:
 Need help with a project? Need a second pair of eyes to dig into that
