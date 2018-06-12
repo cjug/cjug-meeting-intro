@@ -1,12 +1,11 @@
-## Chicago Java Users Group &amp;
-## Chicago Kotlin Users Group
+## Chicago Java Users Group
 
 ---
 
-Apr 19, 2018
+June 12, 2018
 
-##Thomas Nield Presents: 
-##Data Science with Kotlin
+##The Community Presents:
+##Lightning Talks!
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -30,24 +29,12 @@ Apr 19, 2018
 
 
 --section--
-
-## Lightning Talks!
-
-* ~10 minute talk.
-* Low pressure. 
-* Friendly audience that wants you to succeed.
-* A great way to get into public speaking.
-* Coming soon - start brainstorming!
-
-
-
---section--
 #CJUG Office Hours!
 * Let our mentors help you
 * Talk about problems/shop/tech
-* Janine &amp; Todd (Mentors)
-* Next == TBD in May
-  * Optional topic == Logging (led by Lamar!)
+* Nick, Lamar, Todd, Janine (Mentors)
+* Next == June 18
+  * Optional topic == Lambda Expressions (led by Nick!)
 
 
 Note:
@@ -56,6 +43,20 @@ tricky issue you've been facing? Or just hang out with your laptop
 and some people after work?
 
 Coffee and code
+
+--section--
+## Jeff Scott Brown Presents: Micronaut
+
+* Tuesday June 26
+* Jeff is the co-founder of the Grails and Micronaut frameworks
+* Micronaut is a new JVM-based Microservices framework
+  * Sub-second startup time
+  * Tiny processes that may run in as little as 8mb of heap
+  * No runtime reflection
+  * Dependency injection
+  * Load balancing
+  * And more!
+
 
 --section--
 #Remember:
