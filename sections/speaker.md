@@ -1,9 +1,7 @@
 ## Featured Speaker: 
 
 
-### The Community
-* Always involved in all things Java
-* 4th largest US Community
-* Collective knowledge in ALL INDUSTRIES 
-* Great speakers
-
+### Jeff Scott Brown
+* Leads the Grails and Micronaut practices at OCI
+* Co-founder of the Grails and Micronaut frameworks
+* Author and regular public speaker on Grails, Groovy, and other JVM-related technologies

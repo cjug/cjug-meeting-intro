@@ -2,10 +2,10 @@
 
 ---
 
-June 12, 2018
+June 26, 2018
 
-##The Community Presents:
-##Lightning Talks!
+##Jeff Scott Brown Presents:
+##Micronaut
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,29 +33,20 @@ June 12, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == June 18
-  * Optional topic == Lambda Expressions (led by Nick!)
+* Next == Monday, July 16
+  * Optional topic == Kotlin Koans (led by Todd)
 
-
-Note:
-Need help with a project? Need a second pair of eyes to dig into that
-tricky issue you've been facing? Or just hang out with your laptop
-and some people after work?
-
-Coffee and code
+<br>
+Want to learn about something? Let us know!
 
 --section--
-## Jeff Scott Brown Presents: Micronaut
 
-* Tuesday June 26
-* Jeff is the co-founder of the Grails and Micronaut frameworks
-* Micronaut is a new JVM-based Microservices framework
-  * Sub-second startup time
-  * Tiny processes that may run in as little as 8mb of heap
-  * No runtime reflection
-  * Dependency injection
-  * Load balancing
-  * And more!
+## Chris Thalinger Presents: 
+## Twitter's quest for a wholly Graal runtime
+
+* Thursday, July 12 at Morningstar
+* GraalVM is a high-performance polyglot virtual machine by Oracle
+* Chris has worked on the HotSpot JVM at Sun, Oracle and Twitter where he is the Lead VM Engineer
 
 
 --section--
