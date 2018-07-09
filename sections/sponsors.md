@@ -10,5 +10,5 @@
 
 # Sponsor
 
-<img src="images/discover.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+<img src="images/morningstar.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
 

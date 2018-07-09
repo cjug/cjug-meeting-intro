@@ -2,10 +2,10 @@
 
 ---
 
-June 26, 2018
+July 12, 2018
 
-##Jeff Scott Brown Presents:
-##Micronaut
+##Chris Thalinger Presents:
+##Twitter's quest for a wholly Graal runtime
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,7 +33,7 @@ June 26, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, July 16
+* Next == Wednesday, July 18 @ GrubHub
   * Optional topic == Kotlin Koans (led by Todd)
 
 <br>
@@ -41,12 +41,12 @@ Want to learn about something? Let us know!
 
 --section--
 
-## Chris Thalinger Presents: 
-## Twitter's quest for a wholly Graal runtime
+## Billy Korando Presents: 
+## Welcome to JUnit 5
 
-* Thursday, July 12 at Morningstar
-* GraalVM is a high-performance polyglot virtual machine by Oracle
-* Chris has worked on the HotSpot JVM at Sun, Oracle and Twitter where he is the Lead VM Engineer
+* Tuesday, July 24 at TBD
+* Discover the new features in JUnit 5 and how to migrate your test suite
+* Billy is a software consultant with Keyhole Software, and conference speaker
 
 
 --section--
