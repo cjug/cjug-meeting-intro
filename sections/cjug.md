@@ -44,7 +44,7 @@ Want to learn about something? Let us know!
 ## Billy Korando Presents: 
 ## Welcome to JUnit 5
 
-* Tuesday, July 24 at TBD
+* Tuesday, July 24 at Peak6
 * Discover the new features in JUnit 5 and how to migrate your test suite
 * Billy is a software consultant with Keyhole Software, and conference speaker
 
