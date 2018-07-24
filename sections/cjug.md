@@ -2,10 +2,10 @@
 
 ---
 
-July 12, 2018
+July 24, 2018
 
-##Chris Thalinger Presents:
-##Twitter's quest for a wholly Graal runtime
+##Billy Korando Presents: 
+##Welcome to JUnit 5
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,24 +33,64 @@ July 12, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Wednesday, July 18 @ GrubHub
-  * Optional topic == Kotlin Koans (led by Todd)
+* Next == Monday, August 20 @ TBD
+  * Optional topic == Interview skills
 
 <br>
 Want to learn about something? Let us know!
 
 --section--
 
-## Billy Korando Presents: 
-## Welcome to JUnit 5
+## Josh Juneau and Bob Paulin Present: 
+## OSS @ CJUG
 
-* Tuesday, July 24 at Peak6
-* Discover the new features in JUnit 5 and how to migrate your test suite
-* Billy is a software consultant with Keyhole Software, and conference speaker
+* Thursday, August 2 at Noon (Online)
+* Bob and Josh are both Java Champions and CJUG members
+* You can become a contributor to the Apache Maven and NetBeans projects
+* Live coding!
+
 
 
 --section--
+
+## Marcus Hellberg Presents: 
+## Building Modern Web Apps in Java
+
+* Tuesday, August 7 at TBD
+* Build a reactive chat application with an open source Java stack: Spring Boot, Project Reactor, and Vaadin
+* Marcus is the Lead Developer Advocate at Vaadin
+* Live coding!
+
+--section--
+
+## Ask the Spring Team Anything: 
+## A panel with Spring project leads
+
+* Wednesday, August 29 at TBD
+* Join a panel of experts from different Spring project teams to answer all of the questions that you have about Spring
+  * Josh Long - Spring Developer Advocate
+  * Andrew Clay Schafer - Pivotal Senior Director of Technology
+  * Oleg Zhurakousky - Project lead for Spring Cloud Stream and Spring Cloud Function
+  * Jon Schneider - Spring Metrics and Spring Cloud
+  * Michael Minella - Spring Batch Lead and CJUG Board Member
+  * Spencer Gibb - Cofounder and Lead of Spring Cloud
+  * Mario Gray - Principal Technologist for Pivotal
+
+
+--section--
+
+# Spring One Chicago Conference
+
+* August 28 and 29
+* Single track - no missing out on world class speakers
+* Open Space to engage on any topic with speakers and attendees
+* Breakfast and lunch provided, and a social hour on day one
+* Summit Executive Center (205 N Michigan Ave)
+* Only $150 to attend both days
+* Go to springonetour.io
+
+--section--
 #Remember:
+ * Follow us on Twitter: @cjug
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
- * Follow us on Twitter: @CJUG
