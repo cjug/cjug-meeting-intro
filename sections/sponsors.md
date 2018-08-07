@@ -1,8 +1,13 @@
-<!-- Gold Level Sponsor, leave in until 2020-06-25 -->
+<!-- Gold Level Sponsors
 
-# Gold Sponsor
+	 Leave Expedia in until 2020-06-25 
+	 Leave Peak6 in until 2019-08-06
+-->
 
-<img src="images/expedia.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+# Gold Sponsors
+
+<img src="images/expedia.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/peak6.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 
@@ -10,5 +15,6 @@
 
 # Sponsor
 
-<img src="images/peak6.png" style="border:none; box-shadow:none; margin: 30px; background:white"/>
+<img src="images/expedia.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
 
