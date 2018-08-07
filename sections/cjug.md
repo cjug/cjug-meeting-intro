@@ -45,7 +45,7 @@ Want to learn about something? Let us know!
 ## Ask the Spring Team Anything: 
 ## A panel with Spring project leads
 
-* Wednesday, August 29 at TBD
+* Wednesday, August 29 at Pivotal Labs
 * Join a panel of experts from different Spring project teams to answer all of the questions that you have about Spring
   * Josh Long - Spring Developer Advocate
   * Andrew Clay Schafer - Pivotal Senior Director of Technology
@@ -54,7 +54,6 @@ Want to learn about something? Let us know!
   * Michael Minella - Spring Batch Lead and CJUG Board Member
   * Spencer Gibb - Cofounder and Lead of Spring Cloud
   * Mario Gray - Principal Technologist for Pivotal
-
 
 --section--
 
@@ -73,7 +72,9 @@ Want to learn about something? Let us know!
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
 
+
 --section--
 #CHIRP!
 <br/><br/>
 ### Follow us on Twitter: <u>@cjug</u>
+
