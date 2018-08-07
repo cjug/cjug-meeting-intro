@@ -2,10 +2,10 @@
 
 ---
 
-July 24, 2018
+August 7, 2018
 
-##Billy Korando Presents: 
-##Welcome to JUnit 5
+## Marcus Hellberg Presents: 
+## Building Modern Web Apps in Java
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,33 +33,12 @@ July 24, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, August 20 @ TBD
+* Next == Monday, August 20 @ Rocketmiles
   * Optional topic == Interview skills
 
 <br>
 Want to learn about something? Let us know!
 
---section--
-
-## Josh Juneau and Bob Paulin Present: 
-## OSS @ CJUG
-
-* Thursday, August 2 at Noon (Online)
-* Bob and Josh are both Java Champions and CJUG members
-* You can become a contributor to the Apache Maven and NetBeans projects
-* Live coding!
-
-
-
---section--
-
-## Marcus Hellberg Presents: 
-## Building Modern Web Apps in Java
-
-* Tuesday, August 7 at TBD
-* Build a reactive chat application with an open source Java stack: Spring Boot, Project Reactor, and Vaadin
-* Marcus is the Lead Developer Advocate at Vaadin
-* Live coding!
 
 --section--
 
@@ -91,6 +70,10 @@ Want to learn about something? Let us know!
 
 --section--
 #Remember:
- * Follow us on Twitter: @cjug
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
+
+--section--
+#CHIRP!
+<br/><br/>
+### Follow us on Twitter: <u>@cjug</u>
