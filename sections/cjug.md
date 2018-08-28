@@ -2,10 +2,10 @@
 
 ---
 
-August 7, 2018
+August 29, 2018
 
-## Marcus Hellberg Presents: 
-## Building Modern Web Apps in Java
+## Ask the Spring Team Anything: 
+## A Panel With Spring Project Leads
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,39 +33,30 @@ August 7, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, August 20 @ Rocketmiles
-  * Optional topic == Interview skills
+* Next == Monday, September 17 @ ??
+  * Optional topic == Unit Testing
 
 <br>
 Want to learn about something? Let us know!
 
+--section--
+
+## Janine Patterson Presents: 
+## Docker Lessons Learned - A Well Intentioned ClusterF\*ck
+* Tuesday, September 1 at TBD
+* Janine is the CJUG President
+
 
 --section--
 
-## Ask the Spring Team Anything: 
-## A panel with Spring project leads
+## Oliver Gierke Presents: 
+## REST Beyond the Obvious- API Design for Evolving Systems
 
-* Wednesday, August 29 at Pivotal Labs
-* Join a panel of experts from different Spring project teams to answer all of the questions that you have about Spring
-  * Josh Long - Spring Developer Advocate
-  * Andrew Clay Schafer - Pivotal Senior Director of Technology
-  * Oleg Zhurakousky - Project lead for Spring Cloud Stream and Spring Cloud Function
-  * Jon Schneider - Spring Metrics and Spring Cloud
-  * Michael Minella - Spring Batch Lead and CJUG Board Member
-  * Spencer Gibb - Cofounder and Lead of Spring Cloud
-  * Mario Gray - Principal Technologist for Pivotal
+* Thursday, September 20 at Pivotal Labs
+* Oliver Gierke is the lead of the Spring Data project
+* Java Champion 
+* Member of the JPA 2.1 expert group
 
---section--
-
-# Spring One Chicago Conference
-
-* August 28 and 29
-* Single track - no missing out on world class speakers
-* Open Space to engage on any topic with speakers and attendees
-* Breakfast and lunch provided, and a social hour on day one
-* Summit Executive Center (205 N Michigan Ave)
-* Only $150 to attend both days
-* Go to springonetour.io
 
 --section--
 #Remember:
