@@ -15,4 +15,5 @@
 
 # Sponsor
 
-<img src="images/expedia.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/pivotal.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
