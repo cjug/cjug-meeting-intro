@@ -15,6 +15,5 @@
 
 # Sponsor
 
-<img src="images/pivotal.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
+<img src="images/peak6.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
