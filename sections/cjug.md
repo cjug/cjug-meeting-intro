@@ -2,10 +2,10 @@
 
 ---
 
-August 29, 2018
+September 11, 2018
 
-## Ask the Spring Team Anything: 
-## A Panel With Spring Project Leads
+## Janine Patterson Presents:
+## Docker Lessons Learned - A Well Intentioned ClusterF\*ck
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,7 +33,7 @@ August 29, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, September 17 @ ??
+* Next == Monday, September 17 @ IBM
   * Optional topic == Unit Testing
 
 <br>
@@ -41,22 +41,22 @@ Want to learn about something? Let us know!
 
 --section--
 
-## Janine Patterson Presents: 
-## Docker Lessons Learned - A Well Intentioned ClusterF\*ck
-* Tuesday, September 1 at TBD
-* Janine is the CJUG President
-
-
---section--
-
 ## Oliver Gierke Presents: 
 ## REST Beyond the Obvious- API Design for Evolving Systems
 
-* Thursday, September 20 at Pivotal Labs
+* Thursday, September 20 at BCBS
 * Oliver Gierke is the lead of the Spring Data project
 * Java Champion 
 * Member of the JPA 2.1 expert group
 
+
+--section--
+
+# Chicago Polyglot Mingle
+
+* Tuesday, September 27, 2018, 6-9pm
+* At Sully's House - 1501 N. Dayton
+* Co-hosted by CJUG, ChiPy, and Chicago Ruby
 
 --section--
 
