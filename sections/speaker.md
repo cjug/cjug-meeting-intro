@@ -1,8 +1,9 @@
 ## Featured Speaker: 
 
 
-### Janine Patterson
-* Current CJUG President
-* Engineering Manager at PEAK6
-* Never commits bad code, it *always* works on her machine
+### Oliver Gierke
+* Spring Data Project Lead
+* Java Champion 
+* Member of the JPA 2.1 expert group
+
 
