@@ -27,6 +27,15 @@ October 4, 2018
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties...maybe)
 
+--section--
+## Josh Juneau and Bob Paulin Present:
+## OSS @ CJUG
+* Thursday, October 11 at Noon (Online)
+* Bob and Josh are both Java Champions and CJUG members
+* Learn about:
+  * General contribution process (Branching, PRs, Documentation, etc)
+  * Apache Incubation process
+  * Overview of Eclipse Krazo (MVC)  
 
 --section--
 #CJUG Office Hours!
@@ -34,7 +43,7 @@ October 4, 2018
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
 * Next == Monday, October 22
-  * Optional topic == Design Patterns
+  * Optional topic == Design Patterns (Nick!)
 
 <br>
 Want to learn about something? Let us know!
