@@ -2,10 +2,10 @@
 
 ---
 
-September 20, 2018
+October 4, 2018
 
-## Oliver Gierke Presents: 
-## REST Beyond the Obvious- API Design for Evolving Systems
+## Michael Carducci Presents: 
+## The Influential Engineer - Overcoming resistance to change
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -33,19 +33,12 @@ September 20, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, October TBD
-  * Optional topic == TBD
+* Next == Monday, October 22
+  * Optional topic == Design Patterns
 
 <br>
 Want to learn about something? Let us know!
 
---section--
-
-# Chicago Polyglot Mingle
-
-* Tuesday, September 27, 2018, 6-9pm
-* At Sully's House - 1501 N. Dayton
-* Co-hosted by CJUG, ChiPy, and Chicago Ruby
 
 --section--
 

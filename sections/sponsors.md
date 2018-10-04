@@ -15,6 +15,6 @@
 
 # Sponsor
 
-<img src="images/bcbs-il.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/getransportation.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 
