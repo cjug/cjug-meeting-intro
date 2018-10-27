@@ -1,9 +1,8 @@
 ## Featured Speaker: 
 
 
-### Michael Carducci
-* 20 years experience as a software engineer
-* In reality: magician moonlighting as a software engineer
-* International conference speaker / performer
-
+## Venkat Subramaniam
+* Founder of Agile Developer, Inc.
+* Award-winning author
+* Rock-star speaker at major conferences
 

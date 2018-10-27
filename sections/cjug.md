@@ -2,10 +2,10 @@
 
 ---
 
-October 4, 2018
+November 1, 2018
 
-## Michael Carducci Presents: 
-## The Influential Engineer - Overcoming resistance to change
+## Venkat Subramaniam Presents: 
+## Completable Future: The Promises of Java
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -27,23 +27,22 @@ October 4, 2018
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties...maybe)
 
+
 --section--
-## Josh Juneau and Bob Paulin Present:
-## OSS @ CJUG
-* Thursday, October 11 at Noon (Online)
-* Bob and Josh are both Java Champions and CJUG members
-* Learn about:
-  * General contribution process (Branching, PRs, Documentation, etc)
-  * Apache Incubation process
-  * Overview of Eclipse Krazo (MVC)  
+## Matt Raible Presents: 
+## Microservices for the Masses with Spring Boot and JHipster
+* Thursday, November 15, @ TBD
+* Developer advocate at Okta
+* Author of the JHipster Mini-Book
+* International conference speaker
+
 
 --section--
 #CJUG Office Hours!
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == Monday, October 22
-  * Optional topic == Design Patterns (Nick!)
+* Next == TBD (Check Meetup.com!)
 
 <br>
 Want to learn about something? Let us know!
@@ -54,7 +53,7 @@ Want to learn about something? Let us know!
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
-
+ * Join us on Meetup.com
 
 --section--
 #CHIRP!
