@@ -25,8 +25,15 @@ November 1, 2018
  * Expand your network
  * Become a leader in this community (Organizer, Speaker, Influencer)
  * Growth Professionally
- * Looks great on the Resume (also be a hit at parties...maybe)
+ * Looks great on the Resume (also be a hit at parties... maybe)
 
+--section--
+## Lightning Talks!
+* 5-10 talk on anything related to the JVM
+* We are a very friendly audience that wants you to succeed
+* This is a great way to break into public speaking
+* December 13, plenty of time to prepare!
+* Email <u>present@cjug.org</u> with your name and topic to enroll
 
 --section--
 ## Matt Raible Presents: 
