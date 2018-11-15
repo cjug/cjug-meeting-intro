@@ -3,6 +3,7 @@
 
 ## Matt Raible
 * Developer advocate at Okta
-* Author of the JHipster Mini-Book
 * International conference speaker
-
+* Author of the JHipster Mini-Book
+  * Version 5 just released!
+  * jhipster-book.com

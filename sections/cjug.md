@@ -26,6 +26,15 @@ November 15, 2018
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
+--section--
+## Josh Juneau Presents
+## Lightweight Java EE with MicroProfile
+* November 29 @ TBD
+* Java Champion
+* Application Developer at Fermilab
+* Author, award winning JCP member, and Expert Group Member of many JSRs
+* Leader of OSS@CJUG
+
 
 --section--
 ## Lightning Talks!
