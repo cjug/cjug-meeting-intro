@@ -1,8 +1,8 @@
 ## Featured Speaker: 
 
 
-## Venkat Subramaniam
-* Founder of Agile Developer, Inc.
-* Award-winning author
-* Rock-star speaker at major conferences
+## Matt Raible
+* Developer advocate at Okta
+* Author of the JHipster Mini-Book
+* International conference speaker
 

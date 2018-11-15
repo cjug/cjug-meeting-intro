@@ -2,10 +2,10 @@
 
 ---
 
-November 1, 2018
+November 15, 2018
 
-## Venkat Subramaniam Presents: 
-## Completable Future: The Promises of Java
+## Matt Raible Presents: 
+## Microservices for the Masses with Spring Boot and JHipster
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -20,28 +20,20 @@ November 1, 2018
  * Continue to grow trust, empathy, and friendship
 
 --section--
-
 ## How about volunteering?
  * Expand your network
  * Become a leader in this community (Organizer, Speaker, Influencer)
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
+
 --section--
 ## Lightning Talks!
 * 5-10 talk on anything related to the JVM
 * We are a very friendly audience that wants you to succeed
 * This is a great way to break into public speaking
-* December 13, plenty of time to prepare!
+* December 11, plenty of time to prepare!
 * Email <u>present@cjug.org</u> with your name and topic to enroll
-
---section--
-## Matt Raible Presents: 
-## Microservices for the Masses with Spring Boot and JHipster
-* Thursday, November 15, @ TBD
-* Developer advocate at Okta
-* Author of the JHipster Mini-Book
-* International conference speaker
 
 
 --section--
@@ -49,7 +41,7 @@ November 1, 2018
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* Next == TBD (Check Meetup.com!)
+* We will resume in January, 2019!
 
 <br>
 Want to learn about something? Let us know!
