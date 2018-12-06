@@ -1,9 +1,14 @@
-## Featured Speaker: 
+## Featured Speakers: 
 
 
-## Matt Raible
-* Developer advocate at Okta
-* International conference speaker
-* Author of the JHipster Mini-Book
-  * Version 5 just released!
-  * jhipster-book.com
+## David Nugent
+* Developer Advocate from IBM San Francisco Team
+* Cognitive, Data and Analytics, and Javascript
+* Organizer of the SF Javascript Meetup
+* Organizer of @ForwardJS
+
+--section--
+## Mary Grygleski
+* Developer Advocate from IBM Global Java Team
+* CJUG Director of Meetings / Exec Board member by night
+
