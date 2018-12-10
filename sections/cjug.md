@@ -2,10 +2,10 @@
 
 ---
 
-### December 6, 2018
+### December 11, 2018
 
-### David Nugent and Mary Grygleski Present: 
-### Serverless - A New Way to Build Modern Apps
+### CGUG Presents: 
+### Lightning Talks!
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,26 +26,16 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
-
---section--
-## Lightning Talks!
-* December 11 (Next Tuesday @ 8th Light)
-* 5-10min talk on anything related to the JVM
-* We are a very friendly audience that wants you to succeed
-* This is a great way to break into public speaking
-* Currently we have 8 speakers (may still accept 1-2 more :)
-* Email <u>present@cjug.org</u> with your name and topic to enroll
-
 --section--
 ##Holidays Fireside Chat
 ###on Microservices with
 ##Andres Almiray and Josh Juneau
 * December 19 "Double Features"
 * Both Java Champions
-* Andres - Java/Groovy Developer Principal Consultant based in Switzerland
-* Our very own Josh - an Application Developer at Fermilab
 * Both are strong Open Source advocates and authors/contributors in many projects
-* Andres' topic is on gRPC
+* Andres - Java/Groovy Developer Principal Consultant based in Switzerland
+* Andres' topic is on Reactive and gRPC
+* Our very own Josh - an Application Developer at Fermilab
 * Josh's topic is on MicroProfile
 * Potentially more good surprises - Please stay tuned!
 
