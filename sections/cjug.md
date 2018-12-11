@@ -4,7 +4,7 @@
 
 ### December 11, 2018
 
-### CGUG Presents: 
+### CJUG Presents: 
 ### Lightning Talks!
 
 
