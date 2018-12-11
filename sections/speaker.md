@@ -1,14 +1,16 @@
 ## Featured Speakers: 
 
 
-## David Nugent
-* Developer Advocate from IBM San Francisco Team
-* Cognitive, Data and Analytics, and Javascript
-* Organizer of the SF Javascript Meetup
-* Organizer of @ForwardJS
+## The CJUG Community!
+* Svetlana Levitan - Predictive Model Deployment: from PMML to PFA
+* Jacek Arent - Consul Service Discovery integration with Spring-Boot
+* John Cairns - Concurrent Hierarchical State Machines
+* Matt Sicker - Audit Logging
+* ...
 
 --section--
-## Mary Grygleski
-* Developer Advocate from IBM Global Java Team
-* CJUG Director of Meetings / Exec Board member by night
-
+## The CJUG Community!
+* Jeff Rabovsky - JRuby
+* John Burns - Kotlin Standard Scoping Functions
+* Andres Olarte - Jib: Building containers the native Java way
+* Elisa Abedrapo - Giving Back to the Open Source Community and to the Selenium Project in particular
