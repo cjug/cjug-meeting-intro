@@ -1,10 +1,10 @@
 ## Guest Speaker: 
 
 ### Pratik Patel
- * CTO of TripLingo
+ * Lead Developer Advocate - IBM
  * Java Champion
- * Runs DevNexus Conference in Atlanta
  * Worldwide conference speaker
+ * Runs DevNexus Conference in Atlanta
 
 
 

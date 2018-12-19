@@ -2,10 +2,11 @@
 
 ---
 
-### December 11, 2018
+### December 19, 2018
 
 ### CJUG Presents: 
-### Lightning Talks!
+###Holidays Fireside Chat on Microservices 
+### with Andres Almiray and Josh Juneau
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,19 +27,13 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
---section--
-##Holidays Fireside Chat
-###on Microservices with
-##Andres Almiray and Josh Juneau
-* December 19 "Double Features"
-* Both Java Champions
-* Both are strong Open Source advocates and authors/contributors in many projects
-* Andres - Java/Groovy Developer Principal Consultant based in Switzerland
-* Andres' topic is on Reactive and gRPC
-* Our very own Josh - an Application Developer at Fermilab
-* Josh's topic is on MicroProfile
-* Potentially more good surprises - Please stay tuned!
 
+--section--
+#Winter Polyglot Mixer
+* January 30 Sully's House
+* Sully's House - 1501 N Dayton St (near the Red Line)
+* Co-Hosted with ChiPy and Chicago Ruby
+* Meet developers with different backgrounds! Have fun!
 
 --section--
 #CJUG Office Hours!
