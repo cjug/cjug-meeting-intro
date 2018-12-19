@@ -1,16 +1,17 @@
 ## Featured Speakers: 
 
 
-## The CJUG Community!
-* Svetlana Levitan - Predictive Model Deployment: from PMML to PFA
-* Jacek Arent - Consul Service Discovery integration with Spring-Boot
-* John Cairns - Concurrent Hierarchical State Machines
-* Matt Sicker - Audit Logging
-* ...
+## Andres Almiray
+* Java Champion
+* Java/Groovy Developer Principal Consultant based in Switzerland
+* Apache and Eclipse committer, JSR-377 spec lead
+* JCP EC Associate Seat
+* International conference speaker
 
 --section--
-## The CJUG Community!
-* Jeff Rabovsky - JRuby
-* John Burns - Kotlin Standard Scoping Functions
-* Andres Olarte - Jib: Building containers the native Java way
-* Elisa Abedrapo - Giving Back to the Open Source Community and to the Selenium Project in particular
+## Josh Juneau
+* Java Champion
+* Application Developer at Fermilab
+* Award winning JCP Member and Expert Group Member of many JSRs
+* Leader of CJUG's Adopt-a-JSR Program
+* Author of multiple books including The Definitive Guide to Jython, Java EE 7 Recipes, and Java 9 Recipes.
