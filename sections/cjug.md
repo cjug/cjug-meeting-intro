@@ -2,11 +2,10 @@
 
 ---
 
-### December 19, 2018
+### January 15, 2019
 
-### CJUG Presents: 
-###Holidays Fireside Chat on Microservices 
-### with Andres Almiray and Josh Juneau
+###Paul Nauman Presents: 
+###Turtles All The Way Down - Building A Metacircular JVM
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -34,6 +33,14 @@
 * Sully's House - 1501 N Dayton St (near the Red Line)
 * Co-Hosted with ChiPy and Chicago Ruby
 * Meet developers with different backgrounds! Have fun!
+* Go register NOW - chicagopolyglot.com
+
+--section--
+## Joel Tosi Presents: 
+## Reflect' on XP-What is working; what has changed; what did we forget?
+* Used to work on low latency/high throughput trading systems
+* Co-founder of Dojo and Co - coaches teams on product delivery
+* February 7 at TBD
 
 --section--
 #CJUG Office Hours!
@@ -45,6 +52,12 @@
 <br>
 Want to learn about something? Let us know!
 
+--section--
+# Apache Roadshow Chicago
+* May 13th and 14th at three bars in the Logan Square neighborhood
+* $100 to attend both days
+* CJUG is a sponsor
+* Register at www.apachecon.com/chiroadshow19
 
 --section--
 
