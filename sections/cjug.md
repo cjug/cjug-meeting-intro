@@ -37,7 +37,7 @@
 
 --section--
 ## Joel Tosi Presents: 
-## Reflect' on XP-What is working; what has changed; what did we forget?
+## Reflecting on XP - what is working; what has changed; what did we forget?
 * Used to work on low latency/high throughput trading systems
 * Co-founder of Dojo and Co - coaches teams on product delivery
 * February 7 at TBD
