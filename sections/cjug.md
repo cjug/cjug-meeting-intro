@@ -2,10 +2,10 @@
 
 ---
 
-### January 15, 2019
+### February 7, 2019
 
-###Paul Nauman Presents: 
-###Turtles All The Way Down - Building A Metacircular JVM
+## Joel Tosi Presents: 
+## Reflecting on XP - what is working; what has changed; what did we forget?
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -29,25 +29,26 @@
 
 --section--
 #Winter Polyglot Mixer
-* January 30 Sully's House
+* February 12 at Sully's House
 * Sully's House - 1501 N Dayton St (near the Red Line)
 * Co-Hosted with ChiPy and Chicago Ruby
 * Meet developers with different backgrounds! Have fun!
 * Go register NOW - chicagopolyglot.com
 
 --section--
-## Joel Tosi Presents: 
-## Reflecting on XP - what is working; what has changed; what did we forget?
-* Used to work on low latency/high throughput trading systems
-* Co-founder of Dojo and Co - coaches teams on product delivery
-* February 7 at TBD
+##Freddy Guime and Bob Paulin Present: 
+##Things that make you go "huh", Java Edition
+* Both are former CJUG Presidents!
+* Both are Java Champions!
+* February 21, 2019 @ Vivid Seats
+* Go to meetup.com and register now
 
 --section--
 #CJUG Office Hours!
 * Let our mentors help you
 * Talk about problems/shop/tech
 * Nick, Lamar, Todd, Janine (Mentors)
-* We will resume in January, 2019!
+
 
 <br>
 Want to learn about something? Let us know!
@@ -58,6 +59,10 @@ Want to learn about something? Let us know!
 * $100 to attend both days
 * CJUG is a sponsor
 * Register at www.apachecon.com/chiroadshow19
+
+--section--
+
+DEVNEXUS?
 
 --section--
 

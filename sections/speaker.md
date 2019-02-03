@@ -1,8 +1,7 @@
 ## Featured Speakers: 
 
 
-## Paul Nauman
-* Sales Engineer for Azul Systems
-* Recovering JVM engineer at Oracle 
-* JavaOne Speaker
-* CJUG Regular!!
+## Joel Tosi
+* Used to work on low latency/high throughput trading systems
+* Frequent conference speaker
+* Co-founder of Dojo and Co - coaches teams on product delivery
