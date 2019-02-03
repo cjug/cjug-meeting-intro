@@ -62,7 +62,13 @@ Want to learn about something? Let us know!
 
 --section--
 
-DEVNEXUS?
+# DevNexus Conference 
+* Largest Java conference in the USA - in Atlanta, GA
+* Several speakers from CJUG
+* 2,200 attendees, 11 Full-Day workshops, 14 concurrent tracks, 140 sessions, 3 keynotes
+* Workshops March 6, Conference March 7-8
+* $50 off MEETUP50, $100 off of a workshop + main conf: MEETUPWORKSHOP100
+* Go to devnexus.com to register before 2019-02-15!
 
 --section--
 
