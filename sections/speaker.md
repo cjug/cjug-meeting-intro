@@ -1,7 +1,16 @@
 ## Featured Speakers: 
 
 
-## Joel Tosi
-* Used to work on low latency/high throughput trading systems
-* Frequent conference speaker
-* Co-founder of Dojo and Co - coaches teams on product delivery
+## Freddy Guime
+ * Former CJUG President, now with SeaJUG
+ * Principal Developer at Expedia
+ * Java Champion
+ * International Conference Speaker
+
+--section--
+
+## Bob Paulin
+ * Former CJUG President
+ * Awesomely Independent Consultant
+ * Java Champion
+ * International Conference Speaker
