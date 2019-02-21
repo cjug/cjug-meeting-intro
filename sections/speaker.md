@@ -11,6 +11,6 @@
 
 ## Bob Paulin
  * Former CJUG President
- * Independent Consultant
+ * Awesomely Independent Consultant
  * Java Champion
  * International Conference Speaker
