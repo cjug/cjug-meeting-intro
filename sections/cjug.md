@@ -2,10 +2,10 @@
 
 ---
 
-### February 7, 2019
+### February 21, 2019
 
-## Joel Tosi Presents: 
-## Reflecting on XP - what is working; what has changed; what did we forget?
+##Freddy Guime and Bob Paulin Present: 
+##Things that make you go "huh", Java Edition
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,22 +26,23 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
+--section--
+##Sebastian Daschner Presents: 
+##Cloud Native, Service-Meshed Java Enterprise with Istio
+ * February 28 @ IBM
+ * Lead Java Developer Advocate at IBM
+ * Java Champion
+ * International Conference Speaker
+ * Register at meetup.com today! 
 
 --section--
-#Winter Polyglot Mixer
-* February 12 at Sully's House
-* Sully's House - 1501 N Dayton St (near the Red Line)
-* Co-Hosted with ChiPy and Chicago Ruby
-* Meet developers with different backgrounds! Have fun!
-* Go register NOW - chicagopolyglot.com
+##Christian Posta Presents:
+##You Decide (Go Vote!)
+* March 12 @ TBD
+* Field CTO at solo.io
+* International Conference Speaker
+* Register at meetup.com today! 
 
---section--
-##Freddy Guime and Bob Paulin Present: 
-##Things that make you go "huh", Java Edition
-* Both are former CJUG Presidents!
-* Both are Java Champions!
-* February 21, 2019 @ Vivid Seats
-* Go to meetup.com and register now
 
 --section--
 #CJUG Office Hours!
@@ -52,6 +53,7 @@
 
 <br>
 Want to learn about something? Let us know!
+
 
 --section--
 # Apache Roadshow Chicago
@@ -67,8 +69,7 @@ Want to learn about something? Let us know!
 * Several speakers from CJUG
 * 2,200 attendees, 11 Full-Day workshops, 14 concurrent tracks, 140 sessions, 3 keynotes
 * Workshops March 6, Conference March 7-8
-* $50 off MEETUP50, $100 off of a workshop + main conf: MEETUPWORKSHOP100
-* Go to devnexus.com to register before 2019-02-15!
+* Go to devnexus.com to register
 
 --section--
 
