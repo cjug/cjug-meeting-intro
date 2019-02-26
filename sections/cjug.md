@@ -2,10 +2,10 @@
 
 ---
 
-### February 21, 2019
+### February 28, 2019
 
-##Freddy Guime and Bob Paulin Present: 
-##Things that make you go "huh", Java Edition
+##Sebastian Daschner Presents: 
+##Cloud Native, Service-Meshed Java Enterprise with Istio
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -27,17 +27,8 @@
  * Looks great on the Resume (also be a hit at parties... maybe)
 
 --section--
-##Sebastian Daschner Presents: 
-##Cloud Native, Service-Meshed Java Enterprise with Istio
- * February 28 @ IBM
- * Lead Java Developer Advocate at IBM
- * Java Champion
- * International Conference Speaker
- * Register at meetup.com today! 
-
---section--
 ##Christian Posta Presents:
-##You Decide (Go Vote!)
+##API Gateways Are Going Through an Identity Crisis
 * March 12 @ TBD
 * Field CTO at solo.io
 * International Conference Speaker
