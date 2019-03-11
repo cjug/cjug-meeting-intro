@@ -2,10 +2,10 @@
 
 ---
 
-### February 28, 2019
+### March 12, 2019
 
-##Sebastian Daschner Presents: 
-##Cloud Native, Service-Meshed Java Enterprise with Istio
+##Christian Posta Presents:
+##API Gateways Are Going Through an Identity Crisis
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -27,15 +27,6 @@
  * Looks great on the Resume (also be a hit at parties... maybe)
 
 --section--
-##Christian Posta Presents:
-##API Gateways Are Going Through an Identity Crisis
-* March 12 @ TBD
-* Field CTO at solo.io
-* International Conference Speaker
-* Register at meetup.com today! 
-
-
---section--
 #CJUG Office Hours!
 * Let our mentors help you
 * Talk about problems/shop/tech
@@ -45,6 +36,22 @@
 <br>
 Want to learn about something? Let us know!
 
+--section--
+## Marc Saegesser Presents: 
+## Why Scala?
+* Answer the question "Why should I care about Scala?"
+* Provide concrete examples that demonstrate value, improve efficiency and correctness
+* Tuesday, March 26 @ TBD
+* RSVP  on meetup.com now!
+
+--section--
+
+## Lightning Talks!
+* 5-10 talk on anything related to the JVM
+* We are a very friendly audience that wants you to succeed
+* This is a great way to break into public speaking
+* Some time in April, plenty of time to prepare!
+* Email <u>present@cjug.org</u> with your name and topic to enroll
 
 --section--
 # Apache Roadshow Chicago
@@ -52,15 +59,6 @@ Want to learn about something? Let us know!
 * $100 to attend both days
 * CJUG is a sponsor
 * Register at www.apachecon.com/chiroadshow19
-
---section--
-
-# DevNexus Conference 
-* Largest Java conference in the USA - in Atlanta, GA
-* Several speakers from CJUG
-* 2,200 attendees, 11 Full-Day workshops, 14 concurrent tracks, 140 sessions, 3 keynotes
-* Workshops March 6, Conference March 7-8
-* Go to devnexus.com to register
 
 --section--
 
