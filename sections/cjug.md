@@ -62,6 +62,12 @@ Want to learn about something? Let us know!
 
 --section--
 
+# GOTO Chicago
+* April 28 - May 2, 2019 @ Navy Pier
+* Find out more at https://gotochgo.com/
+
+--section--
+
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
