@@ -2,10 +2,10 @@
 
 ---
 
-### March 12, 2019
+### April 9, 2019
 
-##Christian Posta Presents:
-##API Gateways Are Going Through an Identity Crisis
+##The CJUG Community Presents:
+##Lightning Talks!
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,32 +26,21 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
---section--
-#CJUG Office Hours!
-* Let our mentors help you
-* Talk about problems/shop/tech
-* Nick, Lamar, Todd, Janine (Mentors)
-
-
-<br>
-Want to learn about something? Let us know!
 
 --section--
-## Marc Saegesser Presents: 
-## Why Scala?
-* Answer the question "Why should I care about Scala?"
-* Provide concrete examples that demonstrate value, improve efficiency and correctness
-* Tuesday, March 26 @ TBD
+## Victoria Gonda Presents: 
+## Getting Started with AndroidX Test
+* Victoria is an Android Engineer at Buffer
+* Learn how testing Android apps just got easier!
+* Tuesday, April 23 @ Expedia
 * RSVP  on meetup.com now!
 
 --section--
-
-## Lightning Talks!
-* 5-10 talk on anything related to the JVM
-* We are a very friendly audience that wants you to succeed
-* This is a great way to break into public speaking
-* Some time in April, plenty of time to prepare!
-* Email <u>present@cjug.org</u> with your name and topic to enroll
+##Nicolas Frankel Presents:
+##Configuration Management w/ Kubernetes, a Spring Boot use-case
+* Developer Advocate for Exoscale
+* Tuesday, May 2 @ Expedia
+* RSVP on meetup.com now!
 
 --section--
 # Apache Roadshow Chicago
