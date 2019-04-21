@@ -15,6 +15,5 @@
 
 # Sponsor
 
-<img src="images/acs.jpg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-<img src="images/aic.jpg" style="border:none; box-shadow:none; margin: 30px; background:none;"/>
+<img src="images/expedia.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 

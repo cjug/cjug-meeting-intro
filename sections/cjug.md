@@ -2,10 +2,10 @@
 
 ---
 
-### April 9, 2019
+### April 23, 2019
 
-##The CJUG Community Presents:
-##Lightning Talks!
+##Victoria Gonda Presents:
+##Getting Started with AndroidX Test
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,14 +26,6 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
-
---section--
-## Victoria Gonda Presents: 
-## Getting Started with AndroidX Test
-* Victoria is an Android Engineer at Buffer
-* Learn how testing Android apps just got easier!
-* Tuesday, April 23 @ Expedia
-* RSVP  on meetup.com now!
 
 --section--
 ##Nicolas Frankel Presents:
