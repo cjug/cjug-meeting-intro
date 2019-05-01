@@ -2,10 +2,10 @@
 
 ---
 
-### April 23, 2019
+### May 2, 2019
 
-##Victoria Gonda Presents:
-##Getting Started with AndroidX Test
+##Nicolas Fr&auml;nkel Presents:
+##Configuration Management w/ Kubernetes, a Spring Boot use-case
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -28,11 +28,12 @@
 
 
 --section--
-##Nicolas Frankel Presents:
-##Configuration Management w/ Kubernetes, a Spring Boot use-case
-* Developer Advocate for Exoscale
-* Tuesday, May 2 @ Expedia
-* RSVP on meetup.com now!
+##Special Triple Treats from the OSGi Alliance Expert Group!
+* Raymond Aug&eacute; - Sr. Software Architect at Liferay
+* BJ Hargrave - Senior Technical Staff Member at IBM
+* 3 @ 30 minute talks!
+* May 22, Location TBD
+* RSVP on Meetup.com NOW!
 
 --section--
 # Apache Roadshow Chicago
@@ -41,11 +42,6 @@
 * CJUG is a sponsor
 * Register at www.apachecon.com/chiroadshow19
 
---section--
-
-# GOTO Chicago
-* April 28 - May 2, 2019 @ Navy Pier
-* Find out more at https://gotochgo.com/
 
 --section--
 
