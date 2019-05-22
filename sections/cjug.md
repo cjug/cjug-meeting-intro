@@ -2,10 +2,10 @@
 
 ---
 
-### May 2, 2019
+### May 22, 2019
 
-##Nicolas Fr&auml;nkel Presents:
-##Configuration Management w/ Kubernetes, a Spring Boot use-case
+##Special Triple Treat:
+##The OSGi Alliance Expert Group
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,21 +26,14 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
-
 --section--
-##Special Triple Treats from the OSGi Alliance Expert Group!
-* Raymond Aug&eacute; - Sr. Software Architect at Liferay
-* BJ Hargrave - Senior Technical Staff Member at IBM
-* 3 @ 30 minute talks!
-* May 22, Location TBD
-* RSVP on Meetup.com NOW!
+##Cloud-native event-driven architecture with Spring & Azure
+ * What can you do with serverless systems in the cloud?
+ * Asir Vedamuthu Selvasingh - Principal PM Architect, Microsoft 
+ * Michael Minella - Director of Software Engineering, Pivotal
+ * June 11 @ TBD
+ * RSVP on Meetup.com now!
 
---section--
-# Apache Roadshow Chicago
-* May 13th and 14th at three bars in the Logan Square neighborhood
-* $100 to attend both days
-* CJUG is a sponsor
-* Register at www.apachecon.com/chiroadshow19
 
 
 --section--
