@@ -2,10 +2,10 @@
 
 ---
 
-### May 22, 2019
+### June 18, 2019
 
-##Special Triple Treat:
-##The OSGi Alliance Expert Group
+##Billy Korando Presents: 
+##Extending Spring Boot for the Enterprise
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -27,14 +27,17 @@
  * Looks great on the Resume (also be a hit at parties... maybe)
 
 --section--
-##Cloud-native event-driven architecture with Spring & Azure
- * What can you do with serverless systems in the cloud?
- * Asir Vedamuthu Selvasingh - Principal PM Architect, Microsoft 
- * Michael Minella - Director of Software Engineering, Pivotal
- * June 11 @ TBD
+##OSS @ CJUG: Maven Plugins and Arquillian
+ * Lunch Hour Webinar TOMORROW - June 19
+ * Hosted by Josh Juneau and Bob Paulin
  * RSVP on Meetup.com now!
 
-
+--section--
+##Edson Yanaga Presents: Coding That Sparks Joy with Quarkus
+ * The "supersonic, subatomic" Java framework for GraalVM and Hotspot
+ * Red Hat's Director of Developer Experience, Java Champion and Microsoft MVP
+ * July 11th at TBD
+ * RSVP on Meetup.com now!
 
 --section--
 
