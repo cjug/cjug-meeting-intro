@@ -1,17 +1,8 @@
-## Featured Speakers: 
+## Featured Speaker: 
 
 
-##Raymond Aug&eacute;
- * Sr. Software Architect at Liferay, Inc
- * Apache Software Foundation member and PMC of: 
-   * Apache Aries
-   * Apache Felix
-   * Apache Geronimo projects	
---section--
-
-## Featured Speakers:
-
-##BJ Hargrave
- * Senior Technical Staff Member at IBM
- * CTO of the OSGi Alliance 
- * Chair of the OSGi Core Platform Expert Group
+##Billy Korando
+ * Developer advocate with IBM
+ * Blogger and Pluralsight author
+ * Co-Organizer of the KC JUG
+ * International Conference Speaker
