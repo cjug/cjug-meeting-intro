@@ -2,10 +2,10 @@
 
 ---
 
-### June 18, 2019
+### July 11, 2019
 
-##Billy Korando Presents: 
-##Extending Spring Boot for the Enterprise
+##Edson Yanaga Presents: 
+##Coding That Sparks Joy with Quarkus
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -26,18 +26,14 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
---section--
-##OSS @ CJUG: Maven Plugins and Arquillian
- * Lunch Hour Webinar TOMORROW - June 19
- * Hosted by Josh Juneau and Bob Paulin
- * RSVP on Meetup.com now!
 
 --section--
-##Edson Yanaga Presents: Coding That Sparks Joy with Quarkus
- * The "supersonic, subatomic" Java framework for GraalVM and Hotspot
- * Red Hat's Director of Developer Experience, Java Champion and Microsoft MVP
- * July 11th at TBD
- * RSVP on Meetup.com now!
+##Steve Gelman Presents: By Jupiter! A Whirlwind Introduction to JUnit 5
+ * Learn all about JUnit 5 and what it has to offer
+ * CJUG member!
+ * July 23 @ TBD
+ * RSVP on meetup.com now!
+
 
 --section--
 
