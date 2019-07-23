@@ -1,8 +1,7 @@
 ## Featured Speaker: 
 
 
-##Edson Yanaga
- * Red Hat's Director of Developer Experience
- * Java Champion <u>and</u> a Microsoft MVP
- * Published author and a frequent speaker at international conferences
- * Twitter: @yanaga
+##Steve Gelman
+ * CJUG Member!
+ * Secure software engineer, full-stack developer
+ * Teller of bad jokes and puns

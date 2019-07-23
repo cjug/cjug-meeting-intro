@@ -15,5 +15,5 @@
 
 # Sponsor
 
-<img src="images/grubhub.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/tek.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
