@@ -2,10 +2,10 @@
 
 ---
 
-### July 11, 2019
+### July 23, 2019
 
-##Edson Yanaga Presents: 
-##Coding That Sparks Joy with Quarkus
+##Steve Gelman Presents: 
+##By Jupiter! A Whirlwind Introduction to JUnit 5
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -28,15 +28,18 @@
 
 
 --section--
-##Steve Gelman Presents: By Jupiter! A Whirlwind Introduction to JUnit 5
- * Learn all about JUnit 5 and what it has to offer
- * CJUG member!
- * July 23 @ TBD
- * RSVP on meetup.com now!
+##Konstantin Slisenko Presents: What does it take to be an architect?
+ * Solution Architect, EPAM Systems
+ * Tuesday, August 20 @ TBD
 
 
 --section--
+## Marc Saegesser Presents: Why Scala?
+* Answer the question "Why should I care about Scala?"
+* Provide concrete examples that demonstrate value, improve efficiency and correctness
+* Tuesday, August 27 @ TBD
 
+--section--
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
