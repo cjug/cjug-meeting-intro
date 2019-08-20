@@ -1,7 +1,6 @@
 ## Featured Speaker: 
 
 
-##Steve Gelman
- * CJUG Member!
- * Secure software engineer, full-stack developer
- * Teller of bad jokes and puns
+##Konstantin Slisenko
+ * Solution Architect, EPAM Systems
+ * Promoter of DevOps culture, documentation, and good engineering practices

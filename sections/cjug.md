@@ -2,10 +2,10 @@
 
 ---
 
-### July 23, 2019
+### August 20, 2019
 
-##Steve Gelman Presents: 
-##By Jupiter! A Whirlwind Introduction to JUnit 5
+##Konstantin Slisenko Presents: 
+##What does it take to be an architect?
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -28,16 +28,11 @@
 
 
 --section--
-##Konstantin Slisenko Presents: What does it take to be an architect?
- * Solution Architect, EPAM Systems
- * Tuesday, August 20 @ TBD
-
-
---section--
 ## Marc Saegesser Presents: Why Scala?
+* Co-Hosted with CASE!
 * Answer the question "Why should I care about Scala?"
 * Provide concrete examples that demonstrate value, improve efficiency and correctness
-* Tuesday, August 27 @ TBD
+* Tuesday, August 27 @ Rewards Network
 
 --section--
 #Remember:
