@@ -1,6 +1,6 @@
 ## Featured Speaker: 
 
 
-##Konstantin Slisenko
- * Solution Architect, EPAM Systems
- * Promoter of DevOps culture, documentation, and good engineering practices
+##Marc Saegesser
+ * Writes Scala for AMI Entertinment Network
+ * Frequent presenter at the Chicago Area Scala Enthusiasts (CASE) 
