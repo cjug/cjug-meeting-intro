@@ -2,10 +2,10 @@
 
 ---
 
-### August 20, 2019
+### August 27, 2019
 
-##Konstantin Slisenko Presents: 
-##What does it take to be an architect?
+##Marc Saegesser Presents: 
+##Why Scala?
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -28,11 +28,12 @@
 
 
 --section--
-## Marc Saegesser Presents: Why Scala?
-* Co-Hosted with CASE!
-* Answer the question "Why should I care about Scala?"
-* Provide concrete examples that demonstrate value, improve efficiency and correctness
-* Tuesday, August 27 @ Rewards Network
+## Reza Rahman Presents: Effective Docker and Kubernetes for Java EE Developers
+* Principal Program Manager for Java on Azure at Microsoft
+* Entirely demo-driven presentation
+* Key trade-offs to consider while using Docker and Kubernetes with Java EE applications
+* Thursday, September 5 @ Vivid Seats
+* RSVP on Meetup.com now!
 
 --section--
 #Remember:
