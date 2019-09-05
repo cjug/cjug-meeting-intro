@@ -2,11 +2,10 @@
 
 ---
 
-### August 27, 2019
+### September 5, 2019
 
-##Marc Saegesser Presents: 
-##Why Scala?
-
+##Reza Rahman presents:
+##Effective Docker and Kubernetes for Java EE Developers
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -26,14 +25,6 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
-
---section--
-## Reza Rahman Presents: Effective Docker and Kubernetes for Java EE Developers
-* Principal Program Manager for Java on Azure at Microsoft
-* Entirely demo-driven presentation
-* Key trade-offs to consider while using Docker and Kubernetes with Java EE applications
-* Thursday, September 5 @ Vivid Seats
-* RSVP on Meetup.com now!
 
 --section--
 #Remember:
