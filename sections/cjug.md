@@ -2,10 +2,10 @@
 
 ---
 
-### September 5, 2019
+### September 26, 2019
 
-##Reza Rahman presents:
-##Effective Docker and Kubernetes for Java EE Developers
+##Emily Jiang and Graham Charters present: 
+##Seriously Open Cloud-Native Java
 
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
@@ -25,6 +25,11 @@
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
 
+--section--
+## Steve Poole and Michael Thompson present: 
+## 2 Talks on Application Modernization
+ * This is tonight @IBM, RSVP now!
+ * Two 30-minute presentations on different Application Modernization topics
 
 --section--
 #Remember:
