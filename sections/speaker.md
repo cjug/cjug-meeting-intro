@@ -1,17 +1,17 @@
 ## Featured Speaker: 
 
 
-##Emily Jiang
- * Liberty Microservices Architect and Advocate, STSM in IBM
- * Java Champion
+##Steve Poole
+ * IBM Java developer, leader and evangelist
+ * Contributor to Apache, Eclipse and OpenJDK 
  * International Conference Speaker
 
  --section--
 
 ## Featured Speaker: 
 
-##Graham Charters 
- * Architect and IBM Senior Technical Staff Member for Open Liberty at IBM's R&D
- * Open source contributor
+##Michael Thompson 
+ * Offering Manager for the WebSphere Application Server ND
+ * Contributor to the Linux kernel and WebSphere Application Server
  * International Conference Speaker
 
