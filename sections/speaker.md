@@ -1,17 +1,10 @@
 ## Featured Speaker: 
 
 
-##Steve Poole
- * IBM Java developer, leader and evangelist
- * Contributor to Apache, Eclipse and OpenJDK 
- * International Conference Speaker
+##Dr. Venkat Subramaniam
+ * Founder of Agile Developer, Inc.
+ * Instructional professor at the University of Houston
+ * Co-author of many books
+ * International conference speaker
 
- --section--
-
-## Featured Speaker: 
-
-##Michael Thompson 
- * Offering Manager for the WebSphere Application Server ND
- * Contributor to the Linux kernel and WebSphere Application Server
- * International Conference Speaker
 
