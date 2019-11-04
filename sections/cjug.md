@@ -2,10 +2,10 @@
 
 ---
 
-### October 24, 2019
+### November 4, 2019
 
-##Dr. Venkat Subramaniam
-##Design Patterns in the Light of Lambda Expressions
+##Jeanne Boyarsky Presents: 
+##Intro to Mutation Testing in Java
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -23,14 +23,6 @@
  * Become a leader in this community (Organizer, Speaker, Influencer)
  * Growth Professionally
  * Looks great on the Resume (also be a hit at parties... maybe)
-
---section--
-##Jeanne Boyarsky presents: 
-##Intro to Mutation Testing in Java
- * Java Champion and moderator of CodeRanch
- * Live example of using mutation testing to improve tests
- * Monday, November 4, 2019 @ TBD
- * RSVP on meetup.com now!
 
 --section--
 #Remember:
