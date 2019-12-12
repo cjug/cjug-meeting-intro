@@ -1,7 +1,8 @@
-## Featured Speaker: 
+## Featured Speakers: 
 
 
-##Jeanne Boyarsky
- * Java Champion
- * NYJavaSIG Leader
- * Moderator of CodeRanch
+##The CJUG Community
+ * Pratik Patel 
+ * Jim Nelson
+ * Svetlana Levita 
+ * Julio Villalta III
