@@ -2,10 +2,10 @@
 
 ---
 
-### December 12, 2019
+### January 16, 2020
 
-##The CJUG Community Presents:
-##Lightning Talks!
+##Denis Magda Presents:
+##In-Memory Computing Essentials for Java Developers
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -25,11 +25,11 @@
  * Looks great on the Resume (also be a hit at parties... maybe)
 
 --section--
-## Denis Magda Presents: 
-## In-Memory Computing Essentials for Java Developers
- * Learn about fundamental capabilities of in-memory computing platforms
- * Thursday, January 16, 2020 @ TBD
- * RSVP on meetup.com now!
+## Michael Minella Presents: 
+## To Batch or Not To Batch
+ * See where Spring Batch is today and how it has been "modernized"
+ * Thursday, February 13, 2020 @ TBD
+ * RSVP on meetup.com - Coming Soon!
 
 --section--
 #Remember:
@@ -41,3 +41,8 @@
 #CHIRP!
 <br/><br/>
 ### Follow us on Twitter: <u>@cjug</u>
+
+--section--
+#Community Info: Conferences!!
+ * Feb 19-21:  Devnexus 2020 (Atlanta JUG / 2500+ attendees / Java and JVM + More!)
+ * Sep 29-Oct 1: jconf.dev 2020 (CJUG + Atlanta JUG/ World-class Speakers / CFP Open)
