@@ -1,11 +1,7 @@
-## Featured Speaker: 
+## Speaker: 
 
-
-##From Apache Ignite, we welcome
- * Denis Magda
-   * Fierce Open Source Development Lead
-   * Started his career at Sun Microsystems as a Developer Advocate
-   * Apache Ignite Committer and PMC Member
-   * Expert in Distributed Systems
-   * Frequent Speaker at conferences and events
-
+### Michael Minella
+* Renaissance Man, International Speaker, Java Champion, and JavaOne Rockstar
+* Spring Batch and Spring Cloud Task project lead at Pivotal
+* Author of Pro Spring Batch
+* Can be heard on the Java OffHeap podcast
