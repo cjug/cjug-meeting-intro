@@ -2,10 +2,10 @@
 
 ---
 
-### February 13, 2020
+### April 22, 2020
 
-## Michael Minella Presents: 
-## To Batch or Not To Batch
+## Baruch Sadogursky Presents: 
+## DevOps for Developers (or maybe against them?)
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -37,8 +37,11 @@
 
 --section--
 #Community Info: Conferences!!
- * Mar 24-27: Dev.Next in Broomfield, CO (Venkat!)
- * Apr 23-24: Spring One Tour Chicago
- * May 18-19: Apache Roadshow Chicago (CFP Open)
- * Sep 29-Oct 1: jconf.dev 2020, Chicago (CFP Open)
+ * Sep 2-3: J4K.io 2020, Orlando, FL (CFP Open - 4/24!)
+ * Sep 29-Oct 1: jconf.dev 2020, Chicago
+ 
+ --section--
+ ##Upcoming Event (to be announced):
+ A topic on Eclipse OpenJ9 (by Dan Heidinga, Project Lead)
+ 
  

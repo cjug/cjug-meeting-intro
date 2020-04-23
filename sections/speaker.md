@@ -1,7 +1,9 @@
 ## Speaker: 
 
-### Michael Minella
-* Renaissance Man, International Speaker, Java Champion, and JavaOne Rockstar
-* Spring Batch and Spring Cloud Task project lead at VMware
-* Author of Pro Spring Batch
-* Can be heard on the Java OffHeap podcast
+### Baruch Sadogursky
+* Head of DevOps Advocacy and Developer Advocate at JFrog
+* Specializing in DevOps, DevSecOps, Digital Transformation...
+* Co-Author of the Liquid Software book
+* Cloud Native Computing Foundation (CNCF) Ambassador
+* Major International Conference Speaker
+
