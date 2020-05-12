@@ -2,10 +2,10 @@
 
 ---
 
-### April 22, 2020
+### May 12, 2020
 
-## Baruch Sadogursky Presents: 
-## DevOps for Developers (or maybe against them?)
+## Dan Heidinga Presents: 
+## It's Always Sunny with OpenJ9
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -37,11 +37,15 @@
 
 --section--
 #Community Info: Conferences!!
- * Sep 2-3: J4K.io 2020, Orlando, FL (CFP Open - 4/24!)
+ * Sep 2-3: J4K.io 2020, Orlando, FL 
  * Sep 29-Oct 1: jconf.dev 2020, Chicago
+
+--section--
+
+## Next Meeting
  
- --section--
- ##Upcoming Event (to be announced):
- A topic on Eclipse OpenJ9 (by Dan Heidinga, Project Lead)
- 
- 
+Benjamin Nothdurft Presents: The Power of Event Storming: From a Pile of Sticky Notes to a Domain-Driven Design Microservices Architecture
+
+  * Co-Hosting with Chicago Microservices Meetup
+  * May 26 @ Noon, online
+
