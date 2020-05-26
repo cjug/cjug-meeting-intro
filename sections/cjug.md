@@ -12,6 +12,10 @@
 
 
 --section--
+## Co-Hosted with The Chicago Microservices Meetup
+ 
+
+--section--
 ## We Believe in being Inclusive
  * CJUG has always been an inclusive group
  * Be curious, ask questions, avoid assumptions
