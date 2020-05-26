@@ -50,7 +50,7 @@
  
 CJUG Lightning Talks!
 
- * Celebrating Java’s 25th and our Women Developers
+ * Celebrating Java's 25th and our Women Developers
  * Very low pressure, pick any JVM-related topic you want!
  * Thursday, June 11, 2020 @ 6:00PM
  * Sign up on Meetup.com
