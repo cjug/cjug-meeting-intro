@@ -1,6 +1,6 @@
 ## Speaker: 
 
-### Dan Heidinga
-* Eclipse OpenJ9 project lead and IBM JVM Architect
-* On JSR 292 (invokedynamic) and JSR 335 (lambda)
-* He has his hands in most new JVM features and all major Java releases. 
+### Benjamin Nothdurft
+* Oracle Groundbreaker
+* International Conference Speaker
+* Focuses on Microservices, Domain-Driven Design, Java and Container ecosystems, Software Craftsmanship, and Agile Practices

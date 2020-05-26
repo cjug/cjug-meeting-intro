@@ -1,11 +1,11 @@
 ## Chicago Java Users Group
-
+## And Chicago Microservices
 ---
 
-### May 12, 2020
+### May 26, 2020
 
-## Dan Heidinga Presents: 
-## It's Always Sunny with OpenJ9
+## Benjamin Nothdurft Presents: 
+## The Power of Event Storming
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -44,8 +44,9 @@
 
 ## Next Meeting
  
-Benjamin Nothdurft Presents: The Power of Event Storming: From a Pile of Sticky Notes to a Domain-Driven Design Microservices Architecture
+CJUG Lightning Talks!
 
-  * Co-Hosting with Chicago Microservices Meetup
-  * May 26 @ Noon, online
+ * Very low pressure, pick any JVM-related topic you want!
+ * Thursday, June 11, 2020 @ 6:00PM
+ * Sign up on Meetup.com
 
