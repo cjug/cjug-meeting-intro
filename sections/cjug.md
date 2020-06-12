@@ -1,20 +1,16 @@
 ## Chicago Java Users Group
-## And Chicago Microservices
 ---
 
-### May 26, 2020
+## June 11, 2020
 
-## Benjamin Nothdurft Presents: 
-## The Power of Event Storming
+## CJUG Community Presents: 
+## Lightning Talks in celebration of
+## Java's 25th and Our Women Developers
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
-
---section--
-## Co-Hosted with The Chicago Microservices Meetup
  
-
 --section--
 ## We Believe in being Inclusive
  * CJUG has always been an inclusive group
@@ -48,10 +44,11 @@
 
 ## Next Meeting
  
-CJUG Lightning Talks!
+2 Talks on Modern Info Security in Java
 
- * Celebrating Java's 25th and our Women Developers
- * Very low pressure, pick any JVM-related topic you want!
- * Thursday, June 11, 2020 @ 6:00PM
+ * International Speaker and Oracle Groundbreaker, Mercedes Wyss (from Guatemala City):  Modern Identity Management
+ * Our very own CJUG Board Secretary, Apache ASF Secretary/Open Source VP and Committer (Logging Services): Modern Cryptography
+ * Tuesday, June 23, 2020 @ 6:00PM
+ * Members of the Chicago Security Meetup will be joining us!
  * Sign up on Meetup.com
 
