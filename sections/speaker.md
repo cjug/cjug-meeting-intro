@@ -1,33 +1,22 @@
-## CJUG Community Speakers
+## Modern Identity Access Management
 
-### Elisa Abedrapo
-* Application Support and Quality Lead at Wunderman Thompson
-* Chicago tech community organizer: Chicago Seleniumistas, Open Source Meetup...
-* Presentation Title: "Automate Your Repetitive Work to Save Time For Creative Solutions"
-
---section--
-
-## CJUG Community Speakers (cont'd)
-
-### Anita Malcolm 
-* Principal Software Engineer at Parsons Corporation
-* AWS Certified Solutions Architect
-* Presentation Title: "Finding Relevance: 5 Cues to bring value to your Workplace"
+## Mercedes Wyss
+* Software Engineer - FullStack, Android, Python, Java, Kotlin
+* CTO at Produactivity (a startup in Guatemala)
+* Oracle Groundbreaker Ambassador
+* Auth0 Ambassador
+* Recipient of the Duke's Choice Award in Educational Outreach
+* Active Tech Community Leader in Guatemala
+* Major Advocate for Women in STEAM participation
 
 --section--
 
-## CJUG Community Speakers (cont'd)
+## Modern Cryptography
 
-### Donald Raab
-* Famous Managing "Big Shot" Director at BNY Mellon
-* Creator of Eclipse Collections
-* Presentation Title: "Live Coding with Eclipse Collections"
+## Matt Sicker
+* CJUG's very own Secretary of the Board 2020
+* Software Engineer, Jenkins Security Team
+* Secretary for the Apache Software Foundation (ASF)
+* VP, Apache Logging Services and Log4j Project
 
---section--
 
-## CJUG Community Speakers (cont'd)
-
-### Svetlana Levitan
-* Senior Developer Advocate from IBM
-* CJUG Community Lead, Chicago tech community organizer (Chicago ML,...)
-* Presentation Title: "Deploying JVM-based ML pipelines with Open Standards"
