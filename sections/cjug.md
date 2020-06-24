@@ -1,11 +1,11 @@
-## Chicago Java Users Group
+### Chicago Java Users Group & Chicago Security Meetup
 ---
 
-## June 11, 2020
-
-## CJUG Community Presents: 
-## Lightning Talks in celebration of
-## Java's 25th and Our Women Developers
+### June 23, 2020
+## 2 Talks on Modern InfoSecurity in Java
+### Mercedes Wyss:  Identity Access Management 
+### Matt Sicker:  Cryptography
+### Welcome Anatoly and CSM Members!
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -37,18 +37,15 @@
 
 --section--
 #Community Info: Conferences!!
- * Sep 2-3: J4K.io 2020, Orlando, FL 
- * Sep 29-Oct 1: jconf.dev 2020, Chicago
+ * July 10:  JetBrains Technology Day for Java (Digital event)
+ * Sep 2-3:  J4K.io 2020 (Digital event)
+ * Sep 29-Oct 1:  jconf.dev 2020, Chicago
 
 --section--
 
-## Next Meeting
+## Upcoming Meetings (to be scheduled for July and August)
  
-2 Talks on Modern Info Security in Java
-
- * International Speaker and Oracle Groundbreaker, Mercedes Wyss (from Guatemala City):  Modern Identity Management
- * Our very own CJUG Board Secretary, Apache ASF Secretary/Open Source VP and Committer (Logging Services): Modern Cryptography
- * Tuesday, June 23, 2020 @ 6:00PM
- * Members of the Chicago Security Meetup will be joining us!
- * Sign up on Meetup.com
-
+* July 9 (Thursday) -> Eric Sedlar (Oracle): GraalVM
+* Week of July 21 -> Billy Korando (KC JUG): [A topic on Spring]
+* Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+* Ken Fogel (Java Champion/CS Professor at Montreal's Dawson College): [A topic on Java language fundamentals]
