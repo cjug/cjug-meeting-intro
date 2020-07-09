@@ -34,15 +34,21 @@
 ### Follow us on Twitter: <u>@cjug</u>
 
 --section--
-#Community Info: Conferences!!
- * July 10:  JetBrains Technology Day for Java (Digital event)
- * Sep 2-3:  J4K.io 2020 (Digital event)
- * Sep 29-Oct 1:  jconf.dev 2020, Chicago
+#Community Info: Conferences (where CJUG is a Community Partner)
+* July 10:  JetBrains Technology Day for Java (Digital event - TOMORROW 3AM-1PM-Central)
+* Sep 2-3:  J4K.io 2020 (Digital event)
+* Sep 29-Oct 1:  jconf.dev 2020, Chicago
 
 --section--
 
-## Upcoming Meetings (to be scheduled for July and August)
+## Upcoming Meetups 
  
-* Week of July 21 -> Billy Korando (KC JUG): [A topic on Spring]
-* Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
-* Ken Fogel (Java Champion/CS Professor at Montreal's Dawson College): [A topic on Java language fundamentals]
+* July 21 -> Billy Korando (KC JUG): 15 Ways to Optimize Spring Boot for the Cloud
+* August (potential) -> Ken Fogel (Java Champion/CS Professor at Montreal's Dawson College): [A topic on Java language fundamentals]
+* September (TBD date/Saturday*) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+
+--section--
+
+## New Info: Jobs board (experimental)
+
+* Visit CJUG Group on LinkedIn:  https://www.linkedin.com/groups/4691739/
