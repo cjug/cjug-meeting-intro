@@ -1,11 +1,9 @@
-### Chicago Java Users Group & Chicago Security Meetup
+### Chicago Java Users Group
 ---
 
-### June 23, 2020
-## 2 Talks on Modern InfoSecurity in Java
-### Mercedes Wyss:  Identity Access Management 
-### Matt Sicker:  Cryptography
-### Welcome Anatoly and CSM Members!
+## July 9, 2020
+## The GraalVM Universal Runtime
+## by Eric Sedlar
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -45,7 +43,6 @@
 
 ## Upcoming Meetings (to be scheduled for July and August)
  
-* July 9 (Thursday) -> Eric Sedlar (Oracle): GraalVM
 * Week of July 21 -> Billy Korando (KC JUG): [A topic on Spring]
 * Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
 * Ken Fogel (Java Champion/CS Professor at Montreal's Dawson College): [A topic on Java language fundamentals]
