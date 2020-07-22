@@ -1,9 +1,10 @@
-### Chicago Java Users Group
+## Chicago Java Users Group
 ---
 
-## July 9, 2020
-## The GraalVM Universal Runtime
-## by Eric Sedlar
+## July 21, 2020
+## 15 Ways to 
+## Optimize Spring Boot on the Cloud
+## by Billy Korando
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -34,21 +35,23 @@
 ### Follow us on Twitter: <u>@cjug</u>
 
 --section--
-#Community Info: Conferences (where CJUG is a Community Partner)
-* July 10:  JetBrains Technology Day for Java (Digital event - TOMORROW 3AM-1PM-Central)
-* Sep 2-3:  J4K.io 2020 (Digital event)
-* Sep 29-Oct 1:  jconf.dev 2020, Chicago
+##Community Info: Conferences where CJUG is a Community Partner
+* September 30:  jconf.dev 2020 (Digital) **CJUG co-hosting
+* October 13-14: J4K.io (Digital)
 
 --section--
 
 ## Upcoming Meetups 
- 
-* July 21 -> Billy Korando (KC JUG): 15 Ways to Optimize Spring Boot for the Cloud
-* August (potential) -> Ken Fogel (Java Champion/CS Professor at Montreal's Dawson College): [A topic on Java language fundamentals]
-* September (TBD date/Saturday*) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+* August 6 (Thursday) -> Ken Fogel (Java Champion/CS Professor in Montreal): Java Best Practices
+* September (TBD *Saturday* - Joint with CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+
+* Un-Meetup!?  (Let us know your thoughts)
 
 --section--
 
-## New Info: Jobs board (experimental)
+## New Info: Jobs board
 
-* Visit CJUG Group on LinkedIn:  https://www.linkedin.com/groups/4691739/
+* Join CJUG Group on LinkedIn:  
+  https://www.linkedin.com/groups/4691739/
+
+<img src="images/cjug-linkedinGroup-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
