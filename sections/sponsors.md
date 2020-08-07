@@ -1,10 +1,12 @@
-<!-- Gold Level Sponsors
+# Gold Level Sponsors
 
-# Gold Sponsor
-<img src="images/INSERT_SPONSOR_HERE" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
--->
+--section--
 
+<img src="images/jfrog_2020_gold.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
 
 # Event Sponsor
 

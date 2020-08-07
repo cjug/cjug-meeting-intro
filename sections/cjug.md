@@ -1,10 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-## July 21, 2020
-## 15 Ways to 
-## Optimize Spring Boot on the Cloud
-## by Billy Korando
+## August 6, 2020
+## Java Programming Best Practices
+## by Ken Fogel
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -35,16 +34,29 @@
 ### Follow us on Twitter: <u>@cjug</u>
 
 --section--
-##Community Info: Conferences where CJUG is a Community Partner
-* September 30:  jconf.dev 2020 (Digital) **CJUG co-hosting
-* October 13-14: J4K.io (Digital)
+##Community Info
+### Conferences where CJUG is a Community Partner
+* August 7: International Developer Career Day (**CJUG leading an open discussion)
+* September 30:  jconf.dev 2020  (**CJUG co-hosting)
+* October 13-14: J4K.io 
+
+--section--
+
+<img src="images/j4k_2020_promo.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 
 ## Upcoming Meetups 
-* August 6 (Thursday) -> Ken Fogel (Java Champion/CS Professor in Montreal): Java Best Practices
-* September (TBD *Saturday* - Joint with CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+* August 7 (7-8pm) - Open Career Discussion (International Developer Career Day)
+* August 18 (potential) - Co-hosting with Chicago ML/Svetlana - Apache Spark Learning session
 
+--section--
+
+## Upcoming Meetups (September and October)
+* September (2nd week) - Sirisha frpm Pittsburgh JUG on Eclipse Collections
+* September 19 (*Saturday - Co-hosting with CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
+
+* October (TBDs) - Michael Minella (Spring Updates), Stuart Marks (Project Amber)
 * Un-Meetup!?  (Let us know your thoughts)
 
 --section--
