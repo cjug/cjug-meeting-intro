@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-## August 6, 2020
-## Java Programming Best Practices
-## by Ken Fogel
+### August 20, 2020
+### Intro to Spark ML in Python, Scala, and Java
+### [jointly w/ Chicago ML and Big Data & AI Meetups]
+### with Svetlana Levitan & Shatabhi Choudhury
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -36,7 +37,6 @@
 --section--
 ##Community Info
 ### Conferences where CJUG is a Community Partner
-* August 7: International Developer Career Day (**CJUG leading an open discussion)
 * September 30:  jconf.dev 2020  (**CJUG co-hosting)
 * October 13-14: J4K.io 
 
@@ -46,17 +46,11 @@
 
 --section--
 
-## Upcoming Meetups 
-* August 7 (7-8pm) - Open Career Discussion (International Developer Career Day)
-* August 18 (potential) - Co-hosting with Chicago ML/Svetlana - Apache Spark Learning session
-
---section--
-
-## Upcoming Meetups (September and October)
-* September (2nd week) - Sirisha frpm Pittsburgh JUG on Eclipse Collections
-* September 19 (*Saturday - Co-hosting with CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Scala))
-
-* October (TBDs) - Michael Minella (Spring Updates), Stuart Marks (Project Amber)
+## Upcoming Meetups
+* September (2nd week) - Open! (please email present@cjug.org if interested to speak)
+* September 19 (*Saturday - jointly w/ CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Java/Scala)
+* October (TBD) - Michael Minella (Spring Updates), Stuart Marks (Project Amber)
+* November (TBD) - Sirisha Pratha (Pittsburgh JUG Leader - Eclipse Collections)
 * Un-Meetup!?  (Let us know your thoughts)
 
 --section--
