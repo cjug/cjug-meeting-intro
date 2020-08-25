@@ -14,7 +14,11 @@
 
 --section--
 
-## Event Sponsor 
+## Today's optional hands-on tutorial
 
-<img src="images/jakarta_ee.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+* Free-tier IBM Cloud account:
+https://ibm.biz/Bdqucy
+
+<img src="images/ibm-cloud-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
 
