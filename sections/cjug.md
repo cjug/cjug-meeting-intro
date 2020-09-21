@@ -1,14 +1,18 @@
 ## Chicago Java Users Group
 ---
 
-### August 20, 2020
-### Intro to Spark ML in Python, Scala, and Java
-### [jointly w/ Chicago ML and Big Data & AI Meetups]
-### with Svetlana Levitan & Shatabhi Choudhury
+### September 19, 2020
+### From Zero to Deep Learning with Fabio Tiriticco
+### [brought to you jointly by CJUG and CASE]
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
+--section--
+
+## Chicago Area Scala Enthusiasts (CASE)
+
+<img src="images/CASE.jpeg" style="border: none; box-shadow: none;"/>
  
 --section--
 ## We Believe in being Inclusive
@@ -47,15 +51,16 @@
 --section--
 
 ## Upcoming Meetups
-* September (2nd week) - Open! (please email present@cjug.org if interested to speak)
-* September 19 (*Saturday - jointly w/ CASE) -> Fabio Tiriticco (Reactive Amsterdam): From Zero to Deep Learning (Akka Streams/Java/Scala)
-* October (TBD) - Michael Minella (Spring Updates), Stuart Marks (Project Amber)
-* November (TBD) - Sirisha Pratha (Pittsburgh JUG Leader - Eclipse Collections)
+* September 23 - Josh Long (The RSocket Revolution)
+* September 25 - OSS Lunch Update with Josh Juneau and Bob Paulin
+* October (TBD) - Adam Sandor (K8s Operators), Michael Minella (Spring Updates), Stuart Marks (Project Amber)
+* November (TBD) - Sirisha Pratha (Pittsburgh JUG Leader - Eclipse Collections), Oleh Dokuka (Reactive Foundation)
+* December - Members' Lightning Talks
 * Un-Meetup!?  (Let us know your thoughts)
 
 --section--
 
-## New Info: Jobs board
+## Jobs board
 
 * Join CJUG Group on LinkedIn:  
   https://www.linkedin.com/groups/4691739/
