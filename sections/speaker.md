@@ -1,4 +1,4 @@
-### Featured Speakers
+### Featured Speaker
 
 
 ## Fabio Tiriticco 
