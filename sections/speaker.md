@@ -1,8 +1,12 @@
 ### Featured Speaker
 
 
-## Fabio Tiriticco 
-* Principal Software Engineer based in Amsterdam
-* Technical Community Leader - Reactive Amsterdam (2000+ members)
-* Conference Organizer - Kubernetes Community Days
-* International conference speaker
+## Josh Long
+* Well-known International Celebrity Speaker
+* First Spring Developer Advocate since 2010
+* Java Champion
+* Author of 6 books (newest: Reactive Spring)
+* Author of numerous best-selling video trainings
+* Open source contributor
+* Podcaster (A Bootiful Podcast)
+* Screencaster
