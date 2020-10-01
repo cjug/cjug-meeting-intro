@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### September 23, 2020
-## Josh Long presents:
-## The RSocket Revolution
+### October 1, 2020
+## Adam Sandor presents:
+### Modernize and Automate 
+### your Java Application for Kubernetes
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -44,10 +45,8 @@
 --section--
 ##Community Info
 ### Conferences where CJUG is a Community Partner
-* September 29-30: DeveloperWeek Global Cloud
-* September 30:  jconf.dev 
-* October 13-14: J4K.io
 
+* October 13-14: J4K.io
 
 --section--
 
@@ -67,9 +66,8 @@ https://www.meetup.com/Open-Source-Chitown/events/273422024/
 --section--
 
 ## Upcoming Meetups
-* October 1 (Lunch hour) - Adam Sandor (K8s Operators)
-* October 9 (Lunch hour) - Josh Juneau and Bob Paulin (CJUG's quarterly OSS meetup)
-* October 15 - Stuart Marks (Project Amber or Java Collections)
+* October 9 (Lunch hour) - Josh Juneau and Bob Paulin (CJUG's OSS meetup - Kotlin & Groovy)
+* October 14 - Stuart Marks with panel discussion (Project Amber or Java Collections or Serialization)
 * October 29 - Michael Minella (Spring Updates)
 * November (TBD) - Sirisha Pratha (Pittsburgh JUG Leader - Eclipse Collections), Oleh Dokuka (Reactive Foundation)
 * December - Members' Lightning Talks
