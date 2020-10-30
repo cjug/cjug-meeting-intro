@@ -1,12 +1,20 @@
 ## Chicago Java Users Group
 ---
 
-### October 1, 2020
-## Adam Sandor presents:
-### Modernize and Automate 
-### your Java Application for Kubernetes
+### October 29, 2020
+### Panel Discussion with Stuart Marks & Friends:
+### Open-JDK Project Amber (and more!)
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+
+## WELCOME our Special Guests today!
+## SEA-JUG and Freddy Guime
+
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/SEAJUG.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -44,33 +52,28 @@
 
 --section--
 ##Community Info
-### Conferences where CJUG is a Community Partner
-
-* October 13-14: J4K.io
-
---section--
-
-<img src="images/j4k_2020_promo.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Conference(s) where CJUG is a Community Partner
+<br>
+December 4-5:
+jLove (https://jlove.konfy.care/) <br>[CFP due on Oct 31 at 2pm-Central]
 
 --section--
 ## HacktoberFEST (Digital Ocean's)
 ### Local events led by Open Source Chicago
-## Call for Mentors and Participants
+### Call for Mentors and Participants
 <br/>
 https://hacktoberfest.digitalocean.com/
 <br/><br/>
-###October 3 Saturday - Kickoff Meeting
-###Open Source Chicago Meetup:
-https://www.meetup.com/Open-Source-Chitown/events/273422024/
+
+2 more days to submit 4 pull requests (*prize: a free T-shirt!)
 
 --section--
 
-## Upcoming Meetups
-* October 9 (Lunch hour) - Josh Juneau and Bob Paulin (CJUG's OSS meetup - Kotlin & Groovy)
-* October 14 - Stuart Marks with panel discussion (Project Amber or Java Collections or Serialization)
-* October 29 - Michael Minella (Spring Updates)
-* November (TBD) - Sirisha Pratha (Pittsburgh JUG Leader - Eclipse Collections), Oleh Dokuka (Reactive Foundation)
-* December - Members' Lightning Talks
+## Upcoming Meetups and Events
+* November (TBD) - Michael Minella (Spring Updates)
+* November (TBD) - Don Raab & Sirisha Pratha (Eclipse Collections)
+* December 2 - MicroProfile free Workshop (Eclipse Foundation MP Working Group/Tomitribe)
+* December - Members' Lightning Talks, Oleh Dokuka (Reactive Foundation - RSocket)
 * Un-Meetup!?  (Let us know your thoughts)
 
 --section--
