@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### October 29, 2020
-### Panel Discussion with Stuart Marks & Friends:
-### Open-JDK Project Amber (and more!)
+### November 19, 2020
+### Learn Java Features and Eclipse Collections APIs
+### using Code Katas
+### By Donald Raab and Sirisha Pratha
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -11,10 +12,10 @@
 --section--
 
 ## WELCOME our Special Guests today!
-## SEA-JUG and Freddy Guime
+## Pittsburgh JUG
 
 <div style="background-color: white; margin-top: 30px;">
-	<img src="images/SEAJUG.png" style="border: none; box-shadow: none;"/>
+	<img src="images/PittsburghJUG.jpg" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -55,25 +56,15 @@
 ### Conference(s) where CJUG is a Community Partner
 <br>
 December 4-5:
-jLove (https://jlove.konfy.care/) <br>[CFP due on Oct 31 at 2pm-Central]
-
---section--
-## HacktoberFEST (Digital Ocean's)
-### Local events led by Open Source Chicago
-### Call for Mentors and Participants
-<br/>
-https://hacktoberfest.digitalocean.com/
-<br/><br/>
-
-2 more days to submit 4 pull requests (*prize: a free T-shirt!)
+jLove (https://jlove.konfy.care/) <br>
 
 --section--
 
 ## Upcoming Meetups and Events
-* November (TBD) - Michael Minella (Spring Updates)
-* November (TBD) - Don Raab & Sirisha Pratha (Eclipse Collections)
-* December 2 - MicroProfile free Workshop (Eclipse Foundation MP Working Group/Tomitribe)
-* December - Members' Lightning Talks, Oleh Dokuka (Reactive Foundation - RSocket)
+
+* December 2 - MicroProfile half-day Workshop (Eclipse Foundation MP Working Group/Tomitribe)
+* December 10 - Members' Lightning Talks
+* December 17 (lunch hour) - Oleh Dokuka (Reactive Foundation - RSocket)
 * Un-Meetup!?  (Let us know your thoughts)
 
 --section--
