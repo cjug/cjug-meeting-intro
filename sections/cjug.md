@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-### December 10, 2020
-### Lightning Talks
-### By the Community
+### January 28, 2021
+### JCP Community Participation and Collaboration
+### By Heather VanCura
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -18,8 +18,9 @@
 ## How about volunteering?
  * Expand your network
  * Become a leader in this community (Organizer, Speaker, Influencer)
- * Growth Professionally
+ * Professional growth
  * Looks great on the Resume (also be a hit at parties... maybe)
+ * NEW: Opportunity to host an activity for anyone with a good idea!
 
 --section--
 #Remember:
@@ -43,17 +44,23 @@
 
 --section--
 ##Community Info
-<br/>
-December:  Advent of Code
-<br/>
-CJUG representatives:  Todd Ginsberg and Svetlana Levitan
+
+* CJUG is now member of the new Virtual JUG N.A.
+
+* February 17:  Devnexus (https://devnexus.com)
+
+* February 17-19:  DeveloperWeek (Free Open Pass https://bit.ly/39qym8W)
+
+<img src="images/2021-DeveloperWeek-OpenPass.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* Oracle and JCP Program Management (Sharat Chander, Heather Van Cura)
-* Jakarta EE (Ivar Grimstead)
+* 2/11: AWS Deep Java Learning Library Team and Netflix
+* 2/25: Jakarta EE Working Group
+* 3/25: Foojoy JUG Tour and JFrog's Melissa McKay (containers)
 * Microservices Comparison (Hendrik Ebbers & Karsten Thoms (Eclipse committers))
 * Java 9-15 Rodrigo Graciano (NYJavaSig) & additional speaker
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
