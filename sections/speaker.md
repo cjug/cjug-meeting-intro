@@ -1,9 +1,15 @@
-## Our Special Guest Speaker
+## Our Special Guest Speakers
 
-### Heather VanCura (@heathervc)
-* Program Director and Chairperson - Oracle Java Community Process
-* International Speaker
-* Champion for Diversity and Women In Technology 
-* Passionate Advocate of Java Technology
+### Frank Liu 
+* Software Engineer for AWS Deep Learning
+* Creator of Deep Java Library
+* More than 25 years of Java development experience
+* Areas of focus include building innovative deep learning tools
 
+--section--
+
+### Stanislav Kirdey
+* Senior Software Engineer at Netflix
+* Areas of focus include large-scale, applied machine learning for Natural Language Processing (NLP), search, and anomaly detection
+* Outside of work, Stanislav is obsessed with RuPaul's Drag Race, POSE, and Star Trek
 

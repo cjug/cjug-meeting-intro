@@ -1,12 +1,17 @@
 ## Chicago Java Users Group
 ---
 
-### January 28, 2021
-### JCP Community Participation and Collaboration
-### By Heather VanCura
+### February 11, 2021
+### Introducing Deep Java Library for
+### building and deploying AI applications in Java
+### By Frank Liu (Amazon) and Stanislav Kirdey (Netflix)
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
+
+--section--
+
+WELCOME Our Friends from the Chicago ML Meetup Group!
 
 --section--
 ## We Believe in being Inclusive
@@ -53,14 +58,22 @@
 
 <img src="images/2021-DeveloperWeek-OpenPass.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
+--section--
+## Community Info (more...)
+
+* February 23 (10:30am-CST): ReActed Reactive Java Library (Reactive Amsterdam)
+
+* February 24 (1pm-CST): Panel on Debugging Java 2021 (Hosted by Undo.io)
+
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* 2/11: AWS Deep Java Learning Library Team and Netflix
-* 2/25: Jakarta EE Working Group
+* 2/16: OSS@CJUG on Ktor Asych for Kotlin and Apache Camel Quarkus Integration
+* 2/25: Jakarta EE 9 and Beyond
 * 3/25: Foojoy JUG Tour and JFrog's Melissa McKay (containers)
+* Java Flight Recorder (Ben Evans - New Relics)
 * Microservices Comparison (Hendrik Ebbers & Karsten Thoms (Eclipse committers))
 * Java 9-15 Rodrigo Graciano (NYJavaSig) & additional speaker
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
