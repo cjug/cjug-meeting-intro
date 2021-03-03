@@ -1,17 +1,13 @@
 ## Chicago Java Users Group
 ---
 
-### February 11, 2021
-### Introducing Deep Java Library for
-### building and deploying AI applications in Java
-### By Frank Liu (Amazon) and Stanislav Kirdey (Netflix)
+### February 25, 2021
+### Jakarta EE 9 and Beyond
+### Jakarta EE JUG World Tour
+### with Ivar Grimstad and Tanja Obradovic
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
-
---section--
-
-WELCOME Our Friends from the Chicago ML Meetup Group!
 
 --section--
 ## We Believe in being Inclusive
@@ -52,31 +48,19 @@ WELCOME Our Friends from the Chicago ML Meetup Group!
 
 * CJUG is now member of the new Virtual JUG N.A.
 
-* February 17:  Devnexus (https://devnexus.com)
-
-* February 17-19:  DeveloperWeek (Free Open Pass https://bit.ly/39qym8W)
-
-<img src="images/2021-DeveloperWeek-OpenPass.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
---section--
-## Community Info (more...)
-
-* February 23 (10:30am-CST): ReActed Reactive Java Library (Reactive Amsterdam)
-
-* February 24 (1pm-CST): Panel on Debugging Java 2021 (Hosted by Undo.io)
-
+* JetBrains IntelliJ IDEA Conference Virtual Event Feb 25-26
+  https://jetbrains.com/lp/intellijidea-20-anniversary/
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* 2/16: OSS@CJUG on Ktor Asych for Kotlin and Apache Camel Quarkus Integration
-* 2/25: Jakarta EE 9 and Beyond
+* 3/11 (12-noon CST): Java Flight Recorder (Ben Evans - New Relic)
 * 3/25: Foojoy JUG Tour and JFrog's Melissa McKay (containers)
-* Java Flight Recorder (Ben Evans - New Relics)
 * Microservices Comparison (Hendrik Ebbers & Karsten Thoms (Eclipse committers))
-* Java 9-15 Rodrigo Graciano (NYJavaSig) & additional speaker
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
+* Java 9-15 Rodrigo Graciano (NYJavaSig) & additional speaker
+* May 3: Quarkus World Tour Workshop !!!
 <br/>
 * Un-Meetup!?  (Let us know your thoughts)
 <br/>

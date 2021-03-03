@@ -1,15 +1,19 @@
-## Our Special Guest Speakers
+## Our Special Guest Speakers from the Jakarta EE Working Group
 
-### Frank Liu 
-* Software Engineer for AWS Deep Learning
-* Creator of Deep Java Library
-* More than 25 years of Java development experience
-* Areas of focus include building innovative deep learning tools
+### Tanja Obradovic (Twitter: @TanjaEclipse)
+* Jakarta EE Program Manager, Eclipse Foundation
+* Extensive background with Java and Java EE
+* Revitalizer of Enterprise Java and enabling it to ready for Cloud Native
+* Jakarta EE open source specification
 
 --section--
 
-### Stanislav Kirdey
-* Senior Software Engineer at Netflix
-* Areas of focus include large-scale, applied machine learning for Natural Language Processing (NLP), search, and anomaly detection
-* Outside of work, Stanislav is obsessed with RuPaul's Drag Race, POSE, and Star Trek
+### Ivar Grimstad (Twitter: @ivar_grimstad)
+* Jakarta EE Developer Advocate, Eclipse Foundation
+* Java Champion, International speaker
+* JUG Leader based in Sweden
+* PMC Lead for Eclipse Enterprise for Java (EE4J)
+* Community representative in the JCP Executive Committeee
+* Spec Lead for JSR 371 (MVC 1.0)
+* Also involved in Eclipse MicroProfile, Apache NetBeans
 
