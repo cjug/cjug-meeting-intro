@@ -1,10 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-### February 25, 2021
-### Jakarta EE 9 and Beyond
-### Jakarta EE JUG World Tour
-### with Ivar Grimstad and Tanja Obradovic
+### March 11, 2021
+### How We Use JDK Flight Recorder at New Relic
+### with Ben Evans
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -46,21 +45,20 @@
 --section--
 ##Community Info
 
-* CJUG is now member of the new Virtual JUG N.A.
-
-* JetBrains IntelliJ IDEA Conference Virtual Event Feb 25-26
-  https://jetbrains.com/lp/intellijidea-20-anniversary/
+* CJUG is now a member of the new Virtual JUG N.A.
+***
+  Just posted: Leveraging Gradle at Netflix (March 17 Wed @ 5pm-CST)
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* 3/11 (12-noon CST): Java Flight Recorder (Ben Evans - New Relic)
-* 3/25: Foojoy JUG Tour and JFrog's Melissa McKay (containers)
-* Microservices Comparison (Hendrik Ebbers & Karsten Thoms (Eclipse committers))
+* 3/25: Foojay JUG Tour and JFrog's Melissa McKay (containers)
+* 4/22: (NYJavaSig & NJ Garden State JUG special speaker) Chandra Guntur
+* 5/20: Microservices Comparison (Hendrik Ebbers & Karsten Thoms (JC & Eclipse committers))
+* Workshop (May 6): Quarkus World Tour Workshop (Red Hat!!)
+* Security topic? (Brian Vermeer - Snyk & Netherlands JUG)
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
-* Java 9-15 Rodrigo Graciano (NYJavaSig) & additional speaker
-* May 3: Quarkus World Tour Workshop !!!
 <br/>
 * Un-Meetup!?  (Let us know your thoughts)
 <br/>

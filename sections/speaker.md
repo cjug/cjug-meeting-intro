@@ -1,19 +1,11 @@
-## Our Special Guest Speakers from the Jakarta EE Working Group
+## Our Special Guest Speaker
 
-### Tanja Obradovic (Twitter: @TanjaEclipse)
-* Jakarta EE Program Manager, Eclipse Foundation
-* Extensive background with Java and Java EE
-* Revitalizer of Enterprise Java and enabling it to ready for Cloud Native
-* Jakarta EE open source specification
+### Ben Evans (Twitter: @kittylyst)
+* Principal Engineer and Lead Architect for Instrumentation at New Relic
+* Author, Speaker, Architect, and Educator!
+* Co-founder of jClarity (now part of Microsoft), Chief Architect at Deutsche Bank
+* Served 6 years at the JCP Executive Committee
+* Java Champion, JavaOne Rockstar Speaker
+* Java/JVM Track Lead at InfoQ
 
---section--
-
-### Ivar Grimstad (Twitter: @ivar_grimstad)
-* Jakarta EE Developer Advocate, Eclipse Foundation
-* Java Champion, International speaker
-* JUG Leader based in Sweden
-* PMC Lead for Eclipse Enterprise for Java (EE4J)
-* Community representative in the JCP Executive Committeee
-* Spec Lead for JSR 371 (MVC 1.0)
-* Also involved in Eclipse MicroProfile, Apache NetBeans
 
