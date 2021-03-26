@@ -10,6 +10,8 @@
 
 --section--
 
+Check out IBM's Java Open Source projects: Open Liberty and MicroProfile!
+
 Free-tier IBM Cloud Account:
 https://ibm.biz/Bdq7bH
 

@@ -1,11 +1,17 @@
 ## Chicago Java Users Group
 ---
 
-### March 11, 2021
-### How We Use JDK Flight Recorder at New Relic
-### with Ben Evans
+### March 25, 2021
+### Foojay JUG Tour: Level Up Your Java Containers
+### with Geertjan Wielanga and Melissa McKay
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+## CJUG Welcomes Foojay !!
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/foojay-website.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -43,25 +49,27 @@
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-##Community Info
+##Community Info 
+### CJUG is a Community Partner of the followings:
 
-* CJUG is now a member of the new Virtual JUG N.A.
-***
-  Just posted: Leveraging Gradle at Netflix (March 17 Wed @ 5pm-CST)
+* Virtual JUG - North America (https://vjug.us)
+* GOTO - GOTOpia Chicago 2021: April 19 - 21 (https://gotochgo.com/2021) - stay tuned for discount tickets!
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* 3/25: Foojay JUG Tour and JFrog's Melissa McKay (containers)
+* 4/6: Workshop (to be announced very soon!)
 * 4/22: (NYJavaSig & NJ Garden State JUG special speaker) Chandra Guntur
-* 5/20: Microservices Comparison (Hendrik Ebbers & Karsten Thoms (JC & Eclipse committers))
-* Workshop (May 6): Quarkus World Tour Workshop (Red Hat!!)
+* First weeek of May: Quarkus World Tour Workshop (Red Hat)  
+* 5/20: Microservices framework comparison (Hendrik Ebbers & Karsten Thoms (JC & Eclipse committers))
 * Security topic? (Brian Vermeer - Snyk & Netherlands JUG)
+* Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
-<br/>
+* June: Lightning Talks! (start thinking of your topics!)
 * Un-Meetup!?  (Let us know your thoughts)
 <br/>
+  
 --section--
 
 ### Interested in speaking? 
@@ -76,3 +84,17 @@
   https://www.linkedin.com/groups/4691739/
 
 <img src="images/cjug-linkedinGroup-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+_Several hiring companies have a number of open roles, including one that has a dozen of paid-Salesforce Java development training roles_
+<br/>
+
+--section--
+
+## Open Source Info
+
+* Calling All OSS Contributors!!
+* Current active OSS contributors on the CJUG Board:
+
+* _Bob Paulin and Matt Sicker - Apache_
+* _Josh Juneau and Mary - MicroProfile Working Group (Community participation)_
+* _Michael Minella - Reactive Foundation (Chairperson)_
