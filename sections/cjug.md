@@ -1,17 +1,12 @@
 ## Chicago Java Users Group
 ---
 
-### March 25, 2021
-### Foojay JUG Tour: Level Up Your Java Containers
-### with Geertjan Wielanga and Melissa McKay
+### April 6, 2021
+### Gold Sponsor __JFrog__ Special Workshop
+### DevOps for Java Developers 
+### with Melissa McKay
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-</div>
-
---section--
-## CJUG Welcomes Foojay !!
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/foojay-website.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -32,7 +27,7 @@
 #Remember:
  * Chicago Tech Slack (http://www.chicagotechslack.com/)
  * Current Java News! (http://www.javaoffheap.com)
- * Join us on Meetup.com
+ * Join us on Meetup.com (https://www.meetup.com/ChicagoJUG/)
 
 --section--
 #CHIRP!
@@ -45,7 +40,7 @@
 * Additional way to communicate with one another
 
  https://discord.gg/U25g437
- 
+
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
@@ -53,20 +48,33 @@
 ### CJUG is a Community Partner of the followings:
 
 * Virtual JUG - North America (https://vjug.us)
-* GOTO - GOTOpia Chicago 2021: April 19 - 21 (https://gotochgo.com/2021) - stay tuned for discount tickets!
+* GOTO - GOTOpia Chicago 2021: April 19 - 21 (https://gotochgo.com/2021)
+* J4K 2021: June 9 (https://j4k.io)   __CFP due: April 18__
+  
+--section--
+### GOTOpia Chicago 2021 (Virtual)
+CJUG Member Discount Code: __CJUG10__
+<img src="images/gotopia-2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
+## J4K 2021 (Virtual)
+
+<img src="images/j4k-2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 
 ## Upcoming Meetups and Events
 
-* 4/6: Workshop (to be announced very soon!)
-* 4/22: (NYJavaSig & NJ Garden State JUG special speaker) Chandra Guntur
-* First weeek of May: Quarkus World Tour Workshop (Red Hat)  
+* 4/22: Java Completable (Chandra Guntur (NYJavaSig & NJ Garden State JUG special speaker))
+* 5/6:  Quarkus World Tour (Red Hat - Steve Poole)  
 * 5/20: Microservices framework comparison (Hendrik Ebbers & Karsten Thoms (JC & Eclipse committers))
-* Security topic? (Brian Vermeer - Snyk & Netherlands JUG)
-* Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
-* Java Performance (Kirk Pepperdine - Microsoft/JClarity)
 * June: Lightning Talks! (start thinking of your topics!)
+
+* MicroStream (Java in-memory persistence - integration w/ Helidon & Open Liberty)
+* Security topic? (Brian Vermeer - Snyk & Netherlands JUG)
+* Java Performance (Kirk Pepperdine - Microsoft/JClarity)
+* Fall/September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
+
 * Un-Meetup!?  (Let us know your thoughts)
 <br/>
   
@@ -93,8 +101,8 @@ _Several hiring companies have a number of open roles, including one that has a 
 ## Open Source Info
 
 * Calling All OSS Contributors!!
-* Current active OSS contributors on the CJUG Board:
+* Active OSS contributors on the CJUG Board:
 
 * _Bob Paulin and Matt Sicker - Apache_
-* _Josh Juneau and Mary - MicroProfile Working Group (Community participation)_
 * _Michael Minella - Reactive Foundation (Chairperson)_
+* _Josh Juneau and Mary - MicroProfile Working Group (Community participation)_
