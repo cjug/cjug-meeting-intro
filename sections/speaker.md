@@ -1,25 +1,19 @@
-## Our Special Speakers from Red Hat
+## Our Special Speakers !!
 
-### Steve Poole (Twitter: @spoole167)
-- Developer Advocate, DevOps practitioner 
-- Long-time IBM Java Developer, leader, and evangelist
-- Deep experience in Java SDKs and JVMs since Java was born
-- Representing and leading various JSRs and a committer on Open Source projects (Apache, Eclipse, OpenJDK)
-- Member of the Adopt OpenJDK group (Adoptium)
-- Seasoned international speaker and regular presenter many major conferences around the world
-
---section--
-
-### Erin Schnabel (Twitter: @ebullientworks)
-- Principal Software Engineer
-- Java Champion, Developer, Advocate, Architect, Maker of things at Red Hat
-- Loves to learn and teach by coding many things, such as "Monster Combat", "Game On!"
+### Hendrik Ebbers (Twitter: @hendrikEbbers)
+- Co-Founder at Karakun AG, Germany 
+- Founder and leader of the JUG in Dortmund
+- International speakers - user groups, conferences, etc
+- Author of JavaFX book in 2014 "Mastering JavaFX 8 Controls"
+- JavaOne Rockstar, Java Champion
+- JSR Expert group member
 
 --section--
 
-### Jason Porter (Twitter: @lightguardjp)
-- Principal Software Engineer
-- President of Utah JUG
-- Community Advocate
-- Author and co-author of several books including O'Reilly Quarkus Cookbook
+### Karsten Thoms (Twitter: @kthoms)
+- Senior Software Engineer at Karakun AG, Germany
+- Xtext team member
+- Eclipse platform committer
+- Eclipse & Open Source Evangelist
+
 

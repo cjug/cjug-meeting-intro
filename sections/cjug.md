@@ -1,10 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-#### May 6, 2021
-## Quarkus World Tour
-### by Red Hat
-### with Steve Poole, Erin Schnabel, Jason Porter
+#### May 20, 2021
+### A Comparative Review on Microservices Frameworks
+### with Hendrik Ebbers and Karsten Thoms
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -48,42 +47,52 @@
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-##Community Info 
-### CJUG is a Community Partner of the followings:
+##Community Info
+### CJUG is a Community Partner of the following events:
 
-* Virtual JUG - North America (https://vjug.us)
-* JFrog SwampUp 2021: May 26-27 (https://swampup.jfrog.com)
-* J4K 2021: June 9 (https://j4k.io)
+* Ongoing:  Virtual JUG - North America (https://vjug.us)
+* May 26-27: JFrog SwampUp 2021 (https://swampup.jfrog.com)
 <br/>
-* TDC 2021 (Largest Developer Conference in Latin America!): June 8-10 
-  - International Track (English) 
-  - CFP is due __May 7__ (https://cfp-intl.thedevconf.com.br)
+* June 8-10: TDC 2021 (https://thedevconf.com/tdc/2021/connections/trilha-data-internacional)
+* June 9: J4K (https://j4k.io)
+* June 25: jLove (https://jLove.konfy.care)
   
 --section--
 ## JFrog swampUP 2021 (Virtual)
 FREE Conference Pass for CJUG members:  http://jfrog.co/swampUP_Meetups
 
 <img src="images/jfrog_2021_swampup.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
 --section--
-## J4K 2021 (Virtual)
+## J4K 2021 (Virtual): (https://j4k.io)
 
 <img src="images/j4k-2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
+## JLove - June 2021 (Virtual): (https://jlove.konfy.care)
+CJUG Conference Pass promo code:  CJUG
+
+<img src="images/jLove_2021-June.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
 ## Upcoming Meetups and Events
 
-* 5/20: Microservices framework comparison (Hendrik Ebbers & Karsten Thoms (JC & Eclipse committers))
-* 6/8 : Java Migration from 9 to 16 (NYJavaSIG - Rodrigo & Neha)
-* June: Lightning Talks! (start thinking of your topics!)
-* July: Security topic (Brian Vermeer - Snyk & Netherlands JUG)
-* MicroStream: (Markus Kett / Java in-memory persistence)
+* June 8: Java Migration from 9 to 16 (NYJavaSIG & GS-JUG - Rodrigo & Neha)
+* June (last week): Lightning Talks! (start thinking of your topics!)
+<br/>
+
 * September: Java 16 & 17 (Wroslaw/Poland, Piotr Przybył - Software Garden)
 * Fall/September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
 
 --section--
 ## Upcoming Meetups and Events 
-#### (_date and event format not confirmed yet_)
+#### (_exact date not all confirmed yet_)
+
 * Java Performance (Kirk Pepperdine - Microsoft/JClarity)
+* TBD topic (Dr. Venkat Subramaniam)
+* Security topic (Brian Vermeer - Snyk & Netherlands JUG)
+* MicroStream (Markus Kett - Java in-memory persistence)
+
 <br/><br/>
 **Un-Meetup!?**  (Let us know your thoughts)
 <br/>
