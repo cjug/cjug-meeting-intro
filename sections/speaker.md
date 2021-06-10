@@ -1,19 +1,20 @@
-## Our Special Speakers !!
+## Our Special Speakers (JUG Leaders from the NorthEast!!
 
-### Hendrik Ebbers (Twitter: @hendrikEbbers)
-- Co-Founder at Karakun AG, Germany 
-- Founder and leader of the JUG in Dortmund
-- International speakers - user groups, conferences, etc
-- Author of JavaFX book in 2014 "Mastering JavaFX 8 Controls"
-- JavaOne Rockstar, Java Champion
-- JSR Expert group member
+### Rodrigo Graciano  (Twitter: @rodrigograciano)
+- Principal Software Engineer at a major financial institution in NY 
+- Senior member and a leader of the NYJavaSIG, the JUG with the longest history in USA
+- Conference and meetup speaker
+- Blogger
+- Visit Rodrigo's website:  https://graciano.dev
 
 --section--
 
-### Karsten Thoms (Twitter: @kthoms)
-- Senior Software Engineer at Karakun AG, Germany
-- Xtext team member
-- Eclipse platform committer
-- Eclipse & Open Source Evangelist
+### Neha Sardana (Twitter: @nehasardana09)
+- Senior Software Engineer/Architect for Java based apps for over a decade
+- Vice President at Bank of NY Mellon
+- A leader of the Garden State JUG (New Jersey)
+- 8 years of financial services in both Europe and the U.S.
+- A technologist and an OSS enthusiast, passionate about Open Source
+- MicroProfile Community participant and contributor
 
 

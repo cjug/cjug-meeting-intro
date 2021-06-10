@@ -1,9 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-#### May 20, 2021
-### A Comparative Review on Microservices Frameworks
-### with Hendrik Ebbers and Karsten Thoms
+#### June 10, 2021
+### JDK Migration from 9 to 16
+### by Rodrigo Graciano and Neha Sardana
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -51,17 +51,10 @@
 ### CJUG is a Community Partner of the following events:
 
 * Ongoing:  Virtual JUG - North America (https://vjug.us)
-* May 26-27: JFrog SwampUp 2021 (https://swampup.jfrog.com)
-<br/>
-* June 8-10: TDC 2021 (https://thedevconf.com/tdc/2021/connections/trilha-data-internacional)
-* June 9: J4K (https://j4k.io)
-* June 25: jLove (https://jLove.konfy.care)
-  
---section--
-## JFrog swampUP 2021 (Virtual)
-FREE Conference Pass for CJUG members:  http://jfrog.co/swampUP_Meetups
 
-<img src="images/jfrog_2021_swampup.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<br/>
+
+* June 25 & 26: jLove (https://jLove.konfy.care)
 
 --section--
 ## J4K 2021 (Virtual): (https://j4k.io)
@@ -77,8 +70,7 @@ CJUG Conference Pass promo code:  CJUG
 --section--
 ## Upcoming Meetups and Events
 
-* June 8: Java Migration from 9 to 16 (NYJavaSIG & GS-JUG - Rodrigo & Neha)
-* June (last week): Lightning Talks! (start thinking of your topics!)
+* June 24: Lightning Talks! (https://www.meetup.com/ChicagoJUG/events/277655569/)
 <br/>
 
 * September: Java 16 & 17 (Wroslaw/Poland, Piotr Przybył - Software Garden)
@@ -88,8 +80,8 @@ CJUG Conference Pass promo code:  CJUG
 ## Upcoming Meetups and Events 
 #### (_exact date not all confirmed yet_)
 
-* Java Performance (Kirk Pepperdine - Microsoft/JClarity)
 * TBD topic (Dr. Venkat Subramaniam)
+* Java Performance (Kirk Pepperdine - Microsoft/JClarity)
 * Security topic (Brian Vermeer - Snyk & Netherlands JUG)
 * MicroStream (Markus Kett - Java in-memory persistence)
 
@@ -109,7 +101,6 @@ CJUG Conference Pass promo code:  CJUG
  https://www.linkedin.com/groups/4691739/
 
 <img src="images/cjug-linkedinGroup-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
 
 --section--
 
