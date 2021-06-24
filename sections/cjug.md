@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-#### June 10, 2021
-### JDK Migration from 9 to 16
-### by Rodrigo Graciano and Neha Sardana
+#### June 24, 2021
+### June Lightning Talks & Mini-Unconference
+#### by
+## Speakers from the CJUG Community
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -55,11 +56,7 @@
 <br/>
 
 * June 25 & 26: jLove (https://jLove.konfy.care)
-
---section--
-## J4K 2021 (Virtual): (https://j4k.io)
-
-<img src="images/j4k-2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+* Oct 5-8: JCON-2021 (https://jcon.one)
 
 --section--
 ## JLove - June 2021 (Virtual): (https://jlove.konfy.care)
@@ -70,23 +67,20 @@ CJUG Conference Pass promo code:  CJUG
 --section--
 ## Upcoming Meetups and Events
 
-* June 24: Lightning Talks! (https://www.meetup.com/ChicagoJUG/events/277655569/)
-<br/>
-
-* September: Java 16 & 17 (Wroslaw/Poland, Piotr Przybył - Software Garden)
-* Fall/September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
+* July 8: Kirk Pepperdine - Java Performance/jClarify Founder (Microsoft)
+* July 22: Dr. Venkat Subramaniam (Asynch Programming & Project Loom)
 
 --section--
 ## Upcoming Meetups and Events 
-#### (_exact date not all confirmed yet_)
+#### (_exact dates not all confirmed yet_)
 
-* TBD topic (Dr. Venkat Subramaniam)
-* Java Performance (Kirk Pepperdine - Microsoft/JClarity)
 * Security topic (Brian Vermeer - Snyk & Netherlands JUG)
 * MicroStream (Markus Kett - Java in-memory persistence)
 
+* Java 16 & 17 (Piotr Przybyl - Software Garden, Wroslaw Poland)
+* Fall/September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
 <br/><br/>
-**Un-Meetup!?**  (Let us know your thoughts)
+**Full-length Un-Meetup at a future meetup near us!
 <br/>
   
 --section--
