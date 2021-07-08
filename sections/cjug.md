@@ -1,10 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-#### June 24, 2021
-### June Lightning Talks & Mini-Unconference
-#### by
-## Speakers from the CJUG Community
+### July 8, 2021
+### Performance Anti-Pattern - Revolving Door
+### with Kirk Pepperdine
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -55,30 +54,29 @@
 
 <br/>
 
-* June 25 & 26: jLove (https://jLove.konfy.care)
 * Oct 5-8: JCON-2021 (https://jcon.one)
+* Dec 8-10: JConf.dev Chicago (https://2021.jconf.dev)
 
 --section--
-## JLove - June 2021 (Virtual): (https://jlove.konfy.care)
-CJUG Conference Pass promo code:  CJUG
+## JConf.dev Chicago
+Call for Speakers is Open until: *August 1* (https://2021.jconf.dev)
 
-<img src="images/jLove_2021-June.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 ## Upcoming Meetups and Events
 
-* July 8: Kirk Pepperdine - Java Performance/jClarify Founder (Microsoft)
 * July 22: Dr. Venkat Subramaniam (Asynch Programming & Project Loom)
+* August (12-noon CDT): Brian Vermeer (A Java Security topic - from Snyk and the Netherlands JUG)
 
 --section--
 ## Upcoming Meetups and Events 
 #### (_exact dates not all confirmed yet_)
 
-* Security topic (Brian Vermeer - Snyk & Netherlands JUG)
-* MicroStream (Markus Kett - Java in-memory persistence)
+* August (12-noon CDT): MicroStream (Markus Kett - Java in-memory persistence)
 
 * Java 16 & 17 (Piotr Przybyl - Software Garden, Wroslaw Poland)
-* Fall/September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
+* September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>
