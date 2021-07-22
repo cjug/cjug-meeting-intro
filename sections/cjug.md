@@ -1,9 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### July 8, 2021
-### Performance Anti-Pattern - Revolving Door
-### with Kirk Pepperdine
+### July 22, 2021
+### Get Ready for Asynchronous Programming 
+##  on the JVM:
+### The Significance of Project Loom
+### by Dr. Venkat Subramaniam
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -66,8 +68,7 @@ Call for Speakers is Open until: *August 1* (https://2021.jconf.dev)
 --section--
 ## Upcoming Meetups and Events
 
-* July 22: Dr. Venkat Subramaniam (Asynch Programming & Project Loom)
-* August (12-noon CDT): Brian Vermeer (A Java Security topic - from Snyk and the Netherlands JUG)
+* August 17 (12-noon CDT): Brian Vermeer from Snyk/NL-JUG (Stranger Danger!)
 
 --section--
 ## Upcoming Meetups and Events 
