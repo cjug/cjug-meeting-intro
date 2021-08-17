@@ -1,14 +1,17 @@
-## Our Most Special Speaker
+## Our Special Speaker for today
 
 <br/>
 
-### Venkat Subramaniam  (Twitter: @venkat_s)
-- The legendary Dr. Venkat !!
-- An award-winning author and one of the most celebrated, sought-after speaker of all times
-- Founder of Agile Developer, Inc.
-- A whole list of accolades: Java Champion, Java Rockstar, Jolt Productivity award winning books...
-- A passionate and true polyglot programmer
-- A highly sought-after consultant by companies from all over the world!
+### Brian Vermeer  (Twitter: @BrianVerm)
+- Well-known Developer Advocate from Snyk !!
+- Java Champion
+- Software Engineer with over a decade of hands-on experience
+- JUG Leader for the Virtual JUG and NLJUG
+- Co-Leader of the DevSecCon Community
+- Community Manager for Foojay
+- International speaker at many Java conferences (JavaOne/CodeOne, Devoxx, JavaZone, Devnexus, etc)
+- A military reserve for the Royal Netherlands Air Force
+- Taekwondo Master and Teacher
 
 
 

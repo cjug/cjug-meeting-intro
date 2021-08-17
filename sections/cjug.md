@@ -1,11 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### July 22, 2021
-### Get Ready for Asynchronous Programming 
-##  on the JVM:
-### The Significance of Project Loom
-### by Dr. Venkat Subramaniam
+### August 17, 2021
+## Stranger Danger: 
+###  Your Java Attack Surface just got Bigger
+## by Brian Vermeer
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -57,27 +56,39 @@
 <br/>
 
 * Oct 5-8: JCON-2021 (https://jcon.one)
+* Oct 6: J4K - October 2021 (https://j4k.io)
+* Oct 23-24: MOPCON (https://mopcon.org) **Online - Taiwan 
 * Dec 8-10: JConf.dev Chicago (https://2021.jconf.dev)
 
 --section--
-## JConf.dev Chicago
-Call for Speakers is Open until: *August 1* (https://2021.jconf.dev)
+## JCON (Online 2021)
+
+<img src="images/jcon-2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
+## J4K (Online - October 2021)
+*Call for Proposals: Open until August 24*
+
+<img src="images/j4k-2021-oct.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
+## JConf.dev Chicago (in-person at UIC)
 
 <img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 ## Upcoming Meetups and Events
 
-* August 17 (12-noon CDT): Brian Vermeer from Snyk/NL-JUG (Stranger Danger!)
+* August 31 (12-noon CDT): MicroStream (Markus Kett and Christian Kuemmel)
+  https://www.meetup.com/ChicagoJUG/events/279873980/
 
 --section--
 ## Upcoming Meetups and Events 
 #### (_exact dates not all confirmed yet_)
 
-* August (12-noon CDT): MicroStream (Markus Kett - Java in-memory persistence)
-
-* Java 16 & 17 (Piotr Przybyl - Software Garden, Wroslaw Poland)
+* Java 17 on Sept 14 (Piotr Przybyl - Software Garden, Wroslaw Poland)
 * September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
+* Fall (October & November): 3 confirmed speakers
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>
