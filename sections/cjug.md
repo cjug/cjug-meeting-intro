@@ -1,10 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### August 17, 2021
-## Stranger Danger: 
-###  Your Java Attack Surface just got Bigger
-## by Brian Vermeer
+### August 31, 2021
+## Ultra-fast Java 
+### In-Memory Database Apps & Microservices
+## with MicroStream
+### by Markus Kett and Christian Kuemmel
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -67,7 +68,6 @@
 
 --section--
 ## J4K (Online - October 2021)
-*Call for Proposals: Open until August 24*
 
 <img src="images/j4k-2021-oct.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
@@ -79,16 +79,14 @@
 --section--
 ## Upcoming Meetups and Events
 
-* August 31 (12-noon CDT): MicroStream (Markus Kett and Christian Kuemmel)
-  https://www.meetup.com/ChicagoJUG/events/279873980/
+* Java 17 on Sept 14 (Piotr Przybyl - Software Garden, Wroslaw Poland)
 
 --section--
-## Upcoming Meetups and Events 
+## Upcoming Meetups and Events (October & November)
 #### (_exact dates not all confirmed yet_)
 
-* Java 17 on Sept 14 (Piotr Przybyl - Software Garden, Wroslaw Poland)
-* September: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
-* Fall (October & November): 3 confirmed speakers
+* October: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
+* October/November: 3 confirmed speakers with topics on AxonIQ, JWT, OpenRewrite 
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>
@@ -111,7 +109,7 @@
 ## Open Source Info
 
 * Calling All OSS Contributors!!
-* Active OSS contributors on the CJUG Board:
+* Active OSS contributors on the CJUG Board (current and previous board members):
   * Bob Paulin and Matt Sicker - Apache (ASF)
   * Michael Minella - Reactive Foundation (Chairperson)
   * Josh Juneau and Mary - MicroProfile Working Group (Community participation)

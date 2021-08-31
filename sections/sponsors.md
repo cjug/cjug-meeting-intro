@@ -9,7 +9,7 @@
 
 --section--
 > IBM Semeru Runtimes: No cost, No restrictions!!
-https://developer.ibm.com/languages/java/semeru-runtimes/downloads
+https://developer.ibm.com/languages/java/semeru-runtimes
 
 - OpenJ9 (https://www.eclipse.org/openj9/)
 - Open Liberty (https://openliberty.io)<br/>
