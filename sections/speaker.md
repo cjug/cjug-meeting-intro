@@ -1,24 +1,14 @@
-## Our Special Speakers for today
+## Our Special Speaker for today
 
 <br/>
 
-### Markus Kett  (Twitter: @markuskett)
-- Co-founder and CEO of MicroStream
-- Editor-in-chief for the free JAVAPRO magazine (Germany)
-- Organizer of the Java Conference, JCON
-- 20 years of experience with his team on IDE tools for Java & DB Dev
-- Product owner of the RapidClipse IDE project (Eclipse Foundation)
-- International speaker at many developer conferences, users groups, JUGs, etc.
+### Piotr Przybył  (Twitter: @piotrprz)
+- Lead Developer at AtomicJar (founded by creators of Testcontainers)
+- Software Gardener for over 13 years, mostly in web-oriented Java gardens
+- Expertise in Java (since 1.3) and Scala
+- Trainer and conference speaker (JUGs, DevoxxPL, DevoxxUA, Devoxx-BE...)
+- Versatile in many Java related topics, architecture, security...etc.
 
---section--
-
-### Christian Kuemmel 
-- Developer Advocate at MicroStream
-- Project Manager and Software Architect in Java for over 10 years
-- Experienced in designing and implementing complex Open Source systems (RapidClipse, MicroStream, JPA-SQL)
-- Speaker at many Java conferences, user groups, JUGs, etc.
-- Java trainer for 7 years
-- 
 
 
 

@@ -1,11 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-### August 31, 2021
-## Ultra-fast Java 
-### In-Memory Database Apps & Microservices
-## with MicroStream
-### by Markus Kett and Christian Kuemmel
+### September 14, 2021
+## Sailing with Java 17
+### by Piotr Pryzbyl
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -79,14 +77,14 @@
 --section--
 ## Upcoming Meetups and Events
 
-* Java 17 on Sept 14 (Piotr Przybyl - Software Garden, Wroslaw Poland)
+* Sept 23:  Automated Refactoring using OpenRewrite (Tyler Van Gorder)
 
 --section--
 ## Upcoming Meetups and Events (October & November)
 #### (_exact dates not all confirmed yet_)
 
 * October: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
-* October/November: 3 confirmed speakers with topics on AxonIQ, JWT, OpenRewrite 
+* October/November: 2 confirmed speakers and another Foojay Tour! 
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>
