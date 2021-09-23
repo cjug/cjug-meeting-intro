@@ -2,12 +2,12 @@
 
 <br/>
 
-### Piotr Przybyl  (Twitter: @piotrprz)
-- Lead Developer at AtomicJar (founded by creators of Testcontainers)
-- Software Gardener for over 13 years, mostly in web-oriented Java gardens
-- Expertise in Java (since 1.3) and Scala
-- Trainer and conference speaker (JUGs, DevoxxPL, DevoxxUA, Devoxx-BE...)
-- Versatile in many Java related topics, architecture, security...etc.
+### Tyler Van Gorder (Twitter: @tkvangorder)
+- Principal Software Engineer at Moderne Inc - frameworks and tools for automated refactoring
+- Committer on the OpenRewrite (OSS) project
+- Passionate about building tools for developers productivity
+- Previous work: Lead Software Engineer for a large e-comm company - wrote libraries in Spring, Spring Boot and Spring Cloud
+- You can find Tyler on a basketball cour or hiking with his wife in the mountains around Portland OR
 
 
 

@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### September 14, 2021
-## Sailing with Java 17
-### by Piotr Pryzbyl
+### September 23, 2021
+## Automated Refactoring 
+## for Java-based Applications
+### by Tyler Van Gorder
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -57,7 +58,8 @@
 * Oct 5-8: JCON-2021 (https://jcon.one)
 * Oct 6: J4K - October 2021 (https://j4k.io)
 * Oct 23-24: MOPCON (https://mopcon.org) **Online - Taiwan 
-* Dec 8-10: JConf.dev Chicago (https://2021.jconf.dev)
+* Oct 28: All Day DevOps (24-hours of non-stop talks: https://alldaydevops.com)
+* Dec 8-10: jConf.dev Chicago (https://2021.jconf.dev)
 
 --section--
 ## JCON (Online 2021)
@@ -71,20 +73,21 @@
 
 --section--
 ## JConf.dev Chicago (in-person at UIC)
+CJUG Member 20% Discount:   <U>**_WEL@V3CJUG_**</U>
 
 <img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 ## Upcoming Meetups and Events
 
-* Sept 23:  Automated Refactoring using OpenRewrite (Tyler Van Gorder)
+* October 14 (12-noon Central):  Java Garbage Collectors (Charlie Hunt and Stefan Johansson, GC Team)
 
 --section--
 ## Upcoming Meetups and Events (October & November)
 #### (_exact dates not all confirmed yet_)
 
-* October: Java Garbage Collectors (Charlie Hunt & the GC Team from Oracle)
-* October/November: 2 confirmed speakers and another Foojay Tour! 
+* October: Foojay Fall Tour (Azul/Pratik?)
+* November: AxonIQ (Event Messaging), FusionAuth (JSON Web Token)
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>

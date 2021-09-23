@@ -2,11 +2,6 @@
 
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-**--section--
-## JFrog Special Raffle for today!
-
-<img src="images/jfrog_2021_gold.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
 --section--
 # Event Sponsor
 
