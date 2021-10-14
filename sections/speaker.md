@@ -1,14 +1,22 @@
-## Our Special Speaker for today
+## Our Special Speakers for today
 
 <br/>
 
-### Tyler Van Gorder (Twitter: @tkvangorder)
-- Principal Software Engineer at Moderne Inc - frameworks and tools for automated refactoring
-- Committer on the OpenRewrite (OSS) project
-- Passionate about building tools for developers productivity
-- Previous work: Lead Software Engineer for a large e-comm company - wrote libraries in Spring, Spring Boot and Spring Cloud
-- You can find Tyler on a basketball cour or hiking with his wife in the mountains around Portland OR
+### Charlie Hunt (Twitter: @charlesjhunt)
+- Chicago's very own Java Performance Guru!
+- Principal Software Engineer at Oracle (from the early days of Java at Sun/JavaSoft)
+- Led Performance work at Saleforce and Motorola previously
+- Principal Author of the Java Performance (2011) on Amazon Book Club: 
+**“The definitive master class in performance tuning Java applications…if you love all the gory details, this is the book for you.”
+  –James Gosling, creator of the Java Programming Language**
 
+--section--
 
+### Stefan Johansson (Twitter: @kstefanj)
+- Principle Member of Technical Staff, HotSpot GC Engineer at Oracle
+- Previously with Oracle/BEA
+- Previous projects include:
+- _JRockit Virtual Edition, a single purpose OS made for running Java_
+- _InfiniBand messaging for Java and Coherence_
 
 
