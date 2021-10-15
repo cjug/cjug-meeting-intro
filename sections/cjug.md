@@ -1,11 +1,19 @@
 ## Chicago Java Users Group
 ---
 
-### October 14, 2021
+### October 14, 2021 
+## Co-Hosting with the Montreal-JUG
 ### Java Performance Musings by Charlie Hunt
 ### G1: To Infinity and Beyond by Stefan Johansson
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+
+Welcome Montreal-JUG
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/montrealjug.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 
