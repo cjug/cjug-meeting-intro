@@ -1,19 +1,20 @@
 ## Chicago Java Users Group
 ---
 
-### October 14, 2021 
-## Co-Hosting with the Montreal-JUG
-### Java Performance Musings by Charlie Hunt
-### G1: To Infinity and Beyond by Stefan Johansson
+### October 28, 2021 
+### Enterprise Cloud Patterns for Java Devs -
+### Design and Impl by Pratik Patel
+### Part of the FooJay Fall Java-17 Tour
+### Sponsored by Azul
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
 
-Welcome Montreal-JUG
+Welcome Foojay !!
 <div style="background-color: white; margin-top: 30px;">
-	<img src="images/montrealjug.jpeg" style="border: none; box-shadow: none;"/>
+	<img src="images/foojay-tour-2021.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 
@@ -48,23 +49,16 @@ Welcome Montreal-JUG
 
 <br/>
 
-* Oct 23-24: MOPCON (https://mopcon.org) **Online - In Mandarin - Taiwan 
 * Oct 28: All Day DevOps (24-hours of non-stop talks: https://alldaydevops.com)
-* Dec 8-10: jConf.dev Chicago (https://2021.jconf.dev)
+* Dec 9: jConf.dev Chicago (https://2021.jconf.dev) **Virtual only**
 
 --section--
-## JConf.dev Chicago (in-person at UIC)
-CJUG and Montreal-JUG Member 20% Discount:   <U>**_WEL@V3CJUG_**</U>
+## JConf.dev Chicago (Virtual)
 
 <img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-## Upcoming Meetups and Events
-
-* October 28 (In-Person and Online): Foojay Java-17 Tour with Pratik from Azul
-
---section--
-## Upcoming Meetups and Events (October & November)
+## Upcoming Meetups and Events (November & December)
 #### (_exact dates not all confirmed yet_)
 
 * November: AxonIQ (Event Messaging), FusionAuth (JSON Web Token)
