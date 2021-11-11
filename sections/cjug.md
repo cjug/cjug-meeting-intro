@@ -1,20 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### October 28, 2021 
-### Enterprise Cloud Patterns for Java Devs -
-### Design and Impl by Pratik Patel
-### Part of the FooJay Fall Java-17 Tour
-### Sponsored by Azul
+### November 11, 2021 
+### JWT - What Java Developers need to know
+### by Dan Moore
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-</div>
-
---section--
-
-Welcome Foojay !!
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/foojay-tour-2021.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 
@@ -49,7 +40,6 @@ Welcome Foojay !!
 
 <br/>
 
-* Oct 28: All Day DevOps (24-hours of non-stop talks: https://alldaydevops.com)
 * Dec 9: jConf.dev Chicago (https://2021.jconf.dev) **Virtual only**
 
 --section--
@@ -58,10 +48,12 @@ Welcome Foojay !!
 <img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-## Upcoming Meetups and Events (November & December)
-#### (_exact dates not all confirmed yet_)
+## Upcoming Meetups and Events (December and Q1)
 
-* November: AxonIQ (Event Messaging), FusionAuth (JSON Web Token)
+* December 14: AxonIQ (Event Messaging) by David Garcia Gomez
+* December ?: Community Lightning Talks ?
+* 2022 - Q1: Rustam (Norwegian JUG)
+* 2022 - Q1: Cora and Gaby on TestContainers (SpringOne Speakers VMWare)
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>

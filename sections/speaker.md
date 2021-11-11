@@ -1,13 +1,10 @@
-## Our Special Speakers for today
+## Our Special Speaker for today
 
 <br/>
 
-### Pratik Patel (Twitter: @prpatel)
-- VP of Developer Advocacy at Azul
-- Previously Team Lead and Principal Java Developer Advocate at IBM
-- Before that, was the CTO at TripLingo and also Team Lead at AT&T
-- Java Champion
-- President of Atlanta JUG
-- Co-Lead of popular and largest Java developer-driven conference, Devnexus, jConf.dev Chicago
-- Author...
+### Dan Moore (Twitter: [@mooreds](https://twitter.com/mooreds))
+- Head of Developer Relations at FusionAuth
+- A former CTO, engineering manager, and longtime developer
+- Experienced hands-on developer for over 20 years, using Java on and off
+
 
