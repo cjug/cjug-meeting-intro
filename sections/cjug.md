@@ -1,9 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### November 11, 2021 
-### JWT - What Java Developers need to know
-### by Dan Moore
+### December 14, 2021 
+## Building Monolith Applications 
+## that could scale to Microservices 
+### (only if they need to)
+### by David Gomez Garcia
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -21,7 +23,7 @@
 
 <img src="images/twitterBird.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-### Follow us on Twitter: <u>@cjug</u>
+## Follow us on Twitter: <u>[@cjug](https://twitter.com/cjug)</u>
 
 --section--
 ## CJUG Chat Channel on Discord 
@@ -34,32 +36,25 @@
 
 --section--
 ##Community Info
-### CJUG is a Community Partner of the following events:
+#### CJUG is a Community Partner of the following groups/events:
 
 * Ongoing:  Virtual JUG - North America (https://vjug.us)
 
-<br/>
-
-* Dec 9: jConf.dev Chicago (https://2021.jconf.dev) **Virtual only**
+* New: DevITJobs.us (http://devitjobs.us/community)
 
 --section--
-## JConf.dev Chicago (Virtual)
+### Upcoming Meetups and Events (December and Q1)
 
-<img src="images/jConf.dev.chicago_2021.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
---section--
-## Upcoming Meetups and Events (December and Q1)
-
-* December 14: AxonIQ (Event Messaging) by David Garcia Gomez
-* December ?: Community Lightning Talks ?
-* 2022 - Q1: Rustam (Norwegian JUG)
-* 2022 - Q1: Cora and Gaby on TestContainers (SpringOne Speakers VMWare)
+* [December 16: Community Open Forum & Holiday Celebration](https://www.meetup.com/ChicagoJUG/events/282652307/)
+* 2022 January ?: Community Lightning Talks ?
+* 2022 - Q1: [Rustam Mehmandarov](https://twitter.com/rmehmandarov) (Norwegian JUG)
+* 2022 - Q1: [Cora Iberkleid](https://twitter.com/ciberkleid) and [Maria Gabriella Brodi](https://twitter.com/BrodiMg) on Integration Testing w/ TestContainers (SpringOne Speakers - VMWare)
 <br/><br/>
 **Full-length Un-Meetup at a future meetup near us!
 <br/>
   
 --section--
-### Interested in speaking? 
+## Interested in speaking? 
 <br/>Submit your proposals to present@cjug.org<br/>
 
 --section--
