@@ -1,10 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### February 16, 2021 
-## Using OSS to Swap Out Components
-## of Your Data Pipeline
-### by Rustam Mehmandarov
+## March 3, 2022 
+## Lightning Talks
+#### By
+## Speakers of Our Community
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -39,16 +39,17 @@
 
 * Ongoing:  Virtual JUG - North America (https://vjug.us)
 
-* New: DevITJobs.us (http://devitjobs.us/community)
+* DevITJobs.us (http://devitjobs.us/community)
 
 --section--
-### Upcoming Meetups and Events (December and Q1)
+### Upcoming Meetups and Events (March & April)
 
-* February (Sunday afternoon) Study Group with Matt (Cloud Deployment for Java Developers with Matt Brodala))
-* March 3: Lightning Talks by you!
-* March 10: [Cora Iberkleid](https://twitter.com/ciberkleid) and [Maria Gabriella Brodi](https://twitter.com/BrodiMg) on Integration Testing w/ TestContainers (SpringOne Speakers - VMWare)
+* __March 10__: Integration Testing with TestContainers with [Cora Iberkleid](https://twitter.com/ciberkleid) & [Maria Gabriella Brodi](https://twitter.com/BrodiMg) (VMWare-Spring Team)
+* __March 24__: To Java 18 and Beyond with [Billy Korando](https://twitter.com/BillyKorando) (Oracle-Java Team)
 <br/><br/>
-* April 25: SpringOne Tour (by the Spring Team - in Chicago!)
+* __April ?__: TBD topic by [Gautam Singh](https://twitter.com/singhkgautam) (CJUG longtime member/supporter) 
+* __April 25__: SpringOne Tour (by the Spring Team - in Chicago!)
+<br/><br/>
 * Full-length Un-Meetup at a future meetup near us!
 <br/>
   
