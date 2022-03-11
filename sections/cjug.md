@@ -19,6 +19,12 @@
 </div>
 
 --section--
+# CJUG stands with Ukraine
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/WeStandWithUkraine.jpeg" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
 #Remember:
  * Chicago Tech Slack (http://www.chicago-tech.slack.com/)
  * Current Java News! (http://www.javaoffheap.com)
