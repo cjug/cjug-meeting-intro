@@ -1,16 +1,16 @@
-## Our Special Speakers from VMWare
+## Our Special Speaker from Oracle
 <br/>
-### Cora Iberkleid [@ciberkleid](https://twitter.com/ciberkleid)
-- Developer Advocate at VMWare
-- Helps developers and enterprises navigate and adopt modern practices & technologies
-- Specializes in Spring, Cloud Foundry, Kubernetes, Tanzu, and modern CI/CD
+### Billy Korando [@BillyKorando](https://twitter.com/BillyKorando)
+- Java Developer Advocate (Oracle's Java Platform Group)
+- Over a decade of hands-on experience in Java
+- JUG leader and co-organizer of the Kansas City JUG
+- Passionate in helping developers to be productive
+- A wide range of project experience: project initiation, deployment, testing and validation, automation
+- Outside of work he enjoys traveling, kickball, and is a #1 fan of the KC Chiefs
 
-<br/>
 
-### Maria Gabriella Brodi "Gabry" [@BrodiMg](https://twitter.com/BrodiMg)
-- Solution Engineer at VMWare
-- Many years of experience in software development and operations
-- Specializes in new tools and emerging technologies, modern design and impl patterns
+
+
 
 
 

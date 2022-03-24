@@ -1,11 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### March 10, 2022 
-## Prod-Like Integration Testing for
-## Distributed Containerized Applications
+### March 24, 2022 
+## To Java 18 and Beyond
 #### By
-## Cora Iberkleid & Maria Gabriella Brodi
+## Billy Korando
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -56,12 +55,12 @@
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
-### Upcoming Meetups and Events (March & April)
+### Upcoming Meetups and Events (April)
 
-* __March 24__: To Java 18 and Beyond with [Billy Korando](https://twitter.com/BillyKorando) (Oracle-Java Team)
 <br/><br/>
-* __April 7__: Lambda and Streams by [Gautam Singh](https://twitter.com/singhkgautam) (CJUG longtime member/supporter) 
-* __April 25__: SpringOne Tour (by the Spring Team - in Chicago!)
+* April 7: Lambda and Streams by [Gautam Singh](https://twitter.com/singhkgautam)
+<br/>
+* April 25: SpringOne Tour (by the Spring Developer Advocates - Hybrid Meetup in Chicago!)
 <br/><br/>
 * Full-length Un-Meetup at a future meetup near us!
 <br/>
