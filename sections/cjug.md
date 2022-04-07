@@ -1,20 +1,12 @@
 ## Chicago Java Users Group
 ---
 
-### March 24, 2022 
-## To Java 18 and Beyond
-#### By
-## Billy Korando
+### April 7, 2022 
+### Ditch the Ceremony and Solve Real Problems 
+## using Lambda and Streams
+## by Gautam Singh
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-</div>
-
---section--
-###Celebrating Women's History Month 
-####and
-###March 8 - International Women's Day
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/2022-Intl-Womens-Day.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -55,13 +47,13 @@
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
-### Upcoming Meetups and Events (April)
+## Upcoming Meetups and Events 
 
 <br/><br/>
-* April 7: Lambda and Streams by [Gautam Singh](https://twitter.com/singhkgautam)
-<br/>
 * April 25: SpringOne Tour (by the Spring Developer Advocates - Hybrid Meetup in Chicago!)
 <br/><br/>
+* July TBD: Quarkus World Tour
+<br/>
 * Full-length Un-Meetup at a future meetup near us!
 <br/>
   

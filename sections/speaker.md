@@ -1,13 +1,12 @@
-## Our Special Speaker from Oracle
+## Our Speaker Today
+### A longtime CJUG supporter
 <br/>
-### Billy Korando [@BillyKorando](https://twitter.com/BillyKorando)
-- Java Developer Advocate (Oracle's Java Platform Group)
-- Over a decade of hands-on experience in Java
-- JUG leader and co-organizer of the Kansas City JUG
-- Passionate in helping developers to be productive
-- A wide range of project experience: project initiation, deployment, testing and validation, automation
-- Outside of work he enjoys traveling, kickball, and is a #1 fan of the KC Chiefs
-
+### Gautam Singh [@singkgautam](https://twitter.com/singkgautam)
+- Principal Solution Architect 
+- Executive Technology Consultant and Founder 
+- AWS Certified Solution Architect Associate
+- Over 16 years of total I.T. experience that includes hands-on and leadership advisory work
+- Has helped multiple clients in Cloud-Native and Microservices Migration
 
 
 
