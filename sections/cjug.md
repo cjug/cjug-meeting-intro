@@ -1,12 +1,18 @@
 ## Chicago Java Users Group
 ---
 
-### April 7, 2022 
-### Ditch the Ceremony and Solve Real Problems 
-## using Lambda and Streams
-## by Gautam Singh
+### April 25, 2022 
+## Bootiful GraalVM 
+### - SpringOne Tour Chicago -
+## with DaShaun Carter
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+### Our special meetup event sponsor for this evening
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/focusedLabs.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -50,7 +56,7 @@
 ## Upcoming Meetups and Events 
 
 <br/><br/>
-* April 25: SpringOne Tour (by the Spring Developer Advocates - Hybrid Meetup in Chicago!)
+* May 5: [Continuous Regression Testing in Java with Pejman](https://www.meetup.com/ChicagoJUG/events/285406777/)
 <br/><br/>
 * July TBD: Quarkus World Tour
 <br/>

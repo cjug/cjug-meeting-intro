@@ -2,6 +2,10 @@
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
+# Event Sponsor
+<img src="images/focusedLabs.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
 
 # Friends of CJUG
 ### The Worldwide Java Community
