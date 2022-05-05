@@ -1,12 +1,12 @@
-## Our Special Speaker from
-### the Spring Advocacy Team
+## Our Speaker for today
 
 <br/>
-### DaShaun Carter [@dashaun](https://twitter.com/dashaun)
-- Staff Technologist and Spring Developer Advocate at VMWare
-- Over 20 years of deep software building experience
-- Computer Scientist, MBA
-- Husband, Father of 4, Athlete
+### Pejman Ghorbanzade [@heypejman](https://twitter.com/heypejman)
+- Founder and CEO of [Touca.io](https://touca.io)
+- Previously Senior Software Engineer at Canon Medical Informatics and VMWare Carbon Black
+- Interested in problems related to software design and maintenance at scale and over time
+- Passionate about solutions to improve stability and maintainability of software products
+
 
 
 

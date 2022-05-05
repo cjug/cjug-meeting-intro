@@ -1,18 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### April 25, 2022 
-## Bootiful GraalVM 
-### - SpringOne Tour Chicago -
-## with DaShaun Carter
+### May 5, 2022 
+## Continuous Regression Testing in Java
+## by Pejman Ghorbanzade
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
-</div>
-
---section--
-### Our special meetup event sponsor for this evening
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/focusedLabs.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -55,13 +48,32 @@
 --section--
 ## Upcoming Meetups and Events 
 
+* June TBD: <TBD>
 <br/><br/>
-* May 5: [Continuous Regression Testing in Java with Pejman](https://www.meetup.com/ChicagoJUG/events/285406777/)
-<br/><br/>
-* July TBD: Quarkus World Tour
+* July 28: Quarkus World Tour
 <br/>
 * Full-length Un-Meetup at a future meetup near us!
 <br/>
+
+--section--
+## Upcoming Conference
+### Geekle Java Online Summit - May 11-12
+#### Discount code for CJUG Members: *JAVASP30*
+
+* [Online Java Summit] (https://events.geekle.us/java/)
+  - Special JUG Discount 30% off ($199 Early Bird price / $299 Full price)
+  - *Early Bird ends 5/14*
+  - Junior Track is all free (limited benefits)
+  
+--section--
+## Upcoming Conference
+### ArchConf 2022 Central - June 6-9
+####Discount code for CJUG Members: *jug20arch*
+
+* [ArchConf] (https://archconf.com/)
+  - Special JUG Discount of $250 off ($2700 Early Bird price)
+  - *Early Bird ends 5/6*
+  - [Virtual Workshops $3000 credits](https://nofluffjuststuff.com/virtual-workshops)
   
 --section--
 ## Interested in speaking? 
