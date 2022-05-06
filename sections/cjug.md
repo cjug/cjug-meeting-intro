@@ -15,6 +15,11 @@
 </div>
 
 --section--
+# Special presentation by JRebel
+## Java Developer Survey Report 
+### by Curtis Johnson, Program Manager
+
+--section--
 #Remember:
  * Chicago Tech Slack (http://www.chicago-tech.slack.com/)
  * Current Java News! (http://www.javaoffheap.com)
@@ -60,7 +65,7 @@
 ### Geekle Java Online Summit - May 11-12
 #### Discount code for CJUG Members: *JAVASP30*
 
-* [Online Java Summit] (https://events.geekle.us/java/)
+* https://events.geekle.us/java/
   - Special JUG Discount 30% off ($199 Early Bird price / $299 Full price)
   - *Early Bird ends 5/14*
   - Junior Track is all free (limited benefits)
@@ -70,7 +75,7 @@
 ### ArchConf 2022 Central - June 6-9
 ####Discount code for CJUG Members: *jug20arch*
 
-* [ArchConf] (https://archconf.com/)
+* https://archconf.com/
   - Special JUG Discount of $250 off ($2700 Early Bird price)
   - *Early Bird ends 5/6*
   - [Virtual Workshops $3000 credits](https://nofluffjuststuff.com/virtual-workshops)
