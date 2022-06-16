@@ -1,23 +1,18 @@
 ## Chicago Java Users Group
 ---
 
-### May 5, 2022 
-## Continuous Regression Testing in Java
-## by Pejman Ghorbanzade
+### June 16, 2022 
+### 2 Talks by Grzegorz Piwowarek:
+## CompletableFuture & Hazelcast 5.1
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
-# CJUG stands with Ukraine
+# CJUG continues to stand with Ukraine
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/WeStandWithUkraine.jpeg" style="border: none; box-shadow: none;"/>
 </div>
-
---section--
-# Special presentation by JRebel
-## Java Developer Survey Report 
-### by Curtis Johnson, Program Manager
 
 --section--
 #Remember:
@@ -47,41 +42,31 @@
 #### CJUG is a Community Partner of the following groups/events:
 
 * Ongoing:  Virtual JUG - North America (https://vjug.us)
-
+<br/><br/>
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
 ## Upcoming Meetups and Events 
 
-* June TBD: <TBD>
 <br/><br/>
-* July 28: Quarkus World Tour
-<br/>
-* Full-length Un-Meetup at a future meetup near us!
-<br/>
+* July 28: Quarkus World Tour (with Red Hat Users Group - hybrid!)
+<br/><br/>
+* Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-## Upcoming Conference
-### Geekle Java Online Summit - May 11-12
-#### Discount code for CJUG Members: *JAVASP30*
+## DEEP.DISH.JAVA in our backyard
+### jConf.dev 2022 
+https://2022.jconf.dev
+<br/><br/>
+### Interested in speaking (CFP until July 5)
+https://sessionize.com/jconf-dev-2022/
+<br/><br/>
+### Register for the Early Bird (until July 10)
+https://reg.connectevents.io/ConnectEvents/jconf2022/
 
-* https://events.geekle.us/java/
-  - Special JUG Discount 30% off ($199 Early Bird price / $299 Full price)
-  - *Early Bird ends 5/14*
-  - Junior Track is all free (limited benefits)
-  
---section--
-## Upcoming Conference
-### ArchConf 2022 Central - June 6-9
-####Discount code for CJUG Members: *jug20arch*
 
-* https://archconf.com/
-  - Special JUG Discount of $250 off ($2700 Early Bird price)
-  - *Early Bird ends 5/6*
-  - [Virtual Workshops $3000 credits](https://nofluffjuststuff.com/virtual-workshops)
-  
 --section--
-## Interested in speaking? 
+## Interested in speaking at CJUG? 
 <br/>Submit your proposals to present@cjug.org<br/>
 
 --section--

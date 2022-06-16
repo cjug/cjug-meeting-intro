@@ -1,11 +1,15 @@
-## Our Speaker for today
+## Our Special Speaker from Warsaw!
 
 <br/>
-### Pejman Ghorbanzade [@heypejman](https://twitter.com/heypejman)
-- Founder and CEO of [Touca.io](https://touca.io)
-- Previously Senior Software Engineer at Canon Medical Informatics and VMWare Carbon Black
-- Interested in problems related to software design and maintenance at scale and over time
-- Passionate about solutions to improve stability and maintainability of software products
+### Grzegorz Piwowarek [@pivovarit](https://twitter.com/pivovarit)
+- Lead Architect at Hazelcast based in Warsaw, Poland
+- A Trainer, Blogger at [4comprehension.com](https://4comprehension.com)
+- Passionate about Distributed Systems, internals, performance, and architecture
+- Rumor has it that he exists only at *compile-time* :)
+
+
+
+
 
 
 
