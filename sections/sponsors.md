@@ -3,11 +3,11 @@
 
 --section--
 # Event Sponsor
-<img src="images/ibm.jpg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/redhat.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 # Friends of CJUG
-### The Worldwide Java Community
+#### The Worldwide Java Community and in particular:
 ####  [Atlanta JUG (Georgia)](https://ajug.org)
 ####  [Boston Java User ACM Chapter(New England)](https://nejug.org)
 ####  [Garden State JUG (New Jersey)](https://gsjug.org)

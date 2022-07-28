@@ -1,12 +1,29 @@
 ## Chicago Java Users Group
 ---
 
-### June 16, 2022 
-### 2 Talks by Grzegorz Piwowarek:
-## CompletableFuture & Hazelcast 5.1
+## July 28, 2022 
+### A Joint Event with Chicago Red Hat User Group
+# Quarkus World Tour
+### 2 Talks by Daniel Oh and Jeff Beck
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
+
+--section--
+## Special Thanks to the Red Hat Team:
+#### Daniel Oh - Jeff Beck - Josh Gavant - Mary Tew - Scott Danielson
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/2022-Quarkus-WorldTour.png" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+### Today's Raffles: 2 JetBrains complimentary licenses
+<img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
+<br/>
+#### (Please remember to register with your email address if you'd like to participate)
+<br/>
+##NOTE: You are ineligible to participate
+###if you won a license within the last 9 months!
 
 --section--
 # CJUG continues to stand with Ukraine
@@ -39,35 +56,42 @@
 
 --section--
 ##Community Info
-#### CJUG is a Community Partner of the following groups/events:
+<br/>
+#### CJUG is a Community Partner of the following group:
 
-* Ongoing:  Virtual JUG - North America (https://vjug.us)
-<br/><br/>
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
-## Upcoming Meetups and Events 
-
-<br/><br/>
-* July 28: Quarkus World Tour (with Red Hat Users Group - hybrid!)
+## Upcoming Event(s)
+<br/>
+We are currently planning for the next meetup in September
 <br/><br/>
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
 ## DEEP.DISH.JAVA in our backyard
-### jConf.dev 2022 
+### jConf.dev 2022 (Sept 26-28)
 https://2022.jconf.dev
-<br/><br/>
-### Interested in speaking (CFP until July 5)
-https://sessionize.com/jconf-dev-2022/
-<br/><br/>
-### Register for the Early Bird (until July 10)
-https://reg.connectevents.io/ConnectEvents/jconf2022/
+<img src="images/jConf.dev.chicago_2022.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
+--section--
+## JCON-Online 2022 (Sept 20-23)
+https://2022.jcon.one
+<br/><br/>
+
+<img src="images/jcon-2022.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
+## Java on Kubernetes - Orland, Florida
+### J4K 2022 (Sept 28)
+https://2022.jcon.one
+<br/><br/>
+
+<img src="images/j4k-2022.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 ## Interested in speaking at CJUG? 
-<br/>Submit your proposals to present@cjug.org<br/>
+<br/>Submit your proposals to: **present@cjug.org**<br/>
 
 --section--
 
