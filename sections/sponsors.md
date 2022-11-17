@@ -2,6 +2,12 @@
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
+## Our Event Sponsor for today
+# THANK YOU ADYEN !
+
+<img src="images/adyen.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
 # Friends of CJUG
 #### The Worldwide Java Community, and in particular:
 ####  [Atlanta JUG (Georgia)](https://ajug.org)

@@ -1,12 +1,12 @@
-## Our Special Speaker from Azul
+## Our Special Speaker from Hazelcast
 
-### Gerrit Grunwald [@hansolo_](https://twitter.com/hansolo_)
-- Principal Software Engineer and Developer Advocate at Azul Systems
-- Over 40 years of hands-on coding experience
-- Passionate developer and loves all things Java and Open Source
-- Active member and leader of the Java community - Founded and leads the Java User Group Munster (Germany)
-- Java Champion and JavaOne Rockstar
-- International speaker
+### Jakub Marchwicki [@kubem](https://twitter.com/kubem)
+- Lead Software Engineer at Hazelcast from Gdansk, Poland
+- Conference speaker
+- Active with the JUG community - JUG Leader
+- 20 years of hands-on commercial coding experience that covers a lot of languages and frameworks
+- Have had roles as Architect, Programmer, Manager, Technical Trainer, Tech Lead
+
 
 
 

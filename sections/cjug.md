@@ -1,11 +1,18 @@
 ## Chicago Java Users Group
 ---
 
-### October 11, 2022 
-## What the CRaC - Superfast JVM startup
-### by Gerrit Grunwald
+### November 17, 2022 
+## They say Testing Triangle but you are doing Microservices.  Now what?
+###by 
+## Jakub Marchwicki
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+# CJUG continues to stand with Ukraine
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/WeStandWithUkraine.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -14,12 +21,6 @@
 <br/>
 ##NOTE: You are ineligible to participate
 ###if you won a license within the last 9 months!
-
---section--
-# CJUG continues to stand with Ukraine
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/WeStandWithUkraine.jpeg" style="border: none; box-shadow: none;"/>
-</div>
 
 --section--
 #Remember:
@@ -40,7 +41,7 @@
 * Engage with speakers before and after meetups
 * Additional way to communicate with one another
 
->https://discord.gg/U25g437
+>[https://discord.gg/U25g437](https://discord.gg/U25g437)
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
@@ -64,7 +65,7 @@ We are currently planning for the next meetup in November
 
 --section--
 
-## Jobs board
+## For Job Seekers and Recruiters
 
 * Join CJUG Group on LinkedIn:<br/>
  https://www.linkedin.com/groups/4691739/
