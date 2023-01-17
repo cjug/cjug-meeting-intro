@@ -1,10 +1,11 @@
 ## Chicago Java Users Group
 ---
 
-### November 17, 2022 
-## They say Testing Triangle but you are doing Microservices.  Now what?
+### January 17, 2022 
+## The One and Only One Way to Structure 
+## Java Monoliths, Microservices... and even Functions
 ###by 
-## Jakub Marchwicki
+## Adam Bien
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -16,11 +17,11 @@
 </div>
 
 --section--
-### Today's Raffles: 2 JetBrains complimentary licenses
+### Today's Raffles: 3 JetBrains complimentary licenses
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
 ##NOTE: You are ineligible to participate
-###if you won a license within the last 9 months!
+####if you won a license within the last 9 months!
 
 --section--
 #Remember:
@@ -48,15 +49,21 @@
 --section--
 ##Community Info
 <br/>
-#### CJUG is a Community Partner of the following group:
+#### CJUG is a Community Partner of the following groups/conference organizations:
 
 * DevITJobs.us (http://devitjobs.us/community)
+* WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
+* JCON (https://jcon.one)
+* J4K (https://j4k.io)
+* JetBrains (https://jetbrains.com/community)
 
 --section--
 ## Upcoming Event(s)
 <br/>
-We are currently planning for the next meetup in November
+We are currently planning for the next set of meetups in 2023
 <br/><br/>
+
+* Confirmed speakers include: Venkat Subramaniam (Agile Developer), Philipp Krenn (Elastic), Alina Yurenko (Oracle/GraalVM), Jeanne Boyarsky (JavaRanch/NYJavaSIG)
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
