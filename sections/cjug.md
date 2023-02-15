@@ -1,11 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### January 17, 2022 
-## The One and Only One Way to Structure 
-## Java Monoliths, Microservices... and even Functions
+### February 15, 2023 
+## Java under the Hood of Elasticsearch
 ###by 
-## Adam Bien
+## Philipp Krenn @xeraa
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -17,11 +16,14 @@
 </div>
 
 --section--
-### Today's Raffles: 3 JetBrains complimentary licenses
+### Today's Raffles: 2 JetBrains complimentary licenses
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##NOTE: You are ineligible to participate
+### Submit your info here to enter into the drawings (https://forms.gle/nwuLeJ3r1xsgFUdT6)
+####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
+
+
 
 --section--
 #Remember:
@@ -59,11 +61,11 @@
 
 --section--
 ## Upcoming Event(s)
-<br/>
-We are currently planning for the next set of meetups in 2023
+* March 2: Bellsoft - Dmitry Chuyko on Java for ARM
+* April: Gradle
 <br/><br/>
 
-* Confirmed speakers include: Venkat Subramaniam (Agile Developer), Philipp Krenn (Elastic), Alina Yurenko (Oracle/GraalVM), Jeanne Boyarsky (JavaRanch/NYJavaSIG)
+* Confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jeanne Boyarsky (JavaRanch/NYJavaSIG)
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--

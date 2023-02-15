@@ -1,4 +1,4 @@
-# Gold Level Sponsor
+# Silver Level Sponsor 2023
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
