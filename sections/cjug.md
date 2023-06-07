@@ -1,30 +1,35 @@
 ## Chicago Java Users Group
 ---
 
-### March 16, 2023 
-## Java on ARM. New Horizons.
+### June 7, 2023 
+## Readable Java Regular Expressions
 ###by 
-## Dmitry Chuyko
+## Jeanne Boyarsky
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
-# CJUG continues to stand with Ukraine
+## CJUG continues to stand with Ukraine
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/WeStandWithUkraine.jpeg" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
-### Today's Raffle(s): JetBrains complimentary license(s)
+## Today's Meetup is made possible by
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/callibrity.png" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+### Today's Raffles: 2 JetBrains licenses & Jeanne's Book
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-### Submit your info here to enter into the drawings (https://forms.gle/3h2titQBMioEf1cT7)
+#### Submit your info here to enter into the drawings 
+###(https://forms.gle/pnwwnXZPC59CLCVx6)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
-
-
 
 --section--
 #Remember:
@@ -62,15 +67,12 @@
 
 --section--
 ## Upcoming Event(s)
-* April 18 (Tuesday at 6pm CT): With CKUG - 2 talks (Developer Productivity Engineering w/ Gradle)
+* July 12 (Wed at 12pm-CT): Simon Martinelli (Talk on jOOQ, nested Java Records, combined w/ Hibernate)
+* August 24 (Thurs - evening): Matt Raible
 <br/><br/>
 
-* Confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Matt Raible (Okta/DenverJUG), Jeanne Boyarsky (JavaRanch/NYJavaSIG)
+* Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), and more!
 * Full-length Un-Meetup (let us know if you're interested)
-
---section--
-## April 18 Meetup - with CKUG - Justin Reock and Josh Long !!
-<br/>https://www.meetup.com/chicagojug/events/292287829/<br/>
 
 --section--
 ## Interested in speaking at CJUG? 

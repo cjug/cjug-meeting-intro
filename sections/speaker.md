@@ -1,13 +1,12 @@
-## Our Special Speaker from Bellsoft
+## Our Special Speaker for today
 
-### Dmitry Chuyko [@dchuyko](https://twitter.com/dchuyko)
-- Lead Performance Engineer at Bellsoft
-- OpenJDK Committer
+### Jeanne Boyarsky [@jeanneboyarsky](https://twitter.com/jeanneboyarsky)
+- Lead Java Developer at a Major Bank in New York City
+- Author of multiple Java certification books
 - Public Speaker
-- Current focus is on optimizing HotSpot for x86 and ARM, rolling out JEP 386 enabling the smallest JDK containers
-- Previous engagements: Hotspot JVM at Oracle
-- Deep programming experience in Java
-
+- Java Champion
+- Volunteers with the NYJavaSIG and CodeRanch
+- Mentors high school robotics team
 
 
 
