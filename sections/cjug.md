@@ -1,10 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### June 7, 2023 
-## Readable Java Regular Expressions
+### July 12, 2023 
+## Do You Really Need Hibernate?
 ###by 
-## Jeanne Boyarsky
+## Simon Martinelli
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -16,18 +16,11 @@
 </div>
 
 --section--
-## Today's Meetup is made possible by
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/callibrity.png" style="border: none; box-shadow: none;"/>
-</div>
-
---section--
-### Today's Raffles: 2 JetBrains licenses & Jeanne's Book
+### Today's Raffles: 2 JetBrains licenses
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-#### Submit your info here to enter into the drawings 
-###(https://forms.gle/pnwwnXZPC59CLCVx6)
+#### [Submit your info here to enter into the drawings: https://forms.gle/SMdWj1rufnMx2X429]
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -54,6 +47,8 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
+Channel for today: [#2023-07-12-simon-martinelli-jooq](https://discord.com/channels/756944573669834935/1110210663252508853)
+
 --section--
 ##Community Info
 <br/>
@@ -62,16 +57,14 @@
 * DevITJobs.us (http://devitjobs.us/community)
 * WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
 * JCON (https://jcon.one)
-* J4K (https://j4k.io)
 * JetBrains (https://jetbrains.com/community)
 
 --section--
 ## Upcoming Event(s)
-* July 12 (Wed at 12pm-CT): Simon Martinelli (Talk on jOOQ, nested Java Records, combined w/ Hibernate)
-* August 24 (Thurs - evening): Matt Raible
+* August 24 (Thursday 6pm @ Okta in Chicago): [Matt Raible](https://twitter.com/mraible)
 <br/><br/>
 
-* Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), and more!
+* Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Markus Hellberg (Vaadin), Speaker from Temporal, and more
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--

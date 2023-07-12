@@ -8,11 +8,6 @@
 
 <img src="images/FusionAuth.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
---section--
-## Again, our Event Sponsor for today
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/callibrity.png" style="border: none; box-shadow: none;"/>
-</div>
 
 --section--
 # Friends of CJUG
