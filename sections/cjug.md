@@ -1,12 +1,19 @@
 ## Chicago Java Users Group
 ---
 
-### July 12, 2023 
-## Do You Really Need Hibernate?
+#### August 24, 2023 
+##Comparing 
+##Native Java REST API Frameworks
 ###by 
-## Simon Martinelli
+## Matt Raible
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+</div>
+
+--section--
+## Thank You Okta for hosting us today
+<div style="background-color: white; margin-top: 30px;">
+	<img src="images/okta.png" style="border: none; box-shadow: none;"/>
 </div>
 
 --section--
@@ -20,7 +27,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-#### [Submit your info here to enter into the drawings: https://forms.gle/SMdWj1rufnMx2X429]
+#### [Submit your info here to enter into the drawings: [https://bit.ly/45phPOo](https://bit.ly/45phPOo)]
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -47,7 +54,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Channel for today: [#2023-07-12-simon-martinelli-jooq](https://discord.com/channels/756944573669834935/1110210663252508853)
+Channel for today: [#2023-08-24-matt-raible-comparing-java-rest](https://discord.com/channels/756944573669834935/1131682169530613932)
 
 --section--
 ##Community Info
@@ -57,14 +64,17 @@ Channel for today: [#2023-07-12-simon-martinelli-jooq](https://discord.com/chann
 * DevITJobs.us (http://devitjobs.us/community)
 * WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
 * JCON (https://jcon.one)
+* DeveloperWeek (https://www.developerweek.com/)
 * JetBrains (https://jetbrains.com/community)
 
 --section--
 ## Upcoming Event(s)
-* August 24 (Thursday 6pm @ Okta in Chicago): [Matt Raible](https://twitter.com/mraible)
+* September 20 (Wednesday 12-noon on Zoom): [Ana-Maria Mihalceanu](https://twitter.com/ammbra1508) from the Oracle DevRel Team *Java 21*
 <br/><br/>
+* October - Jointly with GOTO-AI Chicago - Potentially Georges Saab (SVP from Java Platform Group at Oracle)
+* Fall - Speakers from Temporal and Digma
 
-* Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Markus Hellberg (Vaadin), Speaker from Temporal, and more
+* Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Markus Hellberg (Vaadin), and more
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--

@@ -1,14 +1,13 @@
 ## Our Special Speaker for today
 
-### Simon Martinelli [@simas_ch](https://twitter.com/simas_ch)
-- Owner of [72 Services LLC ](https://72.services/en), a Swiss IT consulting firm
-- Software Architect, Lead Developer, Consultant, and Trainer for 27 years, focusing on Enterprise Java
-- International Speaker
-- Recipient of the Vaadin Community Award
-- Interested in increasing the efficiency of full-stack development with Java
-- Regular contributor to many tech articles
-- Lecturer for Software Architecture and Persistence
-- Blog: https://martinelli.ch
+### Matt Raible [@mraible](https://twitter.com/mraible)
+- Java Champion
+- The World Famous DevRel Architect at Okta
+- Open Source Developer for many years - Founder of AppFuse
+- Deep hands-on experience with Web Development and Java
+- Experienced Consultant - Owner of Raible Designs
+- Java Editor and Author at InfoQ
+- Blog: [https://raibledesigns.com](https://raibledesigns.com/)
 
 
 

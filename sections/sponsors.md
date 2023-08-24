@@ -1,9 +1,9 @@
-## Silver Level Sponsor (3rd year!)
+## Silver Level Sponsor (Gold 2021-22, Silver 2023)
 ### THANK YOU again to [JFrog](https://www.jfrog.com) for your continued support!
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-## Silver Level Sponsor (new in 2023)
+## Silver Level Sponsor (since 2023)
 ### THANK YOU [FusionAuth](https://fusionauth.io/?utm_medium=paid_referral&utm_source=chicago_jug&utm_campaign=meetup)
 
 <img src="images/FusionAuth.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
