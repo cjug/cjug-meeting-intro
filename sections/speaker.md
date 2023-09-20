@@ -1,13 +1,13 @@
 ## Our Special Speaker for today
 
-### Matt Raible [@mraible](https://twitter.com/mraible)
-- Java Champion
-- The World Famous DevRel Architect at Okta
-- Open Source Developer for many years - Founder of AppFuse
-- Deep hands-on experience with Web Development and Java
-- Experienced Consultant - Owner of Raible Designs
-- Java Editor and Author at InfoQ
-- Blog: [https://raibledesigns.com](https://raibledesigns.com/)
+### Ana-Maria Mihalceanu [@ammbra1508](https://twitter.com/ammbra1508)
+- Senior Developer Advocate with the Oracle Java Advocacy Team
+- Java Champion (Alumni)
+- Certified Architect 
+- Previously with IBM and Red Hat
+- International Conference Speaker
+- Co-founder of the [Bucharest Software Craftmanship Community](https://meetup.com/bucharest-software-craftsmanship-community)
+
 
 
 
