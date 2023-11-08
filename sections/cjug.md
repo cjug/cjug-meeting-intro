@@ -1,11 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-#### September 20, 2023 
-##Java 21 and Beyond:
-##A Roadmap of Innovations
+#### November 16, 2023 
+#2 Talks:
 ###by 
-## Ana-Maria Mihalceanu
+## Bruno Souza and Vinicius Senger
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -22,7 +21,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-#### [Submit your info here to enter into the drawings: [https://bit.ly/48hsMnj](https://bit.ly/48hsMnj)]
+#### [Submit your info here to enter into the drawings: [https://bit.ly/3szHBRT](https://bit.ly/3szHBRT)]
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -38,7 +37,7 @@
 
 <img src="images/twitterBird.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-## Follow us on Twitter: <u>[@cjug](https://twitter.com/cjug)</u>
+## Follow us on X: <u>[@cjug](https://twitter.com/cjug)</u>
 
 --section--
 ## CJUG Chat Channel on Discord 
@@ -49,35 +48,26 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Channel for today: [#2023-09-20-java21-ana-maria-mihalceanu](https://discord.com/channels/756944573669834935/1147932847081013358)
+Join this: [#2023-11-08-bruno-on-career-vinicius-on-aws](https://discord.gg/vmv4XueshW)
 
 --section--
 ##Community Info
 <br/>
 #### CJUG is a Community Partner of the following groups/conference organizations:
 
-* GOTO AI Days Chicago (https://gotochgo.com/ai-days-2023)
 * DevITJobs.us (http://devitjobs.us/community)
 * WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
 * JCON (https://jcon.one)
 * DeveloperWeek (https://www.developerweek.com/)
 * JetBrains (https://jetbrains.com/community)
 
---section--
-## GOTO AI Days Chicago
-
-* Website:  https://gotochgo.com/ai-days-2023)
-* Dates: Oct 23-25
-* CJUG Members 10% Discount code: cjug10 
-<br/><br/>
-Stay tuned for a free raffle ticket *if* you are interested in attending!
 
 --section--
 ## Upcoming Event(s)
 <br/><br/>
-* October - Jointly with GOTO-AI Chicago - Potentially Georges Saab (SVP from Java Platform Group at Oracle)
-<br/><br/>
-* Fall - Speakers from Temporal and Digma
+* November 16 - Speakers from Temporal and Kin+Carta
+<br/>
+* December ? - Speaker from Digma (potential)
 <br/><br/>
 * Other confirmed speakers include: Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Markus Hellberg (Vaadin), and more
 <br/><br/>

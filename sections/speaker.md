@@ -1,12 +1,18 @@
-## Our Special Speaker for today
+## Our Special Speakers for today
 
-### Ana-Maria Mihalceanu [@ammbra1508](https://twitter.com/ammbra1508)
-- Senior Developer Advocate with the Oracle Java Advocacy Team
-- Java Champion (Alumni)
-- Certified Architect 
-- Previously with IBM and Red Hat
-- International Conference Speaker
-- Co-founder of the [Bucharest Software Craftmanship Community](https://meetup.com/bucharest-software-craftsmanship-community)
+### Bruno Souza [@brjavaman](https://twitter.com/brjavaman)
+- The legendary Brazilian Java Man !!
+- Founder of the largest JUG in Latin America / The World:  SouJava
+- Co-founder of the Java Champions program originated at Sun Microsystems/JavaSoft (?)
+- Founders of many orgs - benefitting Developers all over the world !!
+
+--section--
+### Vinicius Senger [@vsenger](https://twitter.com/vsenger)
+- Senior Developer Advocate, Specialist Team at AWS
+- Specializing in Java, Cloud, IoT
+- Inventor
+- Founder of the largest developer conference in Latin America / The Planet - The Developer Conference (TDC - Brazil)
+
 
 
 
