@@ -1,17 +1,15 @@
-## Our Special Speakers for today
+## Our Speaker for today
 
-### Bruno Souza [@brjavaman](https://twitter.com/brjavaman)
-- The legendary Brazilian Java Man !!
-- Founder of the largest JUG in Latin America / The World:  SouJava
-- Co-founder of the Java Champions program originated at Sun Microsystems/JavaSoft (?)
-- Founders of many orgs - benefitting Developers all over the world !!
+### Shardul Lavekar [@shardullavekar](https://twitter.com/shardullavekar)
+- An entrepreneur for the 2nd time
+- Impressive track record of developing multiple production-grade applications
+- His first entrepreneurial path: vernacular speech translation engine 
+  and a customized optical character recognition system for the Indian market
+- Sold the intellectual property rights to Airtel (Asia's 2nd largest telecom operator)
+- His current venture has support from renowned investors: Y Combinator and Accel Partners
 
---section--
-### Vinicius Senger [@vsenger](https://twitter.com/vsenger)
-- Senior Developer Advocate, Specialist Team at AWS
-- Specializing in Java, Cloud, IoT
-- Inventor
-- Founder of the largest developer conference in Latin America / The Planet - The Developer Conference (TDC - Brazil)
+
+
 
 
 
