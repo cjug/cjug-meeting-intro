@@ -1,27 +1,22 @@
 ## Chicago Java Users Group
 ---
 
-#### January 18, 2024
+### March 07, 2024
 <br/>
-### Learn to Replay Production Traffic Locally
-### And Ensure 0 Regressions
+### Evolving your APIs, A Pragmatic Approach
 <br/>
-### by Shardul Lavekar
+### by Nicolas Frankel
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
 
---section--
-## APPRECIATION GIFT FROM UNLOGGED
-<br/>
-Shardul will share the information with you <br/>after his presentation.
 
 --section--
 ### Today's Raffles: 2 JetBrains licenses
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [bit.ly/426qQeH](https://bit.ly/426qQeH)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3T3Y6N](https://bit.ly/3T3YY6N)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -48,7 +43,7 @@ Shardul will share the information with you <br/>after his presentation.
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this: [#2024-01-18-unlogged-replay-prod-traffic-locally-shardul](https://discord.gg/JFCrw3kw)
+Join this room: [#2024-03-07-apache-apisix](https://discord.gg/NGfj9quAyp)
 
 --section--
 ##Community Info
@@ -67,17 +62,14 @@ Join this: [#2024-01-18-unlogged-replay-prod-traffic-locally-shardul](https://di
 (https://conferences.codemotion.com/madrid2024/en/home/)
 <br/><br/>
 Discount Code (exclusive for CJUG until May 19):   **PARTNER_CHI**
-<br/><br/>
-Call for Proposals (open until February 8, 4:59pm-CST): (https://sessionize.com/codemotion-madrid-2024/)
-
 
 --section--
 ## Upcoming Event(s)
+* March 27 - [ChatGPT "RAG" hands-on w/ Spring Boot, React, Langchain4J by Marcus Hellberg](https://www.meetup.com/chicagojug/events/299430920/)
 <br/><br/>
-* February - Planning in progress (potentially with GOTO-CHICAGO)
+* Other confirmed speakers include: <br/>Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
-* Other confirmed speakers include: <br/>David Giard (Chicago Local/Microsoft), <br/>Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Markus Hellberg (Vaadin)
-<br/><br/>
+* April - May not have any meetup (depending on volunteer's availability)
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
@@ -92,4 +84,8 @@ Call for Proposals (open until February 8, 4:59pm-CST): (https://sessionize.com/
  https://www.linkedin.com/groups/4691739/
 
 <img src="images/cjug-linkedinGroup-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+### Feel free to share your story with the community today!
+####Job seekers? Recruiters? Seeking for project collaborators? 
+
 
