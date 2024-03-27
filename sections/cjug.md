@@ -1,11 +1,13 @@
 ## Chicago Java Users Group
 ---
 
-### March 07, 2024
+### March 27, 2024
 <br/>
-### Evolving your APIs, A Pragmatic Approach
+## Retrieval-Augmented Generation (RAG) 
+###with 
+## Spring Boot, React, and LangChain4J
 <br/>
-### by Nicolas Frankel
+### by Marcus Hellberg
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -16,7 +18,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3T3Y6N](https://bit.ly/3T3YY6N)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3VBQ970](https://bit.ly/3VBQ970)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -43,7 +45,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-03-07-apache-apisix](https://discord.gg/NGfj9quAyp)
+Join this room: [#2024-03-27-genai-rag-springboot-react-langchain4j](https://discord.gg/6fBTBnVZz7)
 
 --section--
 ##Community Info
@@ -57,19 +59,31 @@ Join this room: [#2024-03-07-apache-apisix](https://discord.gg/NGfj9quAyp)
 * CodeMotion (https://www.codemotion.com/)
 
 --section--
-## Codemotion Madrid 2024 - Discount Code and CFP is Open
+## JCON Europe 2024 - May 13 through 16
+<br/>
+(https://2024.europe.jcon.one/)
+<br/><br/>
+FREE ADMISSIONS for JUG MEMBERS 
+<br/>
+### https://bit.ly/43t6Y5W
+
+--section--
+## Codemotion Madrid 2024 - May 21 & 22
+### Discount Code
 <br/>
 (https://conferences.codemotion.com/madrid2024/en/home/)
 <br/><br/>
-Discount Code (exclusive for CJUG until May 19):   **PARTNER_CHI**
+### Exclusive for CJUG until May 19:  
+<br/>
+**PARTNER_CHI**
 
 --section--
 ## Upcoming Event(s)
-* March 27 - [ChatGPT "RAG" hands-on w/ Spring Boot, React, Langchain4J by Marcus Hellberg](https://www.meetup.com/chicagojug/events/299430920/)
+* April 17 - TBD 
+* May (3rd or 4th week) - TBD
 <br/><br/>
 * Other confirmed speakers include: <br/>Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
-* April - May not have any meetup (depending on volunteer's availability)
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--

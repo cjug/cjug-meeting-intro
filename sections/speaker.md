@@ -1,10 +1,10 @@
 ## Our Speaker for today
 
-### Nicolas Frankel [@nicolas_frankel](https://twitter.com/nicolas_frankel)
-- Developer Advocate for [@ApacheAPISIX](https://twitter.com/ApacheAPISIX)
-- Blogger at [blog.frankel.ch](https://blog.frankel.ch)
-- Consultant at [@GarmSol](https://twitter.com/GarmSol)
-- Author of [leanpub.com/integrationtest](https://leanpub.com/integrationtest)
+### Marcus Hellberg [@marcushellberg](https://twitter.com/marcushellberg)
+- VP of Developer Relations at [@vaadin](https://vaadin.com)
+- Personal website at [https://marcushellberg.dev/](https://marcushellberg.dev/)
+- Specializing in modern web technologies, Java, developer relations
+- Originally from Finland. Now residing in the SF Bay Area.
 
 
 
