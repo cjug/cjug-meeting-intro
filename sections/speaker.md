@@ -1,10 +1,9 @@
-## Our Speaker for today
+## Our Speaker today - from Oregon!
 
-### Marcus Hellberg [@marcushellberg](https://twitter.com/marcushellberg)
-- VP of Developer Relations at [@vaadin](https://vaadin.com)
-- Personal website at [https://marcushellberg.dev/](https://marcushellberg.dev/)
-- Specializing in modern web technologies, Java, developer relations
-- Originally from Finland. Now residing in the SF Bay Area.
+### Sean Sullivan [@tinyrobots](https://twitter.com/tinyrobots)
+- Software Engineer with very deep experience in building Java applications - over 20 years!
+- Previously leading platform teams at different major companies, including Twilio, Netflix
+- JUG Leader, co-organizer of the Portland Java Users Group
 
 
 
