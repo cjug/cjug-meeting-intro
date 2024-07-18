@@ -1,17 +1,11 @@
+## Today's Sponsor !!!
+<img src="images/callibrity.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
+--section--
 ## Past Sponsor 
 ### (Gold 2021, 2022, Silver 2023)
 ## THANK YOU again to [JFrog](https://www.jfrog.com) 
 <img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
---section--
-## Past Sponsor 
-### (Silver 2023)
-## THANK YOU [FusionAuth](https://fusionauth.io/?utm_medium=paid_referral&utm_source=chicago_jug&utm_campaign=meetup)
-<img src="images/FusionAuth.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-
---section--
-## Soon-to-be-NEW GOLD Sponsor !!!
-<img src="images/adyen.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 # Friends of CJUG

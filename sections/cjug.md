@@ -1,11 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### June 20, 2024
-<br/>
-## To Java 23 and Beyond!
-###by
-## Billy Korando
+### July 18, 2024
+## Fruit of the Loom: Exploring Project Loom and Virtual Threads
+###with
+## James Carman
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -16,7 +15,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3REjScF](https://bit.ly/3REjScF)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3y74iQf](https://bit.ly/3y74iQf)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -43,7 +42,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-06-20-java23](https://discord.gg/ZakZzSnH4R)
+Join this room: [#2024-07-18-projectloom-virtualthreads](https://discord.gg/vAq5fMUs)
 
 --section--
 ##Community Info
@@ -53,7 +52,6 @@ Join this room: [#2024-06-20-java23](https://discord.gg/ZakZzSnH4R)
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
 * WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
-* CodeMotion (https://www.codemotion.com/)
 
 --section--
 ## dev2next conference - by the living legend Venkat Subramaniam
@@ -67,9 +65,11 @@ https://www.dev2next.com/
 
 --section--
 ## Upcoming Event(s)
-* July 18 - James Carman (CTO from Callibrity, Apache PMC for multiple projects - Camel, Commons)
+* August and September:  TBD (maybe a Lightning Talks Evening?)
+* October: Venkat !!
+* GOTO Chicago - October - Stay tuned!!
 <br/><br/>
-* Other confirmed speakers include: <br/>Venkat Subramaniam (Agile Developer), Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
+* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
 * Full-length Un-Meetup (let us know if you're interested)
 
