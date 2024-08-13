@@ -52,6 +52,15 @@ Join this room: [#2024-08-13-lightning-talks](https://discord.gg/7mDFQyCEms)
 * WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
 
 --section--
+## Windy City DevFest 2024
+<img src="images/WindyCityDevFest.jpeg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+August 28 -- 9am-4pm CT @ Google Chicago
+https://windycitydevfest24.eventbrite.com/
+<p>
+Call for Proposals (until August 16)
+https://www.papercall.io/windy-city-devfest-2024
+</p>
+--section--
 ## dev2next conference - by the living legend Venkat Subramaniam
 <br/> 
 September 30 - October 3
