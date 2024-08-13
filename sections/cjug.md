@@ -1,10 +1,8 @@
 ## Chicago Java Users Group
 ---
 
-### July 18, 2024
-## Fruit of the Loom: Exploring Project Loom and Virtual Threads
-###with
-## James Carman
+### August 13, 2024
+## August Lightning Talks
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -15,7 +13,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3y74iQf](https://bit.ly/3y74iQf)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3AfyE3F](https://bit.ly/3AfyE3F)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -42,7 +40,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-07-18-projectloom-virtualthreads](https://discord.gg/vAq5fMUs)
+Join this room: [#2024-08-13-lightning-talks](https://discord.gg/7mDFQyCEms)
 
 --section--
 ##Community Info
@@ -65,9 +63,10 @@ https://www.dev2next.com/
 
 --section--
 ## Upcoming Event(s)
-* August and September:  TBD (maybe a Lightning Talks Evening?)
+* September: Our very own Bob Paulin!
 * October: Venkat !!
-* GOTO Chicago - October - Stay tuned!!
+* GOTO Chicago - October - Stay tuned!
+* November 19: Jennifer Reif (from Neo4j)
 <br/><br/>
 * Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>

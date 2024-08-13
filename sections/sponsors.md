@@ -1,11 +1,9 @@
-## Today's Sponsor !!!
-<img src="images/callibrity.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+# Our NEW Gold Sponsor
+<img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-## Past Sponsor 
-### (Gold 2021, 2022, Silver 2023)
-## THANK YOU again to [JFrog](https://www.jfrog.com) 
-<img src="images/jfrog.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Neo4j Community Contest - Monthly Raffle!
+<img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 # Friends of CJUG
