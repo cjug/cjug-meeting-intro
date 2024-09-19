@@ -1,8 +1,9 @@
 ## Chicago Java Users Group
 ---
 
-### August 13, 2024
-## August Lightning Talks
+### September 19, 2024
+## Polyglot Pipelines with Apache Nifi
+## by Bob Paulin
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -13,7 +14,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3AfyE3F](https://bit.ly/3AfyE3F)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4eMYnzJ](https://bit.ly/4eMYnzJ)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -40,7 +41,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-08-13-lightning-talks](https://discord.gg/7mDFQyCEms)
+Join this room: [#2024-09-19-polyglot-pipelines-apache-nifi](https://discord.gg/D9xyJMPwNW)
 
 --section--
 ##Community Info
@@ -49,17 +50,7 @@ Join this room: [#2024-08-13-lightning-talks](https://discord.gg/7mDFQyCEms)
 
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
-* WeAreDevelopers (https://www.wearedevelopers.com/world-congress)
 
---section--
-## Windy City DevFest 2024
-<img src="images/WindyCityDevFest.jpeg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-August 28 -- 9am-4pm CT @ Google Chicago
-https://windycitydevfest24.eventbrite.com/
-<p>
-Call for Proposals (until August 16)
-https://www.papercall.io/windy-city-devfest-2024
-</p>
 --section--
 ## dev2next conference - by the living legend Venkat Subramaniam
 <br/> 
@@ -72,10 +63,9 @@ https://www.dev2next.com/
 
 --section--
 ## Upcoming Event(s)
-* September: Our very own Bob Paulin!
-* October: Venkat !!
-* GOTO Chicago - October - Stay tuned!
-* November 19: Jennifer Reif (from Neo4j)
+* October 21: Venkat Subramaniam !!
+* October 21-23 - GOTO Chicago !!
+* November 19: Jennifer Reif (from Neo4j) !!
 <br/><br/>
 * Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
