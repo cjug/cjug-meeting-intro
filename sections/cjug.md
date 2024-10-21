@@ -1,9 +1,10 @@
 ## Chicago Java Users Group
 ---
 
-### September 19, 2024
-## Polyglot Pipelines with Apache Nifi
-## by Bob Paulin
+### October 21, 2024
+<br/>
+### Scaling Up with Virtual Threads in Java
+### by Dr. Venkat Subramaniam
 <div style="background-color: white; margin-top: 30px;">
 	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
 </div>
@@ -14,7 +15,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4eMYnzJ](https://bit.ly/4eMYnzJ)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3UhvFis](https://bit.ly/3UhvFis)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -41,7 +42,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-09-19-polyglot-pipelines-apache-nifi](https://discord.gg/D9xyJMPwNW)
+Join this room: [#2024-10-21-scalingvirtualthreads-venkat](https://discord.gg/N58VSkRkMm)
 
 --section--
 ##Community Info
@@ -51,21 +52,16 @@ Join this room: [#2024-09-19-polyglot-pipelines-apache-nifi](https://discord.gg/
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
 
+
 --section--
-## dev2next conference - by the living legend Venkat Subramaniam
-<br/> 
-September 30 - October 3
-<br/>
-https://www.dev2next.com/
+##A 24-Hour Free Virtual Developer Conference by Neo4j
+Join us on November 7
 <br/><br/>
-<img src="images/Dev2next2024-Venkat-QR.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
-<br/>
+[NODES24]( https://neo4j.com/nodes2024/agenda/#americas)
 
 --section--
 ## Upcoming Event(s)
-* October 21: Venkat Subramaniam !!
-* October 21-23 - GOTO Chicago !!
-* November 19: Jennifer Reif (from Neo4j) !!
+* November 19: Jennifer Reif (Neo4j) and a short talk by Dmitry Chuyko(BellSoft)
 <br/><br/>
 * Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
