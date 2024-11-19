@@ -1,12 +1,12 @@
-## Chicago Java Users Group
+#### Chicago Java Users Group & Chicago Kotlin Users Group
+
 ---
 
-### October 21, 2024
-<br/>
-### Scaling Up with Virtual Threads in Java
-### by Dr. Venkat Subramaniam
-<div style="background-color: white; margin-top: 30px;">
-	<img src="images/cjug.gif" style="border: none; box-shadow: none;"/>
+###### November 19, 2024
+### An Evening of 2 Talks: Jennifer Reif & Dmitry Chuyko
+<div style="background-color: white; margin-top: 50px;">
+	<img src="images/cjug.gif" style="border: 50px; box-shadow:none; margin:10px"/>
+	<img src="images/ckug.jpg" style="border: 50px; box-shadow:none; margin:10px"/>
 </div>
 
 
@@ -15,7 +15,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3UhvFis](https://bit.ly/3UhvFis)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4fYjPSR](https://bit.ly/4fYjPSR)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -42,7 +42,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-10-21-scalingvirtualthreads-venkat](https://discord.gg/N58VSkRkMm)
+Join this room: [#2024-11-19-2talks-neo4j-bellsoft](https://discord.gg/JtxWUJQyFp)
 
 --section--
 ##Community Info
@@ -52,23 +52,28 @@ Join this room: [#2024-10-21-scalingvirtualthreads-venkat](https://discord.gg/N5
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
 
-
---section--
-##A 24-Hour Free Virtual Developer Conference by Neo4j
-Join us on November 7
-<br/><br/>
-[NODES24]( https://neo4j.com/nodes2024/agenda/#americas)
-
 --section--
 ## Upcoming Event(s)
-* November 19: Jennifer Reif (Neo4j) and a short talk by Dmitry Chuyko(BellSoft)
+* Dec/Jan 2025: CKUG Workshop by Amanda Hinchman (celebration of her new book)
+* 2024 Holiday (or New Year) Celebration Party!!
 <br/><br/>
 * Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-## Interested in speaking at CJUG? 
+### ArchConf 2024 (Dec 9-12 in Clearwater, FL)
+
+<br/>North America's Premier Software Architecture Conference
+##### brought to you by the people of No Fluff Just Stuff
+<br/>
+For details, please visit [https://archconf.com](https://archconf.com)
+<br/>
+#### Special JUG Savings ($350 discount):
+## Use promo code: *arch24jug35*
+
+--section--
+## Interested in speaking at CJUG?
 <br/>Submit your proposals to: **present@cjug.org**<br/>
 
 --section--

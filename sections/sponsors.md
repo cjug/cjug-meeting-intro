@@ -6,9 +6,10 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-## Our Venue Host - Microsoft
-###Thank You to David Giard, Azure Cloud Architect
-<img src="images/microsoft-standard.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Our Venue Host - Illinois Institute of Technology
+## Thank You Nitin 
+###(Student Leader of the IIT Machine Learning Club)
+<img src="images/IIT.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 # Friends of CJUG
@@ -19,3 +20,4 @@
 ####  [Kansas City JUG (Missouri)](https://meetup.com/KansasCityJUG)
 ####  [NY Java SIG (New York City)](https://javasig.com)
 ####  [Pittsburgh JUG (Pennsylvania)](https://meetup.com/The-Pittsburgh-Java-Meetup-Group)
+####  [Portland Java User Group (Oregon)](https://www.meetup.com/pdxjug/)

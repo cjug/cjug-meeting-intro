@@ -1,14 +1,26 @@
-### Speaker for today: The Living Legend!!
+### Speaker from Neo4j
 
-## Dr. Venkat Subramaniam [@venkat_s](https://x.com/venkat_s)
-- One of the World's Best Living Legends in Software Computing!!
-- He inspires developers from all corners of the world (US, Asia, Europe...)
-- A highly sought-after speaker and trainer in both academic and business worlds
-- A true Polyglot Programmer with deep expertise in many languages
-- An award-winning author and co-author of multiple publications and books
-- Contagious and Passion for Software Development
-- Founder of Agile Developer, Inc.
-- An Instructional Professor at the University of Houston
+## Jennifer Reif [@JMHReif](https://x.com/JMHReif)
+- Developer Advocate / Developer Relations Engineer at [Neo4j](https://neo4j.com)
+- International conference speaker, blogger
+- An avid developer and problem solver
+- Holds a Master's degree in Computer Management and Information Systems
+- Has worked with large enterprises to organize and make sense of widespread data assets
+- Expertise in a variety of commercial and open source tools
+- Enjoys learning new technologies on a daily basis!
+- Passion in finding ways to organize chaos and deliver software more efficiently.
+
+--section--
+### Speaker from BellSoft
+
+## Dmitry Chuko [@dchuyko](https://x.com/dchuyko)
+- Senior Performance Architect at [BellSoft](https://bell-sw.com)
+- An OpenJDK committer
+- An international speaker
+- Many years of programming experience in Java, including the Hotspot JVM at Oracle
+- Current focus is on optimizing HotSpot for x86 and ARM
+- Involved with rolling out JEP 386 (creation of the smallest JDK containers)
+
 
 
 
