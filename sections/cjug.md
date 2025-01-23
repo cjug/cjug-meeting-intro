@@ -1,12 +1,12 @@
-#### Chicago Java Users Group & Chicago Kotlin Users Group
+#### Chicago Java Users Group
 
 ---
 
-###### November 19, 2024
-### An Evening of 2 Talks: Jennifer Reif & Dmitry Chuyko
+#### January 23, 2025
+### Upgrading Sucks: Identifying Breaking Changes with Program Analysis
+### by Darren Meyer from Endor Labs
 <div style="background-color: white; margin-top: 50px;">
 	<img src="images/cjug.gif" style="border: 50px; box-shadow:none; margin:10px"/>
-	<img src="images/ckug.jpg" style="border: 50px; box-shadow:none; margin:10px"/>
 </div>
 
 
@@ -15,7 +15,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4fYjPSR](https://bit.ly/4fYjPSR)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3Wu4mTb](https://bit.ly/3Wu4mTb)
 ####NOTE: You are ineligible to participate
 ####if you won a license within the last 9 months!
 
@@ -42,7 +42,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2024-11-19-2talks-neo4j-bellsoft](https://discord.gg/JtxWUJQyFp)
+Join this room: [#2025-01-23-upgrading-program-analysis-endorlabs](https://discord.gg/yrcAT4Nnrw)
 
 --section--
 ##Community Info
@@ -54,23 +54,27 @@ Join this room: [#2024-11-19-2talks-neo4j-bellsoft](https://discord.gg/JtxWUJQyF
 
 --section--
 ## Upcoming Event(s)
-* Dec/Jan 2025: CKUG Workshop by Amanda Hinchman (celebration of her new book)
-* 2024 Holiday (or New Year) Celebration Party!!
+* Jan 30: CKUG Workshop by Amanda Hinchman (celebration of her new book)
+* February: [No Fluff Just Stuff Great Lakes Symposium](https://nofluffjuststuff.com/chicago) (a speaker from there!)
+* March: Potentially one or both: Alina (GraalVM), Pasha (BellSoft)
 <br/><br/>
-* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
+* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul),Temporal
 <br/><br/>
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-### ArchConf 2024 (Dec 9-12 in Clearwater, FL)
+### Great Lakes Symposium (May 16-17 - Chicago)
 
-<br/>North America's Premier Software Architecture Conference
-##### brought to you by the people of No Fluff Just Stuff
+<br/>The Very Popular No Fluff Just Stuff Developer Conference!
 <br/>
-For details, please visit [https://archconf.com](https://archconf.com)
+For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluffjuststuff.com/chicago)
 <br/>
-#### Special JUG Savings ($350 discount):
-## Use promo code: *arch24jug35*
+<br/>
+##### Special Perks:
+* Super Early Bird Pricing: Register by February 14th for just $1025/person!
+* $100 Chicago JUG Discount: Use promo code ---- *jug1nfjs25*
+* Group Discounts Available: Bring your team and maximize the experience!
+
 
 --section--
 ## Interested in speaking at CJUG?

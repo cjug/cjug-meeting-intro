@@ -6,10 +6,10 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Venue Host - Illinois Institute of Technology
-## Thank You Nitin 
-###(Student Leader of the IIT Machine Learning Club)
-<img src="images/IIT.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Our Venue Host - Microsoft (Chicago) 
+## Thank You David Giard!
+###(Partner Cloud Solutioins Architect at Microsoft)
+<img src="images/microsoft-standard.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
 # Friends of CJUG
