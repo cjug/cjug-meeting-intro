@@ -11,16 +11,21 @@
 </div>
 
 --section--
-## vJUG Connect - Connecting with our Java Friends around the world!
-
-* A new program by the [Virtual Java Users Group](https://www.meetup.com/virtualjug/) for the Global Java Community!!
+# vJUG Connect 
+#### **A Warm Welcome to our Java Friends from around the world**
 <br/>
-* TODAY's Meetup is being simulcast to the vJUG Youtube Channel: https://www.youtube.com/live/h8HqxQcnaHY
+- A new program by the [Virtual Java Users Group](https://www.meetup.com/virtualjug/) 
+<br/><br/> - For the Global Java Community
+<br/><br/>
+- TODAY's Meetup is being simulcast to the vJUG Channel
+<br/>https://www.youtube.com/live/h8HqxQcnaHY
+<br/><br/> 
+Thanks to Sam and Kim !!
 
 --section--
 ## Today's Raffles
 ##### 2 JetBrains licenses 
-##### 1 Free Admission to No Fluff Just Stuff - Great Lakes Software Symposium
+###### 1 Free Admission to No Fluff Just Stuff - Great Lakes Symposium (in-person only)
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
@@ -64,19 +69,28 @@ Join this room: [#2025-02-27-java-design-patterns-revisited-functional-lens](htt
 
 --section--
 ## Upcoming Event(s)
-* March 12:  Pratik Patel (Azul), also a special guest Mo Haghighi (DiscoverFS)
+
+* March 12:  Pratik Patel (Azul), plus a special guest Mo Haghighi (DiscoverFS - recently moved to Chicago from London)
 * April: Jerason Banes (Invirgance) 
 * May 13: Speaker from Temporal
 * June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals
 <br/><br/>
-* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
+#### Other confirmed speakers include: 
+- Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
 <br/><br/>
-* Full-length Un-Meetup (let us know if you're interested)
+#### Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-### Great Lakes Software Symposium (May 16-17 - Chicago)
+### JavaOne 2025 (March 18-20 - Redwood Shores, CA)
 
-<br/>The Very Popular No Fluff Just Stuff Developer Conference!
+* https://javaone.com
+* JUG Member Discount ($100 off, not including Public Sector Tickets) ---- *J1D100_SM*
+
+--section--
+### Great Lakes Software Symposium 
+#### (May 16-17 - Chicago)
+
+<br/>Brought to us by No Fluff Just Stuff
 <br/>
 For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluffjuststuff.com/chicago)
 <br/>
