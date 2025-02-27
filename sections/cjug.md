@@ -1,22 +1,31 @@
-#### Chicago Java Users Group
-
+#### Chicago Java Users Group -and- Chicago Kotlin Users Group
 ---
-
-#### January 23, 2025
-### Upgrading Sucks: Identifying Breaking Changes with Program Analysis
-### by Darren Meyer from Endor Labs
-<div style="background-color: white; margin-top: 50px;">
-	<img src="images/cjug.gif" style="border: 50px; box-shadow:none; margin:10px"/>
+##### February 27, 2025
+#### Java Design Patterns Revisited through a Functional Lens
+#### by Daniel Hinojosa
+<div style="background-color: white; margin-top: 10px;">
+	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
+</div>
+<div style="background-color: white; margin-top: 10px;">
+	<img src="images/ckug.jpeg" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
 
+--section--
+## vJUG Connect - Connecting with our Java Friends around the world!
+
+* A new program by the [Virtual Java Users Group](https://www.meetup.com/virtualjug/) for the Global Java Community!!
+<br/>
+* TODAY's Meetup is being simulcast to the vJUG Youtube Channel: https://www.youtube.com/live/h8HqxQcnaHY
 
 --section--
-### Today's Raffles: 2 JetBrains licenses
+## Today's Raffles
+##### 2 JetBrains licenses 
+##### 1 Free Admission to No Fluff Just Stuff - Great Lakes Software Symposium
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3Wu4mTb](https://bit.ly/3Wu4mTb)
-####NOTE: You are ineligible to participate
+##### Submit your info here to enter into the drawings: [https://bit.ly/3EU0i8F](https://bit.ly/3EU0i8F)
+####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
 --section--
@@ -42,28 +51,30 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-01-23-upgrading-program-analysis-endorlabs](https://discord.gg/yrcAT4Nnrw)
+Join this room: [#2025-02-27-java-design-patterns-revisited-functional-lens](https://discord.gg/fK97xBtg9v)
 
 --section--
 ##Community Info
 <br/>
 #### CJUG is a Community Partner of the following groups/conference organizations:
 
+* JCON (https://2025.europe.jcon.one/) - Celebrating JCON 10th and Java 30th !!
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
 ## Upcoming Event(s)
-* Jan 30: CKUG Workshop by Amanda Hinchman (celebration of her new book)
-* February: [No Fluff Just Stuff Great Lakes Symposium](https://nofluffjuststuff.com/chicago) (a speaker from there!)
-* March: Potentially one or both: Alina (GraalVM), Pasha (BellSoft)
+* March 12:  Pratik Patel (Azul), also a special guest Mo Haghighi (DiscoverFS)
+* April: Jerason Banes (Invirgance) 
+* May 13: Speaker from Temporal
+* June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals
 <br/><br/>
-* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul),Temporal
+* Other confirmed speakers include: <br/>Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
 <br/><br/>
 * Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-### Great Lakes Symposium (May 16-17 - Chicago)
+### Great Lakes Software Symposium (May 16-17 - Chicago)
 
 <br/>The Very Popular No Fluff Just Stuff Developer Conference!
 <br/>
@@ -71,9 +82,9 @@ For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluff
 <br/>
 <br/>
 ##### Special Perks:
-* Super Early Bird Pricing: Register by February 14th for just $1025/person!
 * $100 Chicago JUG Discount: Use promo code ---- *jug1nfjs25*
 * Group Discounts Available: Bring your team and maximize the experience!
+* Today's Special Raffle (in-person only):  1 Free Ticket to GLSS
 
 
 --section--
