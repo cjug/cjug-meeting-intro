@@ -1,8 +1,8 @@
 #### Chicago Java Users Group -and- Chicago Kotlin Users Group
 ---
-##### February 27, 2025
-#### Java Design Patterns Revisited through a Functional Lens
-#### by Daniel Hinojosa
+##### March 13, 2025
+#### Architect's Guide to Managing A Code Base
+#### by Pratik Patel
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
@@ -11,25 +11,13 @@
 </div>
 
 --section--
-# vJUG Connect 
-#### **A Warm Welcome to our Java Friends from around the world**
-<br/>
-- A new program by the [Virtual Java Users Group](https://www.meetup.com/virtualjug/) 
-<br/><br/> - For the Global Java Community
-<br/><br/>
-- TODAY's Meetup is being simulcast to the vJUG Channel
-<br/>https://www.youtube.com/live/h8HqxQcnaHY
-<br/><br/> 
-Thanks to Sam and Kim !!
-
---section--
 ## Today's Raffles
-##### 2 JetBrains licenses 
-###### 1 Free Admission to No Fluff Just Stuff - Great Lakes Symposium (in-person only)
+##### 1 JetBrains license and 
+###### 1 Free Admission to No Fluff Just Stuff - Great Lakes Symposium (in-person only*)
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3EU0i8F](https://bit.ly/3EU0i8F)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4bSn7WH](https://bit.ly/4bSn7WH)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -56,7 +44,7 @@ Thanks to Sam and Kim !!
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-02-27-java-design-patterns-revisited-functional-lens](https://discord.gg/fK97xBtg9v)
+Join this room: [#2025-03-13-architects-guide-codebase](https://discord.gg/QkNjKX9ed2)
 
 --section--
 ##Community Info
@@ -70,9 +58,9 @@ Join this room: [#2025-02-27-java-design-patterns-revisited-functional-lens](htt
 --section--
 ## Upcoming Event(s)
 
-* March 12:  Pratik Patel (Azul), plus a special guest Mo Haghighi (DiscoverFS - recently moved to Chicago from London)
-* April: Jerason Banes (Invirgance) 
-* May 13: Speaker from Temporal
+* [March 19 - Pasha Finkelshteyn (BellSoft)](https://meetup.com/chicagojug/events/306529558)
+* April 10: Jerason Banes (Invirgance) (at U-Chicago Gleacher Center)
+* May 13: Speaker from Temporal (at Improving)
 * June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals
 <br/><br/>
 #### Other confirmed speakers include: 
@@ -87,12 +75,26 @@ Join this room: [#2025-02-27-java-design-patterns-revisited-functional-lens](htt
 * JUG Member Discount ($100 off, not including Public Sector Tickets) ---- *J1D100_SM*
 
 --section--
+### Arc of AI Conference
+#### (March 31-April 3, Austin TX )
+
+<br/> A *brand new* AI-focused developer conference 
+<br/> * by the legendary Dr. Venkat Subramaniam
+<br/> * For registration details, please visit [https://arcofai.com/register](https://arcofai.com/register)
+<br/>
+<br/>
+#### Special Perks:
+* $50 JUG Discount: Use promo code ---- *CHICAGO-JUG*
+* RAFFLE: Get a chance to win a free admission ticket
+  - Please sign up here:  [https://arcofai.com/raffle/2](https://arcofai.com/raffle/2)
+
+--section--
 ### Great Lakes Software Symposium 
 #### (May 16-17 - Chicago)
 
 <br/>Brought to us by No Fluff Just Stuff
 <br/>
-For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluffjuststuff.com/chicago)
+<br/>For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluffjuststuff.com/chicago)
 <br/>
 <br/>
 ##### Special Perks:
@@ -104,6 +106,8 @@ For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluff
 --section--
 ## Interested in speaking at CJUG?
 <br/>Submit your proposals to: **present@cjug.org**<br/>
+
+<br/> Send us your lightning talk proposals (June 2025)!!
 
 --section--
 
