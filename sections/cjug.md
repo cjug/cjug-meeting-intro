@@ -1,23 +1,19 @@
-#### Chicago Java Users Group -and- Chicago Kotlin Users Group
+### Chicago Java Users Group
 ---
-##### March 13, 2025
-#### Architect's Guide to Managing A Code Base
-#### by Pratik Patel
+#### March 19, 2025
+#### Crafting the Ultimate Docker Image for Spring Applications
+### by Pasha Finkelshteyn
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
-<div style="background-color: white; margin-top: 10px;">
-	<img src="images/ckug.jpeg" style="border: 20px; box-shadow:none; margin:5px"/>
-</div>
 
 --section--
-## Today's Raffles
-##### 1 JetBrains license and 
-###### 1 Free Admission to No Fluff Just Stuff - Great Lakes Symposium (in-person only*)
+## Today's Raffle
+##### 1 JetBrains license
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4bSn7WH](https://bit.ly/4bSn7WH)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4hlW3Ay](https://bit.ly/4hlW3Ay)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -44,7 +40,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-03-13-architects-guide-codebase](https://discord.gg/QkNjKX9ed2)
+Join this room: [#2025-03-19-docker-spring](https://discord.gg/cb3wsz3FSh)
 
 --section--
 ##Community Info
@@ -58,8 +54,7 @@ Join this room: [#2025-03-13-architects-guide-codebase](https://discord.gg/QkNjK
 --section--
 ## Upcoming Event(s)
 
-* [March 19 - Pasha Finkelshteyn (BellSoft)](https://meetup.com/chicagojug/events/306529558)
-* April 10: Jerason Banes (Invirgance) (at U-Chicago Gleacher Center)
+* *April 10: Jerason Banes (Invirgance) (at U-Chicago Gleacher Center)*
 * May 13: Speaker from Temporal (at Improving)
 * June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals
 <br/><br/>

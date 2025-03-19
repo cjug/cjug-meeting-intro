@@ -1,15 +1,11 @@
-### Our Special Speaker today
+### Our Special Speaker today - from Berlin
 
-## Pratik Patel [@prpatel](https://linkedin.com/in/prpatel)
-- VP of Developer Advocacy at [Azul](https://azul.com)
-- Leads teams, build products and software, as well as startup companies
-- A deeply experienced developer, lead architect, lead developer advocate, and CTO
-- Author of several books on Java and software development
-- Java Champion, and among a select group of recognized Java technologists
-- Active Java and general tech community leader
-- Current President of the Atlanta JUG, also leads the JS and WebDev meetup groups in ATL
-- Started and organizes the JUG Leader Summit since 2020, Organizer of Devnexus and other confs
-
+## Pasha Finkelshteyn [@asm0dey](https://www.linkedin.com/in/asm0dey/)
+- Deeply hands-on and very experienced Developer Advocate - Liberica at [BellSoft](https://bell-sw.com)
+- Previously at JetBrains as a developer and then developer advocate - from Russia to Germany
+- Data engineering and polyglot developer - JVM languages (Java, Kotlin, Clojure...), JS/TS, Python...
+- Experienced developer and Team Lead at various companies in Moscow, Russia
+- Presented at DevOpsDays-Chicago earlier this week!
 
 
 

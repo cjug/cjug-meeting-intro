@@ -6,10 +6,11 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Venue and Refreshment Host - GrubHub 
-## Thank You John Burns!
-#### Sr. Staff Engineer, CKUG Organizer and CJUG Partner
-<img src="images/grubhub.jpeg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Our Venue Host - Microsoft
+#### Thank You David Giard (booking the room!)
+#### Thank You Craig Jahnke (hosting us!)
+<img src="images/microsoft-standard.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+
 
 --section--
 # Friends of CJUG
