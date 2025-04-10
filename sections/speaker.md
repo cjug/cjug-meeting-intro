@@ -1,11 +1,11 @@
-### Our Special Speaker today - from Berlin
+### Our Special Speaker: Chicago's Very Own
 
-## Pasha Finkelshteyn [@asm0dey](https://www.linkedin.com/in/asm0dey/)
-- Deeply hands-on and very experienced Developer Advocate - Liberica at [BellSoft](https://bell-sw.com)
-- Previously at JetBrains as a developer and then developer advocate - from Russia to Germany
-- Data engineering and polyglot developer - JVM languages (Java, Kotlin, Clojure...), JS/TS, Python...
-- Experienced developer and Team Lead at various companies in Moscow, Russia
-- Presented at DevOpsDays-Chicago earlier this week!
+## Jerason Banes [@ClassicGamerTWR](https://x.com/ClassicGamerTWR/)
+- Founder of [Invirgance](https://www.invirgance.com), a startup company based in the Chicago area
+- Invirgance is releasing new tools into the market to make the lives of developers and managers easier!
+- Jerason has been programming since 1988
+- Deep hands-on software engineering, organizational, and leadership experience 
+
 
 
 

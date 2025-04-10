@@ -6,10 +6,10 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Venue Host - Microsoft
-#### Thank You David Giard (booking the room!)
-#### Thank You Craig Jahnke (hosting us!)
-<img src="images/microsoft-standard.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Our Event Host: Invirgance
+#### Thank You Jerason Banes (venue and refreshments!)
+
+<img src="images/Invirgance.jpg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 
 --section--

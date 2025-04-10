@@ -1,19 +1,19 @@
 ### Chicago Java Users Group
 ---
-#### March 19, 2025
-#### Crafting the Ultimate Docker Image for Spring Applications
-### by Pasha Finkelshteyn
+#### April 10, 2025
+### Convirgance: A Revolution in Database Access
+## by Jareson Banes
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
 
 --section--
 ## Today's Raffle
-##### 1 JetBrains license
+##### 2 JetBrains license
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4hlW3Ay](https://bit.ly/4hlW3Ay)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3EiBGqe](https://bit.ly/3EiBGqe)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -40,7 +40,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-03-19-docker-spring](https://discord.gg/cb3wsz3FSh)
+Join this room: [#2025-04-10-invirgance-convirgance](https://discord.gg/b6vWrxBK)
 
 --section--
 ##Community Info
@@ -54,9 +54,11 @@ Join this room: [#2025-03-19-docker-spring](https://discord.gg/cb3wsz3FSh)
 --section--
 ## Upcoming Event(s)
 
-* *April 10: Jerason Banes (Invirgance) (at U-Chicago Gleacher Center)*
-* May 13: Speaker from Temporal (at Improving)
-* June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals
+* April 17: CKUG Workshop **Multiplatform using KMP and Compose Multiplatform**
+* May 13: Speaker from Temporal (Venue sponsored by Improving)
+* **June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals**
+* July (tentative): Michael Carducci (the Magician!)
+* September: Gerrit Grunwald from Azul
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
@@ -64,24 +66,11 @@ Join this room: [#2025-03-19-docker-spring](https://discord.gg/cb3wsz3FSh)
 #### Full-length Un-Meetup (let us know if you're interested)
 
 --section--
-### JavaOne 2025 (March 18-20 - Redwood Shores, CA)
+### Chicago Kotlin Users Group (CKUG)
+#### (Workshop on April 17 at IIT)
 
-* https://javaone.com
-* JUG Member Discount ($100 off, not including Public Sector Tickets) ---- *J1D100_SM*
-
---section--
-### Arc of AI Conference
-#### (March 31-April 3, Austin TX )
-
-<br/> A *brand new* AI-focused developer conference 
-<br/> * by the legendary Dr. Venkat Subramaniam
-<br/> * For registration details, please visit [https://arcofai.com/register](https://arcofai.com/register)
-<br/>
-<br/>
-#### Special Perks:
-* $50 JUG Discount: Use promo code ---- *CHICAGO-JUG*
-* RAFFLE: Get a chance to win a free admission ticket
-  - Please sign up here:  [https://arcofai.com/raffle/2](https://arcofai.com/raffle/2)
+https://www.meetup.com/chicago-kotlin/events/306354846
+- by Kartik Prakash
 
 --section--
 ### Great Lakes Software Symposium 
@@ -96,6 +85,12 @@ Join this room: [#2025-03-19-docker-spring](https://discord.gg/cb3wsz3FSh)
 * $100 Chicago JUG Discount: Use promo code ---- *jug1nfjs25*
 * Group Discounts Available: Bring your team and maximize the experience!
 * Today's Special Raffle (in-person only):  1 Free Ticket to GLSS
+
+--section--
+### JetBrains IntelliJ IDEA Conf 2025
+#### (June 3-4, Virtual and Free)
+
+* https://jb.gg/IntelliJIDEAConf2025-community
 
 
 --section--
