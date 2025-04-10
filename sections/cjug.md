@@ -2,7 +2,7 @@
 ---
 #### April 10, 2025
 ### Convirgance: A Revolution in Database Access
-## by Jareson Banes
+## by Jerason Banes
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
