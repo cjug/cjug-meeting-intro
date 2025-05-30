@@ -1,10 +1,9 @@
-### Our Special Speaker: Chicago's Very Own
+### Our Special Speaker
 
-## Jerason Banes [@ClassicGamerTWR](https://x.com/ClassicGamerTWR/)
-- Founder of [Invirgance](https://www.invirgance.com), a startup company based in the Chicago area
-- Invirgance is releasing new tools into the market to make the lives of developers and managers easier!
-- Jerason has been programming since 1988
-- Deep hands-on software engineering, organizational, and leadership experience 
+## Sean Sullivan [@tinyrobots.bsky.social](https://bsky.app/profile/tinyrobots.bsky.social)
+Sean Sullivan is a software engineer with more than 20 years of experience building Java applications. 
+Sean has worked on platform engineering projects at Grubhub, Twilio, and Netflix. 
+He is an active member of the Portland Java User Group in Portland Oregon.
 
 
 

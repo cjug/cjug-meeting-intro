@@ -1,8 +1,8 @@
 ### Chicago Java Users Group
 ---
-#### April 10, 2025
-### Convirgance: A Revolution in Database Access
-## by Jerason Banes
+#### June 4, 2025
+### Amazon S3
+## by Sean Sullivan
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
@@ -19,17 +19,27 @@
 
 --section--
 #Remember:
+ * Luma: [https://lu.ma/cjug](https://lu.ma/cjug)
  * Chicago Tech Slack (http://www.chicago-tech.slack.com/)
  * Current Java News! (http://www.javaoffheap.com)
  * Join us on Meetup.com (https://www.meetup.com/ChicagoJUG/)
 
 --section--
-#CHIRP!
+#Toot!
 <br/>
 
-<img src="images/twitterBird.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/mastodon.png" style="border:none; box-shadow:none; margin: 30px; background:white; height: 80px; width: 80px;"/>
 
-## Follow us on X: <u>[@cjug](https://twitter.com/cjug)</u>
+## Follow us on Mastodon/Fediverse/Threads:
+<br/>
+
+[@ChicagoJUG@foojay.social](https://foojay.social/deck/@ChicagoJUG)
+<br/>
+
+[@ChicagoKUG@foojay.social](https://foojay.social/deck/@ChicagoKUG)
+
+## Twitter/X:
+[@cjug](https://twitter.com/cjug)
 
 --section--
 ## CJUG Chat Channel on Discord 
@@ -40,7 +50,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-04-10-invirgance-convirgance](https://discord.gg/b6vWrxBK)
+Join this room: [#2025-06-04-amazon-s3](https://discord.gg/UqkCFuMX)
 
 --section--
 ##Community Info
@@ -54,9 +64,7 @@ Join this room: [#2025-04-10-invirgance-convirgance](https://discord.gg/b6vWrxBK
 --section--
 ## Upcoming Event(s)
 
-* April 17: CKUG Workshop **Multiplatform using KMP and Compose Multiplatform**
-* May 13: Speaker from Temporal (Venue sponsored by Improving)
-* **June: Lightning Talks - Inviting all CJUG and CKUG member to submit talk proposals**
+* June 11: Simple, Reliable Sagas in Java and Temporal by Peter Sullivan
 * July (tentative): Michael Carducci (the Magician!)
 * September: Gerrit Grunwald from Azul
 <br/><br/>
@@ -64,27 +72,6 @@ Join this room: [#2025-04-10-invirgance-convirgance](https://discord.gg/b6vWrxBK
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
 <br/><br/>
 #### Full-length Un-Meetup (let us know if you're interested)
-
---section--
-### Chicago Kotlin Users Group (CKUG)
-#### (Workshop on April 17 at IIT)
-
-https://www.meetup.com/chicago-kotlin/events/306354846
-- by Kartik Prakash
-
---section--
-### Great Lakes Software Symposium 
-#### (May 16-17 - Chicago)
-
-<br/>Brought to us by No Fluff Just Stuff
-<br/>
-<br/>For details, please visit [https://nofluffjuststuff.com/chicago](https://nofluffjuststuff.com/chicago)
-<br/>
-<br/>
-##### Special Perks:
-* $100 Chicago JUG Discount: Use promo code ---- *jug1nfjs25*
-* Group Discounts Available: Bring your team and maximize the experience!
-* Today's Special Raffle (in-person only):  1 Free Ticket to GLSS
 
 --section--
 ### JetBrains IntelliJ IDEA Conf 2025
