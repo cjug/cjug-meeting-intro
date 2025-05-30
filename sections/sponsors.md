@@ -6,10 +6,9 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Event Host: Invirgance
-#### Thank You Jerason Banes (venue and refreshments!)
+### Our Event Host: GrubHub
 
-<img src="images/Invirgance.jpg" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/grubhub.svg" style="border:none; box-shadow:none; margin: 30px"/>
 
 
 --section--
