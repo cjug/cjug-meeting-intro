@@ -13,7 +13,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3EiBGqe](https://bit.ly/3EiBGqe)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4kPRDUq](https://bit.ly/4kPRDUq)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -31,7 +31,6 @@
 <img src="images/mastodon.png" style="border:none; box-shadow:none; margin: 30px; background:white; height: 80px; width: 80px;"/>
 
 ## Follow us on Mastodon/Fediverse/Threads:
-<br/>
 
 [@ChicagoJUG@foojay.social](https://foojay.social/deck/@ChicagoJUG)
 <br/>
@@ -57,34 +56,27 @@ Join this room: [#2025-06-04-amazon-s3](https://discord.gg/UqkCFuMX)
 <br/>
 #### CJUG is a Community Partner of the following groups/conference organizations:
 
-* JCON (https://2025.europe.jcon.one/) - Celebrating JCON 10th and Java 30th !!
 * JetBrains (https://jetbrains.com/community)
 * DevITJobs.us (http://devitjobs.us/community)
 
 --section--
 ## Upcoming Event(s)
 
-* June 11: Simple, Reliable Sagas in Java and Temporal by Peter Sullivan
-* July (tentative): Michael Carducci (the Magician!)
+* June 11: Simple, Reliable Sagas in Java and Temporal by Peter Sullivan (https://lu.ma/3ucoh16v)
+* July (pending): Lightning Talks with optional practice session
+* August 18 or 20: Francois Martin (from Karakun in Switzerland)
 * September: Gerrit Grunwald from Azul
 <br/><br/>
 #### Other confirmed speakers include: 
-- Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle), Gerrit Grunwald (Azul)
+- Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
 #### Full-length Un-Meetup (let us know if you're interested)
-
---section--
-### JetBrains IntelliJ IDEA Conf 2025
-#### (June 3-4, Virtual and Free)
-
-* https://jb.gg/IntelliJIDEAConf2025-community
-
 
 --section--
 ## Interested in speaking at CJUG?
 <br/>Submit your proposals to: **present@cjug.org**<br/>
 
-<br/> Send us your lightning talk proposals (June 2025)!!
+<br/> Send us your lightning talk proposals (for July 2025)!!
 
 --section--
 
