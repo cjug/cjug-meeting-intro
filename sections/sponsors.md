@@ -6,9 +6,14 @@
 <img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Event Host: GrubHub
+### Our Venue Host: Improving
 
-<img src="images/grubhub.svg" style="border:none; box-shadow:none; margin: 30px"/>
+<img src="images/Improving.png" style="border:none; box-shadow:none; margin: 30px"/>
+
+--section--
+### Our Event Host: Temporal
+
+<img src="images/Temporal.png" style="border:none; box-shadow:none; margin: 30px"/>
 
 
 --section--

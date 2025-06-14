@@ -1,8 +1,8 @@
 ### Chicago Java Users Group
 ---
-#### June 4, 2025
-### Amazon S3
-## by Sean Sullivan
+#### June 11, 2025
+### Simple, Reliable Sagas in Java and Temporal
+### by Peter Sullivan
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
@@ -13,16 +13,16 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4kPRDUq](https://bit.ly/4kPRDUq)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3FSB7nR](https://bit.ly/3FSB7nR)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
 --section--
 #Remember:
- * Luma: [https://lu.ma/cjug](https://lu.ma/cjug)
+ * Please start using Luma: [https://lu.ma/cjug](https://lu.ma/cjug)
  * Chicago Tech Slack (http://www.chicago-tech.slack.com/)
  * Current Java News! (http://www.javaoffheap.com)
- * Join us on Meetup.com (https://www.meetup.com/ChicagoJUG/)
+ * (to be deprecated by end-of-year) meetup.com (https://www.meetup.com/ChicagoJUG/)
 
 --section--
 #Toot!
@@ -49,7 +49,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-06-04-amazon-s3](https://discord.gg/UqkCFuMX)
+Join this room: [#2025-06-11-sagas-temporal](https://discord.gg/zCpDKjbmYJ)
 
 --section--
 ##Community Info
@@ -62,9 +62,8 @@ Join this room: [#2025-06-04-amazon-s3](https://discord.gg/UqkCFuMX)
 --section--
 ## Upcoming Event(s)
 
-* June 11: Simple, Reliable Sagas in Java and Temporal by Peter Sullivan (https://lu.ma/3ucoh16v)
-* July (pending): Lightning Talks with optional practice session
-* August 18 or 20: Francois Martin (from Karakun in Switzerland)
+* July 24 (To be confirmed - jointly with [AI Collective Chicago](https://aicollective.com/chapters/chicago)): Lightning Talks with optional practice session
+* August 19 (To be confirmed): Francois Martin (from Karakun in Switzerland)
 * September: Gerrit Grunwald from Azul
 <br/><br/>
 #### Other confirmed speakers include: 
