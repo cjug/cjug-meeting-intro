@@ -1,10 +1,18 @@
 ### Chicago Java Users Group
 ---
-#### June 11, 2025
-### Simple, Reliable Sagas in Java and Temporal
-### by Peter Sullivan
+### July 24, 2025
+## Lightning Talks / Open Mic
+#### by Members of CJUG, CKUG and the AI Collective - Chicago
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
+</div>
+
+--section--
+## In Collaboration with
+#### Chicago Kotlin Users Group and the AI Collective (Chicago Chapter)
+<div style="background-color: white; margin-top: 10px;">
+	<img src="images/ckug.jpeg" style="border: 20px; box-shadow:none; margin:5px"/>
+	<img src="images/aicollective.jpg" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
 
 --section--
@@ -13,7 +21,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3FSB7nR](https://bit.ly/3FSB7nR)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3IIpQaW](https://bit.ly/3IIpQaW)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -49,7 +57,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-06-11-sagas-temporal](https://discord.gg/zCpDKjbmYJ)
+Join this room: [#2025-07-24-lightning-openmic-community](https://discord.gg/R7M79NXW)
 
 --section--
 ##Community Info
@@ -62,9 +70,8 @@ Join this room: [#2025-06-11-sagas-temporal](https://discord.gg/zCpDKjbmYJ)
 --section--
 ## Upcoming Event(s)
 
-* July 24 (To be confirmed - jointly with [AI Collective Chicago](https://aicollective.com/chapters/chicago)): Lightning Talks with optional practice session
-* August 19 (To be confirmed): Francois Martin (from Karakun in Switzerland)
-* September: Gerrit Grunwald from Azul
+* August 19: Francois Martin (from Karakun in Switzerland) https://lu.ma/2ii512i5
+* September: Haoyi Li (from Databricks in Singapore)
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
@@ -74,8 +81,6 @@ Join this room: [#2025-06-11-sagas-temporal](https://discord.gg/zCpDKjbmYJ)
 --section--
 ## Interested in speaking at CJUG?
 <br/>Submit your proposals to: **present@cjug.org**<br/>
-
-<br/> Send us your lightning talk proposals (for July 2025)!!
 
 --section--
 

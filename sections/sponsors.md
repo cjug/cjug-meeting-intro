@@ -1,19 +1,10 @@
-# Our Gold Sponsor
+### Our Gold Sponsor - Expired June 2025 - Thank You
 <img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Neo4j Community Contest - Monthly Raffle!
-<img src="images/neo4j_2024_raffle.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Our Venue Host: Illinois Institute of Technology (IIT)
 
---section--
-### Our Venue Host: Improving
-
-<img src="images/Improving.png" style="border:none; box-shadow:none; margin: 30px"/>
-
---section--
-### Our Event Host: Temporal
-
-<img src="images/Temporal.png" style="border:none; box-shadow:none; margin: 30px"/>
+<img src="images/IIT.png" style="border:none; box-shadow:none; margin: 30px"/>
 
 
 --section--

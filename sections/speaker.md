@@ -1,8 +1,9 @@
-### Our Speaker from Temporal
-
-## Peter Sullivan [@petervsullivan](https://www.linkedin.com/in/petervsullivan/)
-- Senior Manager of Solutions Architecture at Temporal
-- Extensive consulting and solutions architecture experiences at major companies such as VMWare/Pivotal
+### Our Speakers from the joint Communities
+</br>
+### Juan Peredo [@juanperedotech](https://www.linkedin.com/in/juanperedotech/)
+### Jerason Banes [@jerason-banes](https://www.linkedin.com/in/jerason-banes-3594977a/)
+</br>
+###### Josh Austin **cancelled due to exposure to COVID
 
 
 
