@@ -1,19 +1,28 @@
 ### Chicago Java Users Group
 ---
-### July 24, 2025
-## Lightning Talks / Open Mic
-#### by Members of CJUG, CKUG and the AI Collective - Chicago
+#### August 19, 2025
+### 82 Bugs I Collected in a Year 
+#### You Won't Believe
+### Made It to Production
+## by Francois Martin
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
 
 --section--
 ## In Collaboration with
-#### Chicago Kotlin Users Group and the AI Collective (Chicago Chapter)
+#### Chicago Kotlin Users Group
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/ckug.jpeg" style="border: 20px; box-shadow:none; margin:5px"/>
-	<img src="images/aicollective.jpg" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
+
+--section--
+# IMPORTANT ANNOUNCEMENT
+### WE ARE MIGRATING OUR MEMBERSHIP & EVENT PLATFORM TO
+##  LUMA
+### Please subscribe to: https://lu.ma/cjug
+<br/>
+#### Last Day on Meetup.com: *August 24*
 
 --section--
 ## Today's Raffle
@@ -21,7 +30,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3IIpQaW](https://bit.ly/3IIpQaW)
+##### Submit your info here to enter into the drawings: [https://bit.ly/45sdexD](https://bit.ly/45sdexD)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -30,7 +39,7 @@
  * Please start using Luma: [https://lu.ma/cjug](https://lu.ma/cjug)
  * Chicago Tech Slack (http://www.chicago-tech.slack.com/)
  * Current Java News! (http://www.javaoffheap.com)
- * (to be deprecated by end-of-year) meetup.com (https://www.meetup.com/ChicagoJUG/)
+ * (to be deprecated by *August 24*) meetup.com (https://www.meetup.com/ChicagoJUG/)
 
 --section--
 #Toot!
@@ -57,7 +66,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-07-24-lightning-openmic-community](https://discord.gg/R7M79NXW)
+Join this room: [#2025-08-19-82-bugs-in-production](https://discord.gg/7y7jmrCs)
 
 --section--
 ##Community Info
@@ -70,8 +79,9 @@ Join this room: [#2025-07-24-lightning-openmic-community](https://discord.gg/R7M
 --section--
 ## Upcoming Event(s)
 
-* August 19: Francois Martin (from Karakun in Switzerland) https://lu.ma/2ii512i5
-* September: Haoyi Li (from Databricks in Singapore)
+* September ? TBD:
+* October: Discover will be sponsoring / Java 25
+* November ? TBD: Michael Carducci? Haoyi Li? (postponed?)
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)

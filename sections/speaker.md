@@ -1,9 +1,12 @@
-### Our Speakers from the joint Communities
+### Our Speaker Today
 </br>
-### Juan Peredo [@juanperedotech](https://www.linkedin.com/in/juanperedotech/)
-### Jerason Banes [@jerason-banes](https://www.linkedin.com/in/jerason-banes-3594977a/)
-</br>
-###### Josh Austin **cancelled due to exposure to COVID
+### Francois Martin [@fmartin_](https://www.linkedin.com/in/fran%C3%A7oismartin/)
+- Senior Full-Stack Software Engineer at Karakun (Switzerland)
+- International Speaker
+- International Software Testing Board Member
+- Author on Java, as well as Testing topics
+- Committer at PreferencesFX and WorkBenchFX
+- Fluency in German, English, and French
 
 
 

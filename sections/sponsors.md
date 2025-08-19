@@ -2,9 +2,9 @@
 <img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 --section--
-### Our Venue Host: Illinois Institute of Technology (IIT)
+### Today's Event Host and Sponsor: GrubHub
 
-<img src="images/IIT.png" style="border:none; box-shadow:none; margin: 30px"/>
+<img src="images/grubhub.jpeg" style="border:none; box-shadow:none; margin: 30px"/>
 
 
 --section--
