@@ -1,10 +1,11 @@
-### Our Gold Sponsor - Expired June 2025 - Thank You
-<img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+### Today's Event Host and Sponsor: IBM
+
+<img src="images/ibm.jpg" style="border:none; box-shadow:none; margin: 30px"/>
 
 --section--
-### Today's Event Host and Sponsor: GrubHub
 
-<img src="images/grubhub.jpeg" style="border:none; box-shadow:none; margin: 30px"/>
+### Our Gold Sponsor - Expired June 2025 - Thank You
+<img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
 
 --section--

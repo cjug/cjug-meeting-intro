@@ -1,12 +1,19 @@
-### Our Speaker Today
-</br>
-### Francois Martin [@fmartin_](https://www.linkedin.com/in/fran%C3%A7oismartin/)
-- Senior Full-Stack Software Engineer at Karakun (Switzerland)
-- International Speaker
-- International Software Testing Board Member
-- Author on Java, as well as Testing topics
-- Committer at PreferencesFX and WorkBenchFX
-- Fluency in German, English, and French
+### Speaker #1 from IBM:
+
+### Madhu Bhangi [@madhu-bhangi ](https://www.linkedin.com/in/madhu-bhangi)
+- Principal Sales Architect at IBM
+- AI & Automation Design, Deployment
+- Enterpirse Architect in Cloud, Middleware, Containers
+- Previous companies included CenturyLink, Qwest Communications
+
+
+--section--
+### Speaker #2 from IBM:
+
+### Kalyan Tatavarthy [@kalyan-tatavarthy](https://www.linkedin.com/in/kalyan-tatavarthy)
+- Customer Success Architect at IBM
+- Product areas include WatsonX, Guardium
+- Previous companies included Kiteworks, Accellion
 
 
 
