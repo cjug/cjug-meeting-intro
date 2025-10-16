@@ -1,16 +1,16 @@
 ## Chicago Java Users Group
 ---
-#### September 15, 2025
-## Infrastructure Resource Monitoring
-## & Data Security for Developers
-### by Madhu Bhangi and Kalyan Tatavarthy (from IBM)
+#### October 16, 2025
+## Java Global Insights:
+### Innovation w/ Discover and Brazilian Experts
+### Speakers: Ankith, Bruno, Luiz, Thiago
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
 
 --section--
 # IMPORTANT ANNOUNCEMENT
-### WE HAVE MIGRATED OUR MEMBERSHIP & EVENT PLATFORM TO
+#### WE HAVE MIGRATED OUR MEMBERSHIP & EVENT PLATFORM TO
 ##  LUMA
 ### Please subscribe to: https://lu.ma/cjug
 <br/>
@@ -22,7 +22,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/47PQfhD](https://bit.ly/47PQfhD)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4qeq9eN](https://bit.ly/4qeq9eN)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -57,7 +57,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-09-15-infra-monitoring-datasec-ibm](https://discord.gg/23qBZa9K)
+Join this room: [#2025-10-16-discover-and-brazilian-experts](https://discord.gg/eqg7csan)
 
 --section--
 ##Community Info
@@ -70,13 +70,33 @@ Join this room: [#2025-09-15-infra-monitoring-datasec-ibm](https://discord.gg/23
 --section--
 ## Upcoming Event(s)
 
-* October 16: Sponsored by Discover Financial Services - (Billy Korando-Java 25? & Ankith Jain-SpringAI)
 * November 13: Michael Carducci - (Microservices)
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
 #### Full-length Un-Meetup (let us know if you're interested)
+
+--section--
+## Conference Info
+##### by No Fluff Just Stuff
+************************************
+Conference:  API Conf 2025
+<br>
+Dates:       Dec 1-3, 2025
+<br>
+Venue:       Opal Sands
+<br>
+Location:    Clearwater, FL
+<br>
+URL:         https://apiconf.io
+*************************************
+
+Early Bird Registration good thru 10/31:  **$1,425/person**
+
+Save $200 with JUG Discount Code:  **api25jug2**
+
+Group Discounts available thru 10/31:  **Register 4 and receive 2 additional complimentary passes**
 
 --section--
 ## Interested in speaking at CJUG?

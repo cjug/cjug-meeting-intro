@@ -1,11 +1,6 @@
-### Today's Event Host and Sponsor: IBM
+### Today's Event Host and Sponsor: Discover
 
-<img src="images/ibm.jpg" style="border:none; box-shadow:none; margin: 30px"/>
-
---section--
-
-### Our Gold Sponsor - Expired June 2025 - Thank You
-<img src="images/neo4j.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
+<img src="images/discover-on-white.jpeg" style="border:none; box-shadow:none; margin: 30px"/>
 
 
 --section--
