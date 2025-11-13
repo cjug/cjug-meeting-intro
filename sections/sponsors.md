@@ -1,7 +1,11 @@
-### Today's Event Host and Sponsor: Discover
+### Today's Event Host: IBM (via Madhu Bhangi)
 
-<img src="images/discover-on-white.jpeg" style="border:none; box-shadow:none; margin: 30px"/>
+<img src="images/ibm.jpg" style="border:none; box-shadow:none; margin: 30px"/>
 
+--section--
+### Today's Refreshment Sponsor: Magician.Code
+
+<img src="images/Michael-Carducci-Magician-Codes.jpg" style="border:none; box-shadow:none; margin: 30px"/>
 
 --section--
 # Friends of CJUG

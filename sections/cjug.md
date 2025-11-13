@@ -1,9 +1,8 @@
 ## Chicago Java Users Group
 ---
-#### October 16, 2025
-## Java Global Insights:
-### Innovation w/ Discover and Brazilian Experts
-### Speakers: Ankith, Bruno, Luiz, Thiago
+#### November 13, 2025
+## Six Secrets to Succeeding with Microservices
+### (with the Magician):  Michael Carducci
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
@@ -22,7 +21,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/4qeq9eN](https://bit.ly/4qeq9eN)
+##### Submit your info here to enter into the drawings: [https://bit.ly/3WUzFGw](https://bit.ly/3WUzFGw)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -57,7 +56,7 @@
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-10-16-discover-and-brazilian-experts](https://discord.gg/eqg7csan)
+Join this room: [#2025-11-13-microservices-6-succeeding-secrets](https://discord.gg/NBXfbZG2)
 
 --section--
 ##Community Info
@@ -70,7 +69,7 @@ Join this room: [#2025-10-16-discover-and-brazilian-experts](https://discord.gg/
 --section--
 ## Upcoming Event(s)
 
-* November 13: Michael Carducci - (Microservices)
+* 2026 - Not confirmed yet but at least 3 speakers have shown great interests in presenting
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
