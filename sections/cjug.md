@@ -1,8 +1,8 @@
 ## Chicago Java Users Group
 ---
-#### November 13, 2025
-## Six Secrets to Succeeding with Microservices
-### (with the Magician):  Michael Carducci
+#### January 29, 2026
+## To Java \[n\] And Beyond
+### with Billy Korando (Everyone's Favorite)
 <div style="background-color: white; margin-top: 10px;">
 	<img src="images/cjug.gif" style="border: 20px; box-shadow:none; margin:5px"/>
 </div>
@@ -21,7 +21,7 @@
 <img src="images/JetBrains-2022-twitter.jpg" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <img src="images/CJUG-JB-raffle-QR.png" style="border:none; box-shadow:none; margin: 14px; background:white;"/>
 <br/>
-##### Submit your info here to enter into the drawings: [https://bit.ly/3WUzFGw](https://bit.ly/3WUzFGw)
+##### Submit your info here to enter into the drawings: [https://bit.ly/4k7D67z](https://bit.ly/4k7D67z)
 ####NOTE: You are ineligible to participate in the JetBrains Raffles
 ####if you won a license within the last 9 months!
 
@@ -51,12 +51,13 @@
 ## CJUG Chat Channel on Discord 
 * Engage with speakers before and after meetups
 * Additional way to communicate with one another
+<br/> New security questions at registration as of 2026
 
 >[https://discord.gg/U25g437](https://discord.gg/U25g437)
 
 <img src="images/cjug-discord-qrcode.png" style="border:none; box-shadow:none; margin: 30px; background:white;"/>
 
-Join this room: [#2025-11-13-microservices-6-succeeding-secrets](https://discord.gg/NBXfbZG2)
+Join this room: [#2026-01-29-java-n-beyond](https://discord.gg/WXdd4pek)
 
 --section--
 ##Community Info
@@ -69,33 +70,28 @@ Join this room: [#2025-11-13-microservices-6-succeeding-secrets](https://discord
 --section--
 ## Upcoming Event(s)
 
-* 2026 - Not confirmed yet but at least 3 speakers have shown great interests in presenting
+* March (?)
+* May (pending) - Confluent
 <br/><br/>
 #### Other confirmed speakers include: 
 - Alina Yurenko (Oracle/GraalVM), Jose Paumard (Oracle)
 <br/><br/>
-#### Full-length Un-Meetup (let us know if you're interested)
+#### Un-conference style Meetup (Open Mic)
 
 --section--
 ## Conference Info
-##### by No Fluff Just Stuff
+##### Devnexus
 ************************************
-Conference:  API Conf 2025
+Conference:  Devnexus
 <br>
-Dates:       Dec 1-3, 2025
+Dates:       March 4-6, 2026
 <br>
-Venue:       Opal Sands
+Location:    Atlanta, GA
 <br>
-Location:    Clearwater, FL
-<br>
-URL:         https://apiconf.io
+URL:         https://devnexus.com
 *************************************
 
-Early Bird Registration good thru 10/31:  **$1,425/person**
-
-Save $200 with JUG Discount Code:  **api25jug2**
-
-Group Discounts available thru 10/31:  **Register 4 and receive 2 additional complimentary passes**
+50% JUG Discount Code:  **DN26JAVA**
 
 --section--
 ## Interested in speaking at CJUG?

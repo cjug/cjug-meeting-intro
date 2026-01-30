@@ -1,11 +1,8 @@
-### Today's Event Host: IBM (via Madhu Bhangi)
+### Today's Event Host: Microsoft Chicago
 
-<img src="images/ibm.jpg" style="border:none; box-shadow:none; margin: 30px"/>
+## Thank to David Giard for booking the venue for us
 
---section--
-### Today's Refreshment Sponsor: Magician.Code
-
-<img src="images/Michael-Carducci-Magician-Codes.jpg" style="border:none; box-shadow:none; margin: 30px"/>
+<img src="images/microsoft-standard.png" style="border:none; box-shadow:none; margin: 30px"/>
 
 --section--
 # Friends of CJUG

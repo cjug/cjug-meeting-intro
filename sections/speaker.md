@@ -1,10 +1,12 @@
-### Our special speaker: The Magician
+### Our special speaker: Billy Korando
 
-### Michael Carducci [@michaelcarducci](https://www.linkedin.com/in/michaelcarducci/)
-- Multipotentialite Magician & Holistic Software Architect based in Denver
-- International speaker and Technologist, speaking at well-known conferences such as UberConf, No Fluff Just Stuff, GIDS in Bangalore, etc
-- Trainer
-- Professional Magician
+### Billy Korando [@BillyKorando](https://www.linkedin.com/in/billy-korando-129b8197/)
+- Developer Advocate at Oracle
+- Co-Leader of the Kansas City Java Users Group
+- Very experienced in software engineering and consulting
+- Java and Spring
+-  Big Fan of the Kansas City Chiefs !!
+
 
 
 

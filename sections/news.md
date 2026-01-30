@@ -1,7 +1,7 @@
 # News 
 
 --section--
-## Java 25 Launched:  9/16/2025
+## Java 26 soon to be launched:  3/17/2026
 
-Launch Stream:  https://dev.java/community/java-25-launch
+Stay tuned for their Launch Stream!
 
